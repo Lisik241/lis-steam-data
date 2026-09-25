@@ -730,6 +730,10 @@ class HistoryIntegrityTests(unittest.TestCase):
                 "delivery": "direct_or_unknown",
                 "key_region_status": None,
                 "content_kind": "game_or_other",
+                "is_new": False,
+                "band_changed": False,
+                "previous_band": "skip",
+                "previous_score": 0,
             },
             history["items"]["gamerpower:3486"],
         )
