@@ -1,0 +1,44 @@
+name: Update Steam data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: steam-data-main-writer
+  cancel-in-progress: false
+
+jobs:
+  update-steam-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Update Steam data
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_COUNTRY_CODE: RU
+          STEAM_LANGUAGE: russian
+        run: python scripts/update_steam_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "steam-data-bot"
+          git config user.email "steam-data-bot@users.noreply.github.com"
+          git add library.json wishlist.json dlc_catalog.json owned_dlc.json
+          git diff --cached --quiet || git commit -m "Update Steam data"
+          git push
