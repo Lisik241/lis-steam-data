@@ -28,6 +28,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Run Steam data regression tests
+        run: python -m unittest -v test_update_steam_data.py test_workflow_concurrency.py
+
       - name: Update Steam data
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
