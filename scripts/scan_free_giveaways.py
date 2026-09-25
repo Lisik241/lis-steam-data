@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Steam giveaway hunter v0.7.0 for Karai.
+Steam giveaway hunter v0.7.1 for Lis.
 
 Main changes:
 - DLC ownership chain comes before taste: if the required base game is not owned,
@@ -41,7 +41,7 @@ GAMERPOWER_URL = "https://www.gamerpower.com/api/giveaways?platform=steam"
 STEAM_SEARCH_URL = "https://store.steampowered.com/api/storesearch/"
 STEAM_APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 
-USER_AGENT = "KaraiSteamHunter/0.7.0"
+USER_AGENT = "LisSteamHunter/0.7.1"
 REQUEST_DELAY_SECONDS = 0.35
 SNAPSHOT_HEARTBEAT_SECONDS = 24 * 60 * 60
 
