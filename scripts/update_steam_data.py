@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-STEAM_ID = "76561199832779057"
+ACCOUNT_FILE = Path("steam_account.json")
 
 LIBRARY_FILE = Path("library.json")
 WISHLIST_FILE = Path("wishlist.json")
@@ -25,7 +25,21 @@ APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails"
 
 COUNTRY_CODE = os.environ.get("STEAM_COUNTRY_CODE", "RU").strip().upper() or "RU"
 LANGUAGE = os.environ.get("STEAM_LANGUAGE", "russian").strip() or "russian"
-USER_AGENT = "Lis-Steam-Data-Updater/3.0"
+USER_AGENT = "Lis-Steam-Data-Updater/3.1"
+
+
+def load_steam_id() -> str:
+    try:
+        account = json.loads(ACCOUNT_FILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise RuntimeError(f"Could not read {ACCOUNT_FILE}: {exc}") from exc
+    steamid = str(account.get("steamid", "")).strip()
+    if not steamid.isdigit() or len(steamid) != 17:
+        raise RuntimeError(f"{ACCOUNT_FILE} must contain a valid 17-digit steamid.")
+    return steamid
+
+
+STEAM_ID = load_steam_id()
 
 
 class SteamRequestError(RuntimeError):
@@ -571,7 +585,7 @@ def update_owned_dlc(
             else:
                 # Seed rules are used only for the initial known snapshot.
                 # Once owned_dlc.json exists, every newly discovered App ID
-                # is deliberately unknown until Karai confirms it.
+                # is deliberately unknown until it is explicitly confirmed.
                 if previous:
                     status = "unknown"
                     source = "new_dlc"
