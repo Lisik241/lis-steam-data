@@ -1193,6 +1193,9 @@ def update_history_record(
 ):
     key = f"gamerpower:{candidate.get('source_id')}"
     old = history["items"].get(key, {})
+    is_new = not bool(old)
+    previous_band = old.get("last_band")
+    previous_score = old.get("last_score")
     record = {
         "title": candidate["title"],
         "first_seen": old.get("first_seen", now),
@@ -1204,6 +1207,10 @@ def update_history_record(
         "delivery": candidate.get("delivery"),
         "key_region_status": candidate.get("key_region_status"),
         "content_kind": candidate.get("content_kind"),
+        "is_new": is_new,
+        "band_changed": previous_band is not None and previous_band != band,
+        "previous_band": previous_band,
+        "previous_score": previous_score,
     }
     if filter_reason is not None:
         record["last_filter_reason"] = filter_reason
