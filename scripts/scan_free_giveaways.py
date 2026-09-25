@@ -44,6 +44,7 @@ STEAM_APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 USER_AGENT = "LisSteamHunter/0.7.1"
 REQUEST_DELAY_SECONDS = 0.35
 SNAPSHOT_HEARTBEAT_SECONDS = 24 * 60 * 60
+STALE_DATA_SECONDS = 36 * 60 * 60
 
 
 class SourceRequestError(RuntimeError):
@@ -1192,6 +1193,9 @@ def update_history_record(
 ):
     key = f"gamerpower:{candidate.get('source_id')}"
     old = history["items"].get(key, {})
+    is_new = not bool(old)
+    previous_band = old.get("last_band")
+    previous_score = old.get("last_score")
     record = {
         "title": candidate["title"],
         "first_seen": old.get("first_seen", now),
@@ -1203,12 +1207,29 @@ def update_history_record(
         "delivery": candidate.get("delivery"),
         "key_region_status": candidate.get("key_region_status"),
         "content_kind": candidate.get("content_kind"),
+        "is_new": is_new,
+        "band_changed": previous_band is not None and previous_band != band,
+        "previous_band": previous_band,
+        "previous_score": previous_score,
     }
     if filter_reason is not None:
         record["last_filter_reason"] = filter_reason
     if ownership_reason is not None:
         record["last_ownership_reason"] = ownership_reason
     history["items"][key] = record
+
+
+def data_age_status(payload, now):
+    raw = payload.get("updated_at_utc") if isinstance(payload, dict) else None
+    if not raw:
+        return {"stale": True, "age_seconds": None, "reason": "missing_updated_at"}
+    try:
+        updated = datetime.fromisoformat(raw)
+        current = datetime.fromisoformat(now)
+    except (TypeError, ValueError):
+        return {"stale": True, "age_seconds": None, "reason": "invalid_updated_at"}
+    age = max(0, int((current - updated).total_seconds()))
+    return {"stale": age > STALE_DATA_SECONDS, "age_seconds": age, "reason": None}
 
 
 def main():
@@ -1242,6 +1263,11 @@ def main():
 
     normalized, matches = [], []
     now = utc_now_iso()
+    input_status = {
+        "library": data_age_status(library, now),
+        "owned_dlc": data_age_status(owned_dlc_data, now),
+        "taste_profile_loaded": TASTE_FILE.exists() and bool(taste),
+    }
 
     for source_item in raw:
         candidate = normalize_gamerpower(source_item)
@@ -1492,8 +1518,9 @@ def main():
     matches_payload = {
         "schema_version": "0.7.0",
         "updated_at_utc": now,
-        "run_degraded": bool(source_errors),
+        "run_degraded": bool(source_errors) or input_status["library"]["stale"] or input_status["owned_dlc"]["stale"],
         "source_errors": source_errors,
+        "input_status": input_status,
         "region": (taste.get("hard_filters") or {}).get("region", "RU"),
         "match_count": len(matches),
         "bands": {
@@ -1514,6 +1541,9 @@ def main():
 
     print(f"GamerPower candidates: {len(normalized)}")
     print(f"Filtered candidates: {len(matches)}")
+    print(f"Taste profile loaded: {input_status['taste_profile_loaded']}")
+    if input_status["library"]["stale"] or input_status["owned_dlc"]["stale"]:
+        print("WARNING: giveaway recommendations are using stale or incomplete Steam account data.")
 
     for item in matches[:20]:
         taste_info = item.get("taste") or {}
