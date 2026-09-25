@@ -1,0 +1,43 @@
+name: Scan Steam giveaways
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: steam-data-main-writer
+  cancel-in-progress: false
+
+jobs:
+  scan-steam-giveaways:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run hunter regression tests
+        run: python -m unittest -v test_scan_free_giveaways.py
+
+      - name: Scan Steam giveaways
+        run: python scripts/scan_free_giveaways.py
+
+      - name: Commit giveaway data
+        run: |
+          git config user.name "steam-hunter-bot"
+          git config user.email "steam-hunter-bot@users.noreply.github.com"
+          git add giveaways.json giveaway_matches.json giveaway_history.json
+          git diff --cached --quiet || git commit -m "Update Steam giveaway scan"
+          git push
