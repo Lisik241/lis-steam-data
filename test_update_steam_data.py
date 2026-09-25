@@ -21,6 +21,13 @@ class _Response:
         return self.body
 
 
+class DlcFallbackTests(unittest.TestCase):
+    def test_extracts_dlc_appids_from_store_page(self):
+        html = b'<a href="https://store.steampowered.com/app/3022790/RimWorld__Odyssey/">Odyssey</a><a href="https://store.steampowered.com/app/294100/RimWorld/">Base</a>'
+        with mock.patch.object(updater.urllib.request, "urlopen", return_value=_Response(html)):
+            self.assertEqual(updater.get_store_dlc_ids(294100), [3022790])
+
+
 class FetchJsonErrorTests(unittest.TestCase):
     def assert_category(self, side_effect, expected):
         with mock.patch.object(updater.urllib.request, "urlopen", side_effect=side_effect):

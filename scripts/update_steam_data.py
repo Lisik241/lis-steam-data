@@ -7,6 +7,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -31,6 +32,7 @@ OWNED_DLC_FILE = Path("owned_dlc.json")
 LIBRARY_API_URL = "https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/"
 WISHLIST_API_URL = "https://api.steampowered.com/IWishlistService/GetWishlist/v1/"
 APP_DETAILS_URL = "https://store.steampowered.com/api/appdetails"
+DLC_PAGE_URL = "https://store.steampowered.com/dlc"
 
 COUNTRY_CODE = os.environ.get("STEAM_COUNTRY_CODE", "RU").strip().upper() or "RU"
 LANGUAGE = os.environ.get("STEAM_LANGUAGE", "russian").strip() or "russian"
@@ -176,6 +178,25 @@ def get_app_details(appid: int) -> dict[str, Any] | None:
 
     data = entry.get("data")
     return data if isinstance(data, dict) else None
+
+
+def get_store_dlc_ids(appid: int) -> list[int]:
+    """Fallback: read DLC app IDs from Steam's public DLC page."""
+    url = f"{DLC_PAGE_URL}/{appid}/?l=english"
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(request, timeout=45) as response:
+            html = response.read().decode("utf-8", errors="replace")
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, socket.timeout) as exc:
+        print(f"  DLC page fallback failed for {appid}: {exc}")
+        return []
+
+    ids = {
+        int(match)
+        for match in re.findall(r"https?://store\\.steampowered\\.com/app/(\\d+)(?:/|[?\"'])", html)
+        if int(match) != appid
+    }
+    return sorted(ids)
 
 
 def clean_price(price_overview: Any) -> dict[str, Any] | None:
@@ -392,6 +413,10 @@ def update_dlc_catalog(
         dlc_ids = details.get("dlc", [])
         if not isinstance(dlc_ids, list):
             dlc_ids = []
+        if not dlc_ids:
+            dlc_ids = get_store_dlc_ids(game_appid)
+            if dlc_ids:
+                print(f"  DLC page fallback found {len(dlc_ids)} app IDs")
 
         cleaned_dlc = []
 
