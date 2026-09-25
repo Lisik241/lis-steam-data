@@ -2,10 +2,10 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-09-25T15:57:36+00:00",
+  "updated_at_utc": "2026-09-25T20:29:11+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 25,
+  "candidate_count": 24,
   "items": [
     {
       "source": "GamerPower",
@@ -405,28 +405,6 @@
         "matched_concepts": [],
         "band": "needs_review",
         "explanation": "base game unresolved or mismatched; taste scoring deferred; Steam/GamerPower metadata does not expose enough taste signals yet"
-      }
-    },
-    {
-      "source": "GamerPower",
-      "source_id": 3381,
-      "title": "DK Online: Season 4 First Steps Pack",
-      "source_title": "DK Online: Season 4 First Steps Pack (Steam) Giveaway",
-      "type": "DLC",
-      "platforms": "PC, Steam",
-      "description": "Claim your free DK Online: Season 4 First Steps Pack on Steam for a limited time and unlock 1000 Premium Points and 3 Premium Buff Sets (7-day duration).",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Don´t forget to install the base game first (required).\r\n3. Download this DLC directly via Steam before the offer expires.",
-      "worth": "N/A",
-      "published_date": "2025-11-25 08:42:29",
-      "end_date": "2026-09-25 23:59:00",
-      "status": "Active",
-      "delivery": "direct_steam_store",
-      "content_kind": "service_or_account_reward",
-      "gamerpower_url": "https://www.gamerpower.com/dk-online-season-4-first-steps-pack-steam-giveaway",
-      "key_region_status": null,
-      "pre_filter": {
-        "rejected": true,
-        "reason": "service_or_account_reward"
       }
     },
     {
