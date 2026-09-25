@@ -1,0 +1,556 @@
+{
+  "steamid": "76561199832779057",
+  "updated_at_utc": "2026-09-25T08:56:47+00:00",
+  "country_code": "RU",
+  "language": "russian",
+  "game_count_checked": 78,
+  "total_dlc_count": 0,
+  "games": [
+    {
+      "game_appid": 3669570,
+      "game_name": "Alchemy Factory",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 346110,
+      "game_name": "ARK: Survival Evolved",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 407530,
+      "game_name": "ARK: Survival Of The Fittest",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2427700,
+      "game_name": "Backpack Battles",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1970580,
+      "game_name": "Backpack Hero",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 7670,
+      "game_name": "BioShock",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 8850,
+      "game_name": "BioShock 2",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 409720,
+      "game_name": "BioShock 2 Remastered",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 8870,
+      "game_name": "BioShock Infinite",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 409710,
+      "game_name": "BioShock Remastered",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 49520,
+      "game_name": "Borderlands 2",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 217490,
+      "game_name": "Borderlands 2 RU",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 397540,
+      "game_name": "Borderlands 3",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 8980,
+      "game_name": "Borderlands GOTY",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 729040,
+      "game_name": "Borderlands GOTY Enhanced",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 261640,
+      "game_name": "Borderlands: The Pre-Sequel",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 248390,
+      "game_name": "Craft The World",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 368340,
+      "game_name": "CrossCode",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 322330,
+      "game_name": "Don't Starve Together",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2725260,
+      "game_name": "ENDER MAGNOLIA: Bloom in the Mist",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 599140,
+      "game_name": "Graveyard Keeper",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1740720,
+      "game_name": "Have a Nice Death",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 367520,
+      "game_name": "Hollow Knight",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1030300,
+      "game_name": "Hollow Knight: Silksong",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2420110,
+      "game_name": "Horizon Forbidden West™ Complete Edition",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1151640,
+      "game_name": "Horizon Zero Dawn™ Complete Edition",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2561580,
+      "game_name": "Horizon Zero Dawn™ Remastered",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 613100,
+      "game_name": "House Flipper",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 3326230,
+      "game_name": "Hozy",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2456740,
+      "game_name": "inZOI",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 3092450,
+      "game_name": "inZOI: Creative Studio",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1426210,
+      "game_name": "It Takes Two",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1627720,
+      "game_name": "Lies of P",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1594940,
+      "game_name": "Little Witch in the Woods",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1084600,
+      "game_name": "My Time at Sandrock",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1454970,
+      "game_name": "New Tales from the Borderlands",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 471550,
+      "game_name": "Nine Parchments",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1809540,
+      "game_name": "Nine Sols",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2139460,
+      "game_name": "Once Human",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 11450,
+      "game_name": "Overlord",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 12810,
+      "game_name": "Overlord II",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 306670,
+      "game_name": "Overlord: Fellowship of Evil",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 12710,
+      "game_name": "Overlord: Raising Hell",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1623730,
+      "game_name": "Palworld",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1184370,
+      "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 374040,
+      "game_name": "Portal Knights",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 108600,
+      "game_name": "Project Zomboid",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 312520,
+      "game_name": "Rain World",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1895880,
+      "game_name": "Ratchet & Clank: Rift Apart",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2244130,
+      "game_name": "Ratopia",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 617290,
+      "game_name": "Remnant: From the Ashes",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 294100,
+      "game_name": "RimWorld",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 526870,
+      "game_name": "Satisfactory",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1172620,
+      "game_name": "Sea of Thieves",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 4641700,
+      "game_name": "Sill Cats ",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 433340,
+      "game_name": "Slime Rancher",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1657630,
+      "game_name": "Slime Rancher 2",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1213700,
+      "game_name": "Spirit of the North",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 972660,
+      "game_name": "Spiritfarer®: Farewell Edition",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 242640,
+      "game_name": "Styx: Master of Shadows",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 355790,
+      "game_name": "Styx: Shards of Darkness",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 330830,
+      "game_name": "Tales from the Borderlands",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 489830,
+      "game_name": "The Elder Scrolls V: Skyrim Special Edition",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2074920,
+      "game_name": "The First Descendant",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1272160,
+      "game_name": "The Life and Suffering of Sir Brante",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 986040,
+      "game_name": "The Unliving",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 292030,
+      "game_name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1062090,
+      "game_name": "Timberborn",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2064650,
+      "game_name": "Tower of Fantasy",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 35700,
+      "game_name": "Trine",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 35720,
+      "game_name": "Trine 2",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 319910,
+      "game_name": "Trine 3: The Artifacts of Power",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 690640,
+      "game_name": "Trine 4: The Nightmare Prince",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1436700,
+      "game_name": "Trine 5: A Clockwork Conspiracy",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1225570,
+      "game_name": "Unravel Two",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1604030,
+      "game_name": "V Rising",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 230410,
+      "game_name": "Warframe",
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2489330,
+      "game_name": "Whiskerwood",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
+    }
+  ]
+}

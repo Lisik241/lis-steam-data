@@ -1,0 +1,718 @@
+{
+  "steamid": "76561199832779057",
+  "updated_at_utc": "2026-09-25T08:56:47+00:00",
+  "catalog_updated_at_utc": "2026-09-25T08:56:47+00:00",
+  "policy": {
+    "new_dlc_status": "unknown",
+    "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
+  },
+  "totals": {
+    "owned": 0,
+    "not_owned": 0,
+    "unknown": 0
+  },
+  "games": [
+    {
+      "game_appid": 3669570,
+      "game_name": "Alchemy Factory",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 346110,
+      "game_name": "ARK: Survival Evolved",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 407530,
+      "game_name": "ARK: Survival Of The Fittest",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2427700,
+      "game_name": "Backpack Battles",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1970580,
+      "game_name": "Backpack Hero",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 7670,
+      "game_name": "BioShock",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 8850,
+      "game_name": "BioShock 2",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 409720,
+      "game_name": "BioShock 2 Remastered",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 8870,
+      "game_name": "BioShock Infinite",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 409710,
+      "game_name": "BioShock Remastered",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 49520,
+      "game_name": "Borderlands 2",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 217490,
+      "game_name": "Borderlands 2 RU",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 397540,
+      "game_name": "Borderlands 3",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 8980,
+      "game_name": "Borderlands GOTY",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 729040,
+      "game_name": "Borderlands GOTY Enhanced",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 261640,
+      "game_name": "Borderlands: The Pre-Sequel",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 248390,
+      "game_name": "Craft The World",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 368340,
+      "game_name": "CrossCode",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 322330,
+      "game_name": "Don't Starve Together",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2725260,
+      "game_name": "ENDER MAGNOLIA: Bloom in the Mist",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 599140,
+      "game_name": "Graveyard Keeper",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1740720,
+      "game_name": "Have a Nice Death",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 367520,
+      "game_name": "Hollow Knight",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1030300,
+      "game_name": "Hollow Knight: Silksong",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2420110,
+      "game_name": "Horizon Forbidden West™ Complete Edition",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1151640,
+      "game_name": "Horizon Zero Dawn™ Complete Edition",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2561580,
+      "game_name": "Horizon Zero Dawn™ Remastered",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 613100,
+      "game_name": "House Flipper",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 3326230,
+      "game_name": "Hozy",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2456740,
+      "game_name": "inZOI",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 3092450,
+      "game_name": "inZOI: Creative Studio",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1426210,
+      "game_name": "It Takes Two",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1627720,
+      "game_name": "Lies of P",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1594940,
+      "game_name": "Little Witch in the Woods",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1084600,
+      "game_name": "My Time at Sandrock",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1454970,
+      "game_name": "New Tales from the Borderlands",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 471550,
+      "game_name": "Nine Parchments",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1809540,
+      "game_name": "Nine Sols",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2139460,
+      "game_name": "Once Human",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 11450,
+      "game_name": "Overlord",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 12810,
+      "game_name": "Overlord II",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 306670,
+      "game_name": "Overlord: Fellowship of Evil",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 12710,
+      "game_name": "Overlord: Raising Hell",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1623730,
+      "game_name": "Palworld",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1184370,
+      "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 374040,
+      "game_name": "Portal Knights",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 108600,
+      "game_name": "Project Zomboid",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 312520,
+      "game_name": "Rain World",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1895880,
+      "game_name": "Ratchet & Clank: Rift Apart",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2244130,
+      "game_name": "Ratopia",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 617290,
+      "game_name": "Remnant: From the Ashes",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 294100,
+      "game_name": "RimWorld",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 526870,
+      "game_name": "Satisfactory",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1172620,
+      "game_name": "Sea of Thieves",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 4641700,
+      "game_name": "Sill Cats ",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 433340,
+      "game_name": "Slime Rancher",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1657630,
+      "game_name": "Slime Rancher 2",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1213700,
+      "game_name": "Spirit of the North",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 972660,
+      "game_name": "Spiritfarer®: Farewell Edition",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 242640,
+      "game_name": "Styx: Master of Shadows",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 355790,
+      "game_name": "Styx: Shards of Darkness",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 330830,
+      "game_name": "Tales from the Borderlands",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 489830,
+      "game_name": "The Elder Scrolls V: Skyrim Special Edition",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2074920,
+      "game_name": "The First Descendant",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1272160,
+      "game_name": "The Life and Suffering of Sir Brante",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 986040,
+      "game_name": "The Unliving",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 292030,
+      "game_name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1062090,
+      "game_name": "Timberborn",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2064650,
+      "game_name": "Tower of Fantasy",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 35700,
+      "game_name": "Trine",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 35720,
+      "game_name": "Trine 2",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 319910,
+      "game_name": "Trine 3: The Artifacts of Power",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 690640,
+      "game_name": "Trine 4: The Nightmare Prince",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1436700,
+      "game_name": "Trine 5: A Clockwork Conspiracy",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1225570,
+      "game_name": "Unravel Two",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 1604030,
+      "game_name": "V Rising",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 230410,
+      "game_name": "Warframe",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    },
+    {
+      "game_appid": 2489330,
+      "game_name": "Whiskerwood",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
+    }
+  ]
+}

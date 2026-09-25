@@ -1,0 +1,632 @@
+{
+  "steamid": "76561199832779057",
+  "updated_at_utc": "2026-09-25T08:56:47+00:00",
+  "game_count": 78,
+  "total_playtime_hours": 1216.0,
+  "games": [
+    {
+      "appid": 3669570,
+      "name": "Alchemy Factory",
+      "playtime_forever_minutes": 695,
+      "playtime_forever_hours": 11.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 346110,
+      "name": "ARK: Survival Evolved",
+      "playtime_forever_minutes": 896,
+      "playtime_forever_hours": 14.9,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 407530,
+      "name": "ARK: Survival Of The Fittest",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2427700,
+      "name": "Backpack Battles",
+      "playtime_forever_minutes": 169,
+      "playtime_forever_hours": 2.8,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1970580,
+      "name": "Backpack Hero",
+      "playtime_forever_minutes": 9,
+      "playtime_forever_hours": 0.1,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 7670,
+      "name": "BioShock",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 8850,
+      "name": "BioShock 2",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 409720,
+      "name": "BioShock 2 Remastered",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 8870,
+      "name": "BioShock Infinite",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 409710,
+      "name": "BioShock Remastered",
+      "playtime_forever_minutes": 575,
+      "playtime_forever_hours": 9.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 217490,
+      "name": "Borderlands 2 RU",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 397540,
+      "name": "Borderlands 3",
+      "playtime_forever_minutes": 148,
+      "playtime_forever_hours": 2.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 8980,
+      "name": "Borderlands GOTY",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 729040,
+      "name": "Borderlands GOTY Enhanced",
+      "playtime_forever_minutes": 132,
+      "playtime_forever_hours": 2.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 261640,
+      "name": "Borderlands: The Pre-Sequel",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 248390,
+      "name": "Craft The World",
+      "playtime_forever_minutes": 202,
+      "playtime_forever_hours": 3.4,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 368340,
+      "name": "CrossCode",
+      "playtime_forever_minutes": 96,
+      "playtime_forever_hours": 1.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 322330,
+      "name": "Don't Starve Together",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2725260,
+      "name": "ENDER MAGNOLIA: Bloom in the Mist",
+      "playtime_forever_minutes": 426,
+      "playtime_forever_hours": 7.1,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 599140,
+      "name": "Graveyard Keeper",
+      "playtime_forever_minutes": 755,
+      "playtime_forever_hours": 12.6,
+      "playtime_2weeks_minutes": 5,
+      "playtime_2weeks_hours": 0.1
+    },
+    {
+      "appid": 1740720,
+      "name": "Have a Nice Death",
+      "playtime_forever_minutes": 207,
+      "playtime_forever_hours": 3.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 367520,
+      "name": "Hollow Knight",
+      "playtime_forever_minutes": 2783,
+      "playtime_forever_hours": 46.4,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "playtime_forever_minutes": 5677,
+      "playtime_forever_hours": 94.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2420110,
+      "name": "Horizon Forbidden West™ Complete Edition",
+      "playtime_forever_minutes": 2902,
+      "playtime_forever_hours": 48.4,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1151640,
+      "name": "Horizon Zero Dawn™ Complete Edition",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2561580,
+      "name": "Horizon Zero Dawn™ Remastered",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 613100,
+      "name": "House Flipper",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 3326230,
+      "name": "Hozy",
+      "playtime_forever_minutes": 192,
+      "playtime_forever_hours": 3.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2456740,
+      "name": "inZOI",
+      "playtime_forever_minutes": 179,
+      "playtime_forever_hours": 3.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 3092450,
+      "name": "inZOI: Creative Studio",
+      "playtime_forever_minutes": 26,
+      "playtime_forever_hours": 0.4,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1426210,
+      "name": "It Takes Two",
+      "playtime_forever_minutes": 326,
+      "playtime_forever_hours": 5.4,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1627720,
+      "name": "Lies of P",
+      "playtime_forever_minutes": 150,
+      "playtime_forever_hours": 2.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1594940,
+      "name": "Little Witch in the Woods",
+      "playtime_forever_minutes": 180,
+      "playtime_forever_hours": 3.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1084600,
+      "name": "My Time at Sandrock",
+      "playtime_forever_minutes": 2685,
+      "playtime_forever_hours": 44.8,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1454970,
+      "name": "New Tales from the Borderlands",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 471550,
+      "name": "Nine Parchments",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1809540,
+      "name": "Nine Sols",
+      "playtime_forever_minutes": 150,
+      "playtime_forever_hours": 2.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2139460,
+      "name": "Once Human",
+      "playtime_forever_minutes": 263,
+      "playtime_forever_hours": 4.4,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 11450,
+      "name": "Overlord",
+      "playtime_forever_minutes": 4,
+      "playtime_forever_hours": 0.1,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 12810,
+      "name": "Overlord II",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 306670,
+      "name": "Overlord: Fellowship of Evil",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 12710,
+      "name": "Overlord: Raising Hell",
+      "playtime_forever_minutes": 1,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1623730,
+      "name": "Palworld",
+      "playtime_forever_minutes": 1999,
+      "playtime_forever_hours": 33.3,
+      "playtime_2weeks_minutes": 785,
+      "playtime_2weeks_hours": 13.1
+    },
+    {
+      "appid": 1184370,
+      "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "playtime_forever_minutes": 315,
+      "playtime_forever_hours": 5.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 374040,
+      "name": "Portal Knights",
+      "playtime_forever_minutes": 422,
+      "playtime_forever_hours": 7.0,
+      "playtime_2weeks_minutes": 422,
+      "playtime_2weeks_hours": 7.0
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "playtime_forever_minutes": 5378,
+      "playtime_forever_hours": 89.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 312520,
+      "name": "Rain World",
+      "playtime_forever_minutes": 88,
+      "playtime_forever_hours": 1.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1895880,
+      "name": "Ratchet & Clank: Rift Apart",
+      "playtime_forever_minutes": 132,
+      "playtime_forever_hours": 2.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2244130,
+      "name": "Ratopia",
+      "playtime_forever_minutes": 354,
+      "playtime_forever_hours": 5.9,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 617290,
+      "name": "Remnant: From the Ashes",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 294100,
+      "name": "RimWorld",
+      "playtime_forever_minutes": 22253,
+      "playtime_forever_hours": 370.9,
+      "playtime_2weeks_minutes": 2215,
+      "playtime_2weeks_hours": 36.9
+    },
+    {
+      "appid": 526870,
+      "name": "Satisfactory",
+      "playtime_forever_minutes": 330,
+      "playtime_forever_hours": 5.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1172620,
+      "name": "Sea of Thieves",
+      "playtime_forever_minutes": 135,
+      "playtime_forever_hours": 2.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 4641700,
+      "name": "Sill Cats ",
+      "playtime_forever_minutes": 40,
+      "playtime_forever_hours": 0.7,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 433340,
+      "name": "Slime Rancher",
+      "playtime_forever_minutes": 1034,
+      "playtime_forever_hours": 17.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1657630,
+      "name": "Slime Rancher 2",
+      "playtime_forever_minutes": 1145,
+      "playtime_forever_hours": 19.1,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1213700,
+      "name": "Spirit of the North",
+      "playtime_forever_minutes": 39,
+      "playtime_forever_hours": 0.7,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 972660,
+      "name": "Spiritfarer®: Farewell Edition",
+      "playtime_forever_minutes": 157,
+      "playtime_forever_hours": 2.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 242640,
+      "name": "Styx: Master of Shadows",
+      "playtime_forever_minutes": 665,
+      "playtime_forever_hours": 11.1,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 355790,
+      "name": "Styx: Shards of Darkness",
+      "playtime_forever_minutes": 230,
+      "playtime_forever_hours": 3.8,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 330830,
+      "name": "Tales from the Borderlands",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 489830,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "playtime_forever_minutes": 5493,
+      "playtime_forever_hours": 91.5,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2074920,
+      "name": "The First Descendant",
+      "playtime_forever_minutes": 99,
+      "playtime_forever_hours": 1.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1272160,
+      "name": "The Life and Suffering of Sir Brante",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 986040,
+      "name": "The Unliving",
+      "playtime_forever_minutes": 365,
+      "playtime_forever_hours": 6.1,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 292030,
+      "name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "playtime_forever_minutes": 190,
+      "playtime_forever_hours": 3.2,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1062090,
+      "name": "Timberborn",
+      "playtime_forever_minutes": 1315,
+      "playtime_forever_hours": 21.9,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2064650,
+      "name": "Tower of Fantasy",
+      "playtime_forever_minutes": 587,
+      "playtime_forever_hours": 9.8,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 35700,
+      "name": "Trine",
+      "playtime_forever_minutes": 289,
+      "playtime_forever_hours": 4.8,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 35720,
+      "name": "Trine 2",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 319910,
+      "name": "Trine 3: The Artifacts of Power",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 690640,
+      "name": "Trine 4: The Nightmare Prince",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1436700,
+      "name": "Trine 5: A Clockwork Conspiracy",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1225570,
+      "name": "Unravel Two",
+      "playtime_forever_minutes": 0,
+      "playtime_forever_hours": 0.0,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1604030,
+      "name": "V Rising",
+      "playtime_forever_minutes": 37,
+      "playtime_forever_hours": 0.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 230410,
+      "name": "Warframe",
+      "playtime_forever_minutes": 9994,
+      "playtime_forever_hours": 166.6,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 2489330,
+      "name": "Whiskerwood",
+      "playtime_forever_minutes": 45,
+      "playtime_forever_hours": 0.8,
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
+    }
+  ]
+}

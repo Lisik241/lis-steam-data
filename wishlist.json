@@ -1,0 +1,230 @@
+{
+  "steamid": "76561199832779057",
+  "updated_at_utc": "2026-09-25T08:56:47+00:00",
+  "country_code": "RU",
+  "language": "russian",
+  "wishlist_count": 10,
+  "items": [
+    {
+      "appid": 1057640,
+      "name": "App 1057640",
+      "priority": 0,
+      "date_added_utc": "2025-10-24T18:55:44+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 1332010,
+      "name": "App 1332010",
+      "priority": 0,
+      "date_added_utc": "2026-06-07T18:29:55+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 1954200,
+      "name": "App 1954200",
+      "priority": 0,
+      "date_added_utc": "2025-06-28T15:52:55+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 2138330,
+      "name": "App 2138330",
+      "priority": 0,
+      "date_added_utc": "2026-05-28T10:51:50+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 243470,
+      "name": "App 243470",
+      "priority": 0,
+      "date_added_utc": "2026-05-28T10:35:17+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 2679100,
+      "name": "App 2679100",
+      "priority": 0,
+      "date_added_utc": "2026-06-07T18:30:58+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 3485810,
+      "name": "App 3485810",
+      "priority": 0,
+      "date_added_utc": "2026-03-13T15:03:55+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
+    },
+    {
+      "appid": 1210320,
+      "name": "Potion Craft: Alchemist Simulator",
+      "priority": 0,
+      "date_added_utc": "2025-10-15T19:41:08+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "Potion Craft – симулятор алхимика, в котором вы физически взаимодействуете с ингредиентами и инструментами в процессе варки зелий. Придумывайте новые рецепты, привлекайте клиентов и экспериментируйте! На вас рассчитывает весь город!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1786023837",
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 дек. 2022 г."
+      },
+      "developers": [
+        "niceplay games"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "genres": [
+        "Инди",
+        "Симуляторы"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 71000,
+        "initial_price": 710.0,
+        "final_price_minor_units": 28400,
+        "final_price": 284.0,
+        "discount_percent": 60,
+        "formatted_initial": "710 руб.",
+        "formatted_final": "284 руб."
+      },
+      "store_details_available": true
+    },
+    {
+      "appid": 648800,
+      "name": "Raft",
+      "priority": 0,
+      "date_added_utc": "2026-06-07T18:29:07+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 июн. 2022 г."
+      },
+      "developers": [
+        "Redbeet Interactive"
+      ],
+      "publishers": [
+        "Axolot Games"
+      ],
+      "genres": [
+        "Приключенческие игры",
+        "Инди",
+        "Симуляторы"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 85500,
+        "initial_price": 855.0,
+        "final_price_minor_units": 85500,
+        "final_price": 855.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "855 руб."
+      },
+      "store_details_available": true
+    },
+    {
+      "appid": 1382070,
+      "name": "Viewfinder",
+      "priority": 0,
+      "date_added_utc": "2026-06-05T14:23:25+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "Обычный фотоаппарат поможет вам преобразить реальность, усомниться в собственном восприятии и даже изменить мир. Viewfinder — новая одиночная игра-головоломка, которая увлечёт вас на много часов. Раскройте давно забытые тайны!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a69eb56f73446624325dec8a4fe74dc4ae09fb96/header.jpg?t=1764842475",
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 июл. 2023 г."
+      },
+      "developers": [
+        "Sad Owl Studios"
+      ],
+      "publishers": [
+        "Thunderful Publishing"
+      ],
+      "genres": [
+        "Приключенческие игры",
+        "Инди"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 88000,
+        "initial_price": 880.0,
+        "final_price_minor_units": 26400,
+        "final_price": 264.0,
+        "discount_percent": 70,
+        "formatted_initial": "880 руб.",
+        "formatted_final": "264 руб."
+      },
+      "store_details_available": true
+    }
+  ]
+}
