@@ -11,7 +11,16 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-STEAM_ID = "76561199832779057"
+ACCOUNT_FILE = Path("steam_account.json")
+
+def load_steam_id() -> str:
+    account = json.loads(ACCOUNT_FILE.read_text(encoding="utf-8"))
+    steam_id = str(account.get("steamid", "")).strip()
+    if not steam_id.isdigit():
+        raise RuntimeError("steam_account.json must contain a numeric steamid.")
+    return steam_id
+
+STEAM_ID = load_steam_id()
 
 LIBRARY_FILE = Path("library.json")
 WISHLIST_FILE = Path("wishlist.json")
@@ -571,7 +580,7 @@ def update_owned_dlc(
             else:
                 # Seed rules are used only for the initial known snapshot.
                 # Once owned_dlc.json exists, every newly discovered App ID
-                # is deliberately unknown until Karai confirms it.
+                # is deliberately unknown until the account owner confirms it.
                 if previous:
                     status = "unknown"
                     source = "new_dlc"
