@@ -1,17 +1,17 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-09-25T20:29:11+00:00",
+  "updated_at_utc": "2026-09-26T00:36:21+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 41544,
+      "age_seconds": 56374,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 41544,
+      "age_seconds": 56374,
       "reason": null
     },
     "taste_profile_loaded": false
