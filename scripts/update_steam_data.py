@@ -193,7 +193,7 @@ def get_store_dlc_ids(appid: int) -> list[int]:
 
     ids = {
         int(match)
-        for match in re.findall(r"https?://store\\.steampowered\\.com/app/(\\d+)(?:/|[?\"'])", html)
+        for match in re.findall(r"https?://store\.steampowered\.com/app/(\d+)(?:/|[?\"'])", html)
         if int(match) != appid
     }
     return sorted(ids)
