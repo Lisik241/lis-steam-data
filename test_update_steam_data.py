@@ -28,6 +28,30 @@ class DlcFallbackTests(unittest.TestCase):
             self.assertEqual(updater.get_store_dlc_ids(294100), [3022790])
 
 
+class DlcCatalogRateLimitTests(unittest.TestCase):
+    def test_rate_limited_dlc_metadata_is_kept_as_partial_entry(self):
+        library = [{"appid": 10, "name": "Base Game"}]
+        base_details = {"dlc": [20]}
+        rate_limit = updater.SteamRequestError(
+            "rate_limited",
+            "Steam request failed with HTTP 429.",
+            retryable=True,
+            status=429,
+        )
+
+        with mock.patch.object(
+            updater, "get_app_details", side_effect=[base_details, rate_limit]
+        ), mock.patch.object(updater.time, "sleep"), mock.patch.object(
+            updater.DLC_CATALOG_FILE, "write_text"
+        ) as write_text:
+            updater.update_dlc_catalog(library, "2026-09-28T00:00:00+00:00")
+
+        payload = __import__("json").loads(write_text.call_args.args[0])
+        self.assertEqual(payload["total_dlc_count"], 1)
+        self.assertEqual(payload["games"][0]["dlc"][0]["appid"], 20)
+        self.assertFalse(payload["games"][0]["dlc"][0]["store_details_available"])
+
+
 class FetchJsonErrorTests(unittest.TestCase):
     def assert_category(self, side_effect, expected):
         with mock.patch.object(updater.urllib.request, "urlopen", side_effect=side_effect):
