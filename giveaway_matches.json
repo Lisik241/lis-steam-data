@@ -1,17 +1,17 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-09-27T20:28:59+00:00",
+  "updated_at_utc": "2026-09-28T00:40:10+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 61110,
+      "age_seconds": 76181,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 61110,
+      "age_seconds": 76181,
       "reason": null
     },
     "taste_profile_loaded": false
@@ -23,9 +23,9 @@
     "likely_match": 0,
     "conditional": 0,
     "family_only": 0,
-    "needs_review": 8,
+    "needs_review": 5,
     "low_priority": 1,
-    "skip": 3
+    "skip": 6
   },
   "items": [
     {
@@ -122,104 +122,6 @@
     },
     {
       "source": "GamerPower",
-      "source_id": 3488,
-      "title": "Deadswitch Combat: Weapons Skins",
-      "source_title": "Deadswitch Combat: Weapons Skins Steam Key Giveaway",
-      "type": "DLC",
-      "platforms": "PC, Steam",
-      "description": "Claim your free Deadswitch Combat: Weapon Skins Bundle Steam DLC key and unlock 200+ weapon skins! Please note this DLC giveaway requires the base game and 10 ARP to claim a key. Fortunately, you can earn ARP daily for free.",
-      "instructions": "1. Create or log in to your free Alienware Arena account.\r\n2. Click the button to unlock your key.\r\n3. Launch the Steam client software and log in to your Steam account.\r\n4. Click the Games Menu. Choose Activate a Product on Steam.\r\n5. Follow the onscreen instructions to complete the process.",
-      "worth": "$9.99",
-      "published_date": "2026-02-10 15:17:23",
-      "end_date": "N/A",
-      "status": "Active",
-      "delivery": "external_steam_key",
-      "content_kind": "cosmetic_or_promo_dlc",
-      "gamerpower_url": "https://www.gamerpower.com/deadswitch-combat-weapons-skins-steam-key-giveaway",
-      "key_region_status": "unknown_no_explicit_ru_block_seen",
-      "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 3408170,
-        "name": "Deadswitch Combat",
-        "search_match_score": 1.0,
-        "query_used": "Deadswitch Combat",
-        "lookup_mode": "base_game_fallback",
-        "base_game_query": "Deadswitch Combat",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "checked": true,
-        "reachable": false,
-        "verification": "unknown",
-        "reason": "appdetails_unavailable_for_ru"
-      },
-      "dlc_gate": {
-        "eligible": null,
-        "reason": "base_game_unresolved"
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "base game unresolved or mismatched; taste scoring deferred; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
-      }
-    },
-    {
-      "source": "GamerPower",
-      "source_id": 3482,
-      "title": "Endless Space 2 - Untold Tales DLC",
-      "source_title": "Endless Space 2 - Untold Tales DLC (Steam) Giveaway",
-      "type": "DLC",
-      "platforms": "PC, Steam",
-      "description": "Claim your free DLC for Endless Space 2 (limited stock)!",
-      "instructions": "1. Login or create your free Amplitude account.\r\n2. Go to the reward page and link your Steam account.\r\n3. Go back to the reward page and click the button to redeem your reward.",
-      "worth": "$2.99",
-      "published_date": "2026-02-03 12:05:55",
-      "end_date": "N/A",
-      "status": "Active",
-      "delivery": "direct_or_unknown",
-      "content_kind": "unknown_dlc",
-      "gamerpower_url": "https://www.gamerpower.com/endless-space-2-untold-tales-dlc-steam-giveaway",
-      "key_region_status": null,
-      "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 392110,
-        "name": "ENDLESS Space™ 2",
-        "search_match_score": 1.0,
-        "query_used": "Endless Space 2",
-        "lookup_mode": "base_game_fallback",
-        "base_game_query": "Endless Space 2",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "checked": true,
-        "reachable": false,
-        "verification": "unknown",
-        "reason": "appdetails_unavailable_for_ru"
-      },
-      "dlc_gate": {
-        "eligible": null,
-        "reason": "base_game_unresolved"
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "base game unresolved or mismatched; taste scoring deferred; Steam/GamerPower metadata does not expose enough taste signals yet"
-      }
-    },
-    {
-      "source": "GamerPower",
       "source_id": 2835,
       "title": "EVERSPACE 2 Decal DLC",
       "source_title": "EVERSPACE 2 Decal DLC Steam Key Giveaway",
@@ -284,55 +186,6 @@
         "checked": false,
         "verification": "needs_review",
         "reason": "no_confident_steam_appid_match"
-      },
-      "dlc_gate": {
-        "eligible": null,
-        "reason": "base_game_unresolved"
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "base game unresolved or mismatched; taste scoring deferred; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
-      }
-    },
-    {
-      "source": "GamerPower",
-      "source_id": 2341,
-      "title": "Age of Wonders 4: Special Godir Helmet",
-      "source_title": "Age of Wonders 4: Special Godir Helmet Steam Key Giveaway",
-      "type": "DLC",
-      "platforms": "PC, Steam",
-      "description": "Claim your free Age of Wonders 4: Special Godir Helmet Steam Key! To grab a key you just need to subscribe to their newsletter! That's it! Please note the base game Age of Wonders 4 is required to enjoy this DLC content.",
-      "instructions": "1. Subscribe to their newsletter and grab your Steam key.\r\n2. Launch the Steam client and click the Games menu option.\r\n3. Choose \"activate a Product on Steam\" to redeem your Steam key.",
-      "worth": "N/A",
-      "published_date": "2023-05-03 09:53:53",
-      "end_date": "N/A",
-      "status": "Active",
-      "delivery": "external_steam_key",
-      "content_kind": "cosmetic_or_promo_dlc",
-      "gamerpower_url": "https://www.gamerpower.com/age-of-wonders-4-special-godir-helmet-steam-key-giveaway",
-      "key_region_status": "unknown_no_explicit_ru_block_seen",
-      "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 1669000,
-        "name": "Age of Wonders 4",
-        "search_match_score": 1.0,
-        "query_used": "Age of Wonders 4",
-        "lookup_mode": "base_game_fallback",
-        "base_game_query": "Age of Wonders 4",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "checked": true,
-        "reachable": false,
-        "verification": "unknown",
-        "reason": "appdetails_unavailable_for_ru"
       },
       "dlc_gate": {
         "eligible": null,
@@ -669,6 +522,359 @@
         "eligible": false,
         "reason": "base_game_not_owned",
         "base_appid": 3408170
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
+    {
+      "source": "GamerPower",
+      "source_id": 3488,
+      "title": "Deadswitch Combat: Weapons Skins",
+      "source_title": "Deadswitch Combat: Weapons Skins Steam Key Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Claim your free Deadswitch Combat: Weapon Skins Bundle Steam DLC key and unlock 200+ weapon skins! Please note this DLC giveaway requires the base game and 10 ARP to claim a key. Fortunately, you can earn ARP daily for free.",
+      "instructions": "1. Create or log in to your free Alienware Arena account.\r\n2. Click the button to unlock your key.\r\n3. Launch the Steam client software and log in to your Steam account.\r\n4. Click the Games Menu. Choose Activate a Product on Steam.\r\n5. Follow the onscreen instructions to complete the process.",
+      "worth": "$9.99",
+      "published_date": "2026-02-10 15:17:23",
+      "end_date": "N/A",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "cosmetic_or_promo_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/deadswitch-combat-weapons-skins-steam-key-giveaway",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 3408170,
+        "name": "Deadswitch Combat",
+        "search_match_score": 1.0,
+        "query_used": "Deadswitch Combat",
+        "lookup_mode": "base_game_fallback",
+        "base_game_query": "Deadswitch Combat",
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 3408170,
+        "name": "Deadswitch Combat",
+        "owned": false
+      },
+      "steam_ru": {
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 3408170,
+          "checked": true,
+          "reachable": true,
+          "verification": "reject_f2p",
+          "reason": "steam_marks_app_as_permanently_free",
+          "steam_type": "game",
+          "steam_name": "Deadswitch Combat",
+          "is_free": true,
+          "price_overview": {},
+          "developers": [
+            "Wilkin Games"
+          ],
+          "publishers": [
+            "Wilkin Games"
+          ],
+          "genres": [
+            "Action",
+            "Indie",
+            "Massively Multiplayer",
+            "Strategy",
+            "Free To Play",
+            "Early Access"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Co-op",
+            "Online Co-op",
+            "Steam Achievements",
+            "Steam Workshop",
+            "In-App Purchases",
+            "Camera Comfort",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Playable without Timed Input",
+            "Stereo Sound",
+            "Steam Cloud",
+            "Stats",
+            "Includes level editor",
+            "Family Sharing"
+          ],
+          "short_description": "DEADSWITCH COMBAT is a fast-paced 2D multiplayer shooter. Experience action-packed combat with hundreds of weapons, vehicle combat, and plenty of team-based game modes.",
+          "dlc": [
+            4017270,
+            4088790,
+            4017250,
+            4017260,
+            4017280,
+            4505220
+          ],
+          "fullgame": null
+        }
+      },
+      "dlc_gate": {
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 3408170
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
+    {
+      "source": "GamerPower",
+      "source_id": 3482,
+      "title": "Endless Space 2 - Untold Tales DLC",
+      "source_title": "Endless Space 2 - Untold Tales DLC (Steam) Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Claim your free DLC for Endless Space 2 (limited stock)!",
+      "instructions": "1. Login or create your free Amplitude account.\r\n2. Go to the reward page and link your Steam account.\r\n3. Go back to the reward page and click the button to redeem your reward.",
+      "worth": "$2.99",
+      "published_date": "2026-02-03 12:05:55",
+      "end_date": "N/A",
+      "status": "Active",
+      "delivery": "direct_or_unknown",
+      "content_kind": "unknown_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/endless-space-2-untold-tales-dlc-steam-giveaway",
+      "key_region_status": null,
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 392110,
+        "name": "ENDLESS Space™ 2",
+        "search_match_score": 1.0,
+        "query_used": "Endless Space 2",
+        "lookup_mode": "base_game_fallback",
+        "base_game_query": "Endless Space 2",
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 392110,
+        "name": "ENDLESS Space™ 2",
+        "owned": false
+      },
+      "steam_ru": {
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 392110,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:69900",
+          "steam_type": "game",
+          "steam_name": "ENDLESS Space™ 2",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 69900,
+            "final": 69900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "699 руб."
+          },
+          "developers": [
+            "AMPLITUDE Studios"
+          ],
+          "publishers": [
+            "AMPLITUDE Studios"
+          ],
+          "genres": [
+            "Strategy"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Cross-Platform Multiplayer",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Steam Workshop",
+            "Steam Cloud",
+            "Remote Play on Tablet",
+            "Family Sharing"
+          ],
+          "short_description": "ENDLESS Space™ 2 is a Strategic Space Opera, featuring the compelling “just one more turn” gameplay, set in the mysterious ENDLESS Universe™. As the leader of your civilization, will you impose your vision and build the greatest stellar empire?",
+          "dlc": [
+            1523730,
+            1275500,
+            1275570,
+            1275580,
+            1128540,
+            988440,
+            949081,
+            949080,
+            806780,
+            813410,
+            813420,
+            733140,
+            921010,
+            841000,
+            806920,
+            751830,
+            751831,
+            751832,
+            751840,
+            785060,
+            1521000
+          ],
+          "fullgame": null
+        }
+      },
+      "dlc_gate": {
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 392110
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
+    {
+      "source": "GamerPower",
+      "source_id": 2341,
+      "title": "Age of Wonders 4: Special Godir Helmet",
+      "source_title": "Age of Wonders 4: Special Godir Helmet Steam Key Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Claim your free Age of Wonders 4: Special Godir Helmet Steam Key! To grab a key you just need to subscribe to their newsletter! That's it! Please note the base game Age of Wonders 4 is required to enjoy this DLC content.",
+      "instructions": "1. Subscribe to their newsletter and grab your Steam key.\r\n2. Launch the Steam client and click the Games menu option.\r\n3. Choose \"activate a Product on Steam\" to redeem your Steam key.",
+      "worth": "N/A",
+      "published_date": "2023-05-03 09:53:53",
+      "end_date": "N/A",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "cosmetic_or_promo_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/age-of-wonders-4-special-godir-helmet-steam-key-giveaway",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 1669000,
+        "name": "Age of Wonders 4",
+        "search_match_score": 1.0,
+        "query_used": "Age of Wonders 4",
+        "lookup_mode": "base_game_fallback",
+        "base_game_query": "Age of Wonders 4",
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 1669000,
+        "name": "Age of Wonders 4",
+        "owned": false
+      },
+      "steam_ru": {
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 1669000,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:152400",
+          "steam_type": "game",
+          "steam_name": "Age of Wonders 4",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 304900,
+            "final": 152400,
+            "discount_percent": 50,
+            "initial_formatted": "3049 руб.",
+            "final_formatted": "1524 руб."
+          },
+          "developers": [
+            "Triumph Studios"
+          ],
+          "publishers": [
+            "Paradox Interactive"
+          ],
+          "genres": [
+            "RPG",
+            "Strategy"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Co-op",
+            "Online Co-op",
+            "Cross-Platform Multiplayer",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Steam Workshop",
+            "Camera Comfort",
+            "Chat Speech-to-text",
+            "Chat Text-to-speech",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Playable without Timed Input",
+            "Save Anytime",
+            "Stereo Sound",
+            "Surround Sound",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Remote Play Together",
+            "Family Sharing"
+          ],
+          "short_description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
+          "dlc": [
+            3976910,
+            3976900,
+            3976890,
+            2257970,
+            3181540,
+            3181500,
+            2914280,
+            2401860,
+            2401850,
+            2401830,
+            2367860,
+            3119880,
+            2330150,
+            3976880
+          ],
+          "fullgame": null
+        }
+      },
+      "dlc_gate": {
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 1669000
       },
       "taste": {
         "score": 0,

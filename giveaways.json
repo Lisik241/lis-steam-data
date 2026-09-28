@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-09-27T00:38:36+00:00",
+  "updated_at_utc": "2026-09-28T00:40:10+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 24,
@@ -315,25 +315,85 @@
         "query_used": "Deadswitch Combat",
         "lookup_mode": "base_game_fallback",
         "base_game_query": "Deadswitch Combat",
-        "matched_product_role": "candidate_product"
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 3408170,
+        "name": "Deadswitch Combat",
+        "owned": false
       },
       "steam_ru": {
-        "checked": true,
-        "reachable": false,
-        "verification": "unknown",
-        "reason": "appdetails_unavailable_for_ru"
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 3408170,
+          "checked": true,
+          "reachable": true,
+          "verification": "reject_f2p",
+          "reason": "steam_marks_app_as_permanently_free",
+          "steam_type": "game",
+          "steam_name": "Deadswitch Combat",
+          "is_free": true,
+          "price_overview": {},
+          "developers": [
+            "Wilkin Games"
+          ],
+          "publishers": [
+            "Wilkin Games"
+          ],
+          "genres": [
+            "Action",
+            "Indie",
+            "Massively Multiplayer",
+            "Strategy",
+            "Free To Play",
+            "Early Access"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Co-op",
+            "Online Co-op",
+            "Steam Achievements",
+            "Steam Workshop",
+            "In-App Purchases",
+            "Camera Comfort",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Playable without Timed Input",
+            "Stereo Sound",
+            "Steam Cloud",
+            "Stats",
+            "Includes level editor",
+            "Family Sharing"
+          ],
+          "short_description": "DEADSWITCH COMBAT is a fast-paced 2D multiplayer shooter. Experience action-packed combat with hundreds of weapons, vehicle combat, and plenty of team-based game modes.",
+          "dlc": [
+            4017270,
+            4088790,
+            4017250,
+            4017260,
+            4017280,
+            4505220
+          ],
+          "fullgame": null
+        }
       },
       "dlc_gate": {
-        "eligible": null,
-        "reason": "base_game_unresolved"
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 3408170
       },
       "taste": {
         "score": 0,
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "base game unresolved or mismatched; taste scoring deferred; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
     {
@@ -386,25 +446,95 @@
         "query_used": "Endless Space 2",
         "lookup_mode": "base_game_fallback",
         "base_game_query": "Endless Space 2",
-        "matched_product_role": "candidate_product"
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 392110,
+        "name": "ENDLESS Space™ 2",
+        "owned": false
       },
       "steam_ru": {
-        "checked": true,
-        "reachable": false,
-        "verification": "unknown",
-        "reason": "appdetails_unavailable_for_ru"
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 392110,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:69900",
+          "steam_type": "game",
+          "steam_name": "ENDLESS Space™ 2",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 69900,
+            "final": 69900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "699 руб."
+          },
+          "developers": [
+            "AMPLITUDE Studios"
+          ],
+          "publishers": [
+            "AMPLITUDE Studios"
+          ],
+          "genres": [
+            "Strategy"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Cross-Platform Multiplayer",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Steam Workshop",
+            "Steam Cloud",
+            "Remote Play on Tablet",
+            "Family Sharing"
+          ],
+          "short_description": "ENDLESS Space™ 2 is a Strategic Space Opera, featuring the compelling “just one more turn” gameplay, set in the mysterious ENDLESS Universe™. As the leader of your civilization, will you impose your vision and build the greatest stellar empire?",
+          "dlc": [
+            1523730,
+            1275500,
+            1275570,
+            1275580,
+            1128540,
+            988440,
+            949081,
+            949080,
+            806780,
+            813410,
+            813420,
+            733140,
+            921010,
+            841000,
+            806920,
+            751830,
+            751831,
+            751832,
+            751840,
+            785060,
+            1521000
+          ],
+          "fullgame": null
+        }
       },
       "dlc_gate": {
-        "eligible": null,
-        "reason": "base_game_unresolved"
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 392110
       },
       "taste": {
         "score": 0,
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "base game unresolved or mismatched; taste scoring deferred; Steam/GamerPower metadata does not expose enough taste signals yet"
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
     {
@@ -673,25 +803,101 @@
         "query_used": "Age of Wonders 4",
         "lookup_mode": "base_game_fallback",
         "base_game_query": "Age of Wonders 4",
-        "matched_product_role": "candidate_product"
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 1669000,
+        "name": "Age of Wonders 4",
+        "owned": false
       },
       "steam_ru": {
-        "checked": true,
-        "reachable": false,
-        "verification": "unknown",
-        "reason": "appdetails_unavailable_for_ru"
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 1669000,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:152400",
+          "steam_type": "game",
+          "steam_name": "Age of Wonders 4",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 304900,
+            "final": 152400,
+            "discount_percent": 50,
+            "initial_formatted": "3049 руб.",
+            "final_formatted": "1524 руб."
+          },
+          "developers": [
+            "Triumph Studios"
+          ],
+          "publishers": [
+            "Paradox Interactive"
+          ],
+          "genres": [
+            "RPG",
+            "Strategy"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Co-op",
+            "Online Co-op",
+            "Cross-Platform Multiplayer",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Steam Workshop",
+            "Camera Comfort",
+            "Chat Speech-to-text",
+            "Chat Text-to-speech",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Playable without Timed Input",
+            "Save Anytime",
+            "Stereo Sound",
+            "Surround Sound",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Remote Play Together",
+            "Family Sharing"
+          ],
+          "short_description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
+          "dlc": [
+            3976910,
+            3976900,
+            3976890,
+            2257970,
+            3181540,
+            3181500,
+            2914280,
+            2401860,
+            2401850,
+            2401830,
+            2367860,
+            3119880,
+            2330150,
+            3976880
+          ],
+          "fullgame": null
+        }
       },
       "dlc_gate": {
-        "eligible": null,
-        "reason": "base_game_unresolved"
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 1669000
       },
       "taste": {
         "score": 0,
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "base game unresolved or mismatched; taste scoring deferred; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; permanent bonus/cosmetic DLC; surface only when base game is owned; external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
     {
