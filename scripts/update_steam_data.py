@@ -427,7 +427,16 @@ def update_dlc_catalog(
                 f"  [dlc {dlc_index}/{len(dlc_ids)}] app {dlc_appid}"
             )
 
-            dlc_details = get_app_details(dlc_appid)
+            try:
+                dlc_details = get_app_details(dlc_appid)
+            except SteamRequestError as exc:
+                if exc.category != "rate_limited":
+                    raise
+                print(
+                    f"  Steam rate limit while reading DLC {dlc_appid}; "
+                    "keeping the DLC with partial metadata."
+                )
+                dlc_details = None
 
             cleaned_dlc.append(
                 {
