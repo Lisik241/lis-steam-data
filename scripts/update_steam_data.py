@@ -395,7 +395,16 @@ def update_dlc_catalog(
             f"{game_name} ({game_appid})"
         )
 
-        details = get_app_details(game_appid)
+        try:
+            details = get_app_details(game_appid)
+        except SteamRequestError as exc:
+            if exc.category != "rate_limited":
+                raise
+            print(
+                f"  Steam rate limit while reading game {game_appid}; "
+                "keeping the game with unavailable store details."
+            )
+            details = None
 
         if details is None:
             catalog_games.append(
