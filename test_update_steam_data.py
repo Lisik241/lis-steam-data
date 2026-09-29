@@ -41,12 +41,12 @@ class DlcCatalogRateLimitTests(unittest.TestCase):
 
         with mock.patch.object(
             updater, "get_app_details", side_effect=[base_details, rate_limit]
-        ), mock.patch.object(updater.time, "sleep"), mock.patch.object(
-            updater.DLC_CATALOG_FILE, "write_text"
+        ), mock.patch.object(updater.time, "sleep"), mock.patch(
+            "pathlib.Path.write_text", autospec=True
         ) as write_text:
             updater.update_dlc_catalog(library, "2026-09-28T00:00:00+00:00")
 
-        payload = __import__("json").loads(write_text.call_args.args[0])
+        payload = __import__("json").loads(write_text.call_args.args[1])
         self.assertEqual(payload["total_dlc_count"], 1)
         self.assertEqual(payload["games"][0]["dlc"][0]["appid"], 20)
         self.assertFalse(payload["games"][0]["dlc"][0]["store_details_available"])
