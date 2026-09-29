@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-09-27T03:30:29+00:00",
-  "catalog_updated_at_utc": "2026-09-27T03:30:29+00:00",
+  "updated_at_utc": "2026-09-29T17:57:16+00:00",
+  "catalog_updated_at_utc": "2026-09-29T17:57:16+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 0
+    "unknown": 194
   },
   "games": [
     {
@@ -24,11 +24,156 @@
     {
       "game_appid": 346110,
       "game_name": "ARK: Survival Evolved",
-      "known_dlc_count": 0,
+      "known_dlc_count": 18,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 18,
+      "dlc": [
+        {
+          "appid": 708770,
+          "name": "ARK: Aberration - Expansion Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3537070,
+          "name": "ARK: Aquatica",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3761020,
+          "name": "ARK: Aquatica - Luminati Suns Song",
+          "type": "music",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3820060,
+          "name": "ARK: Aquatica Original Soundtrack",
+          "type": "music",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1646690,
+          "name": "ARK: Expansion Packs Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 887380,
+          "name": "ARK: Extinction - Expansion Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1646700,
+          "name": "ARK: Genesis Part 1 Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1646720,
+          "name": "ARK: Genesis Part 2 Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1113410,
+          "name": "ARK: Genesis Season Pass",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 512540,
+          "name": "ARK: Scorched Earth - Expansion Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1646550,
+          "name": "ARK: Survival Evolved Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1270830,
+          "name": "Crystal Isles - ARK Expansion Map",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1887560,
+          "name": "Fjordur - ARK Expansion Map",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1691800,
+          "name": "Lost Island - ARK Expansion Map",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 508150,
+          "name": "Primitive+ ARK Total Conversion",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 642250,
+          "name": "Ragnarok - ARK Expansion Map",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 473850,
+          "name": "The Center - ARK Expansion Map",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1100810,
+          "name": "Valguero - ARK Expansion Map",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 407530,
@@ -51,11 +196,20 @@
     {
       "game_appid": 1970580,
       "game_name": "Backpack Hero",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 2109040,
+          "name": "Backpack Hero Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 7670,
@@ -105,11 +259,20 @@
     {
       "game_appid": 49520,
       "game_name": "Borderlands 2",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 218560,
+          "name": "Borderlands 2 Season Pass",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 217490,
@@ -159,74 +322,698 @@
     {
       "game_appid": 248390,
       "game_name": "Craft The World",
-      "known_dlc_count": 0,
+      "known_dlc_count": 12,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 12,
+      "dlc": [
+        {
+          "appid": 1105371,
+          "name": "Craft The World - Abandoned Mines",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1105370,
+          "name": "Craft The World - Bosses & Monsters",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 609800,
+          "name": "Craft The World - Dig with Friends",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1157310,
+          "name": "Craft The World - Grottoes",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1509120,
+          "name": "Craft The World - Heart of Evil",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1338630,
+          "name": "Craft The World - Heroes",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2739550,
+          "name": "Craft The World - Invasion",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1209150,
+          "name": "Craft The World - Lonely Mountain",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4010190,
+          "name": "Craft The World - Magic Mirror",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 492680,
+          "name": "Craft The World - Sisters in Arms",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1157170,
+          "name": "Craft The World - Temples of 4 Elements",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3392970,
+          "name": "Craft The World - Wonderwood",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 368340,
       "game_name": "CrossCode",
-      "known_dlc_count": 0,
+      "known_dlc_count": 5,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 5,
+      "dlc": [
+        {
+          "appid": 960310,
+          "name": "CrossCode - Ninja Skin",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1585790,
+          "name": "CrossCode Manlea Skin",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 916190,
+          "name": "CrossCode Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1517040,
+          "name": "CrossCode Original Soundtrack EX",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1517030,
+          "name": "CrossCode: A New Home",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 322330,
       "game_name": "Don't Starve Together",
-      "known_dlc_count": 0,
+      "known_dlc_count": 49,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 49,
+      "dlc": [
+        {
+          "appid": 981700,
+          "name": "Don't Starve Together: All Survivors Gladiator Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 974740,
+          "name": "Don't Starve Together: All Survivors Magmatic Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 798740,
+          "name": "Don't Starve Together: Beating Heart Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2377640,
+          "name": "Don't Starve Together: Blooming Verdant Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1230830,
+          "name": "Don't Starve Together: Bounteous Bundle",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3155070,
+          "name": "Don't Starve Together: Complete Roseate Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1612410,
+          "name": "Don't Starve Together: Cottage Cache Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1874370,
+          "name": "Don't Starve Together: Fantasmical Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2170670,
+          "name": "Don't Starve Together: Fantasmical Chest, Part II",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 981702,
+          "name": "Don't Starve Together: Forge Armor Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 981701,
+          "name": "Don't Starve Together: Forge Weapons Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1698560,
+          "name": "Don't Starve Together: Fresh Verdant Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1899050,
+          "name": "Don't Starve Together: Gothic Belongings Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2170671,
+          "name": "Don't Starve Together: Gothic Belongings Chest, Part II",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 962960,
+          "name": "Don't Starve Together: Hallowed Nights Belongings Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 840770,
+          "name": "Don't Starve Together: Hallowed Nights Survivors Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1167510,
+          "name": "Don't Starve Together: Hallowed Nights Survivors Chest, Part II",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1447360,
+          "name": "Don't Starve Together: Hallowed Nights Survivors Chest, Part III",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2058280,
+          "name": "Don't Starve Together: Inventor's Excursion Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1558300,
+          "name": "Don't Starve Together: Latecomers' Victorian Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1205501,
+          "name": "Don't Starve Together: Merrymaker Belongings Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1205500,
+          "name": "Don't Starve Together: Merrymaker Survivors Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1836630,
+          "name": "Don't Starve Together: Merrymaker Survivors Chest, Part II",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2769680,
+          "name": "Don't Starve Together: Merrymaker Survivors Chest, Part III",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3373360,
+          "name": "Don't Starve Together: Merrymaker Survivors Chest, Part IV",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2007370,
+          "name": "Don't Starve Together: Midsummer Cawnival Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2132800,
+          "name": "Don't Starve Together: Moonbound Survivors Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 840760,
+          "name": "Don't Starve Together: Original Survivors Victorian Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 798750,
+          "name": "Don't Starve Together: Original Verdant Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1694780,
+          "name": "Don't Starve Together: Seaside Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 987340,
+          "name": "Don't Starve Together: Snowfallen Survivors Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1485060,
+          "name": "Don't Starve Together: Snowfallen Survivors Chest, Part II",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2236180,
+          "name": "Don't Starve Together: Snowfallen Survivors Chest, Part III",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1289760,
+          "name": "Don't Starve Together: Spring Cleaning Bundle",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1172860,
+          "name": "Don't Starve Together: Starter Pack 2019",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1272440,
+          "name": "Don't Starve Together: Starter Pack 2020",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1710240,
+          "name": "Don't Starve Together: Starter Pack 2021",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2241030,
+          "name": "Don't Starve Together: Starter Pack 2023",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2711510,
+          "name": "Don't Starve Together: Starter Pack 2024",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3373370,
+          "name": "Don't Starve Together: Starter Pack 2025",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4211520,
+          "name": "Don't Starve Together: Starter Pack 2026",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2058281,
+          "name": "Don't Starve Together: Swashbuckler Survivors Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1522880,
+          "name": "Don't Starve Together: Victorian Antiques Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 840750,
+          "name": "Don't Starve Together: Victorian Belongings Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1338540,
+          "name": "Don't Starve Together: Walter Deluxe Wardrobe",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1710241,
+          "name": "Don't Starve Together: Wanda Deluxe Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1084430,
+          "name": "Don't Starve Together: Wormwood Deluxe Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1051700,
+          "name": "Don't Starve Together: Wortox Deluxe Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1167330,
+          "name": "Don't Starve Together: Wurt Deluxe Chest",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 2725260,
       "game_name": "ENDER MAGNOLIA: Bloom in the Mist",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 3424640,
+          "name": "ENDER MAGNOLIA: Bloom in the Mist Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 599140,
       "game_name": "Graveyard Keeper",
-      "known_dlc_count": 0,
+      "known_dlc_count": 5,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 5,
+      "dlc": [
+        {
+          "appid": 1788370,
+          "name": "Graveyard Keeper - Better Save Soul",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1430990,
+          "name": "Graveyard Keeper - Game Of Crone",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1163770,
+          "name": "Graveyard Keeper - Stranger Sins",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 919051,
+          "name": "Graveyard Keeper Artbook",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 919050,
+          "name": "Graveyard Keeper OST",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1740720,
       "game_name": "Have a Nice Death",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 2368520,
+          "name": "Have a Nice Death - Digital Artbook",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2368180,
+          "name": "Have a Nice Death Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 367520,
       "game_name": "Hollow Knight",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 916000,
+          "name": "Hollow Knight - Gods & Nightmares",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 598190,
+          "name": "Hollow Knight - Official Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1030300,
       "game_name": "Hollow Knight: Silksong",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 3928720,
+          "name": "Hollow Knight: Silksong - Official Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 2420110,
@@ -258,29 +1045,128 @@
     {
       "game_appid": 613100,
       "game_name": "House Flipper",
-      "known_dlc_count": 0,
+      "known_dlc_count": 9,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 9,
+      "dlc": [
+        {
+          "appid": 825570,
+          "name": "House Flipper - Apocalypse DLC",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1460920,
+          "name": "House Flipper - Cyberpunk DLC",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2819590,
+          "name": "House Flipper - Dine Out DLC",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1832960,
+          "name": "House Flipper - Farm DLC",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 942290,
+          "name": "House Flipper - Garden DLC",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1021110,
+          "name": "House Flipper - Luxury DLC",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3363170,
+          "name": "House Flipper - Party Furniture Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1569190,
+          "name": "House Flipper - Pets DLC",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2910200,
+          "name": "House Flipper - Pop Art Furniture Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 3326230,
       "game_name": "Hozy",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 4530150,
+          "name": "Hozy (Original Game Soundtrack)",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5145980,
+          "name": "Hozy: Hideaways",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 2456740,
       "game_name": "inZOI",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 3887680,
+          "name": "inZOI: отдых на острове",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 3092450,
@@ -294,38 +1180,210 @@
     {
       "game_appid": 1426210,
       "game_name": "It Takes Two",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 4110940,
+          "name": "App 4110940",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1627720,
       "game_name": "Lies of P",
-      "known_dlc_count": 0,
+      "known_dlc_count": 3,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 3,
+      "dlc": [
+        {
+          "appid": 1938420,
+          "name": "Lies of P : Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2848330,
+          "name": "Lies of P: Overture",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2325281,
+          "name": "Lies of P: Prince of Krat Cosmetics Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1594940,
       "game_name": "Little Witch in the Woods",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 5172760,
+          "name": "Little Witch in the Woods Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1084600,
       "game_name": "My Time at Sandrock",
-      "known_dlc_count": 0,
+      "known_dlc_count": 16,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 16,
+      "dlc": [
+        {
+          "appid": 2622210,
+          "name": "My Time at Sandrock - Alienware Gift",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2182080,
+          "name": "My Time at Sandrock - Digital Artbook",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2969170,
+          "name": "My Time at Sandrock - Love Chronicles",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2808740,
+          "name": "My Time at Sandrock - Monster Whisperer",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1720400,
+          "name": "My Time At Sandrock - Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595620,
+          "name": "My Time at Sandrock - Звездная коллекция 1",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595710,
+          "name": "My Time at Sandrock - Звездная коллекция 2",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595720,
+          "name": "My Time at Sandrock - Звездная коллекция 3",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2181528,
+          "name": "My Time at Sandrock - Летняя коллекция 1",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595600,
+          "name": "My Time at Sandrock - Летняя коллекция 2",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595610,
+          "name": "My Time at Sandrock - Летняя коллекция 3",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595750,
+          "name": "My Time at Sandrock - Набор дальневосточной мебели",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595740,
+          "name": "My Time at Sandrock - Набор для декора интерьера",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2181522,
+          "name": "My Time at Sandrock - Набор пляжной одежды для строителя и одежды для бала",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595760,
+          "name": "My Time at Sandrock - Набор с мебелью-питомцами",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2595730,
+          "name": "My Time at Sandrock - Набор с питомцем: геккончик",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1454970,
@@ -339,29 +1397,72 @@
     {
       "game_appid": 471550,
       "game_name": "Nine Parchments",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 1224240,
+          "name": "Nine Parchments Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1809540,
       "game_name": "Nine Sols",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 3362590,
+          "name": "Nine Sols Digital Art Book",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1913930,
+          "name": "Nine Sols Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 2139460,
       "game_name": "Once Human",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 3379260,
+          "name": "Once Human- Тематический набор «Двойной агент»",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3816110,
+          "name": "Once Human-Тематический набор \"Ежедневный Подъём\"",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 11450,
@@ -402,20 +1503,142 @@
     {
       "game_appid": 1623730,
       "game_name": "Palworld",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 2771110,
+          "name": "Palworld - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1184370,
       "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-      "known_dlc_count": 0,
+      "known_dlc_count": 14,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 14,
+      "dlc": [
+        {
+          "appid": 1694800,
+          "name": "App 1694800",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1816821,
+          "name": "App 1816821",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1849470,
+          "name": "App 1849470",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1882540,
+          "name": "App 1882540",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2564580,
+          "name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1816820,
+          "name": "Pathfinder: Wrath of the Righteous - Faces of War",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1889980,
+          "name": "Pathfinder: Wrath of the Righteous - Inevitable Excess",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1694801,
+          "name": "Pathfinder: Wrath of the Righteous - Season Pass",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2266770,
+          "name": "Pathfinder: Wrath of the Righteous - The Last Sarkorians",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2564570,
+          "name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1889981,
+          "name": "Pathfinder: Wrath of the Righteous - Through the Ashes",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3116830,
+          "name": "Pathfinder: Wrath of the Righteous - Visitors from Morta",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2145870,
+          "name": "Pathfinder: Wrath of the Righteous – Season Pass 2",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2064590,
+          "name": "Pathfinder: Wrath of the Righteous – The Treasure of the Midnight Isles",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 374040,
@@ -501,29 +1724,152 @@
     {
       "game_appid": 4641700,
       "game_name": "Sill Cats ",
-      "known_dlc_count": 0,
+      "known_dlc_count": 8,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 8,
+      "dlc": [
+        {
+          "appid": 4824710,
+          "name": "Sill Cats - Basic Toy Pack",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4641710,
+          "name": "Sill Cats - Cat Pack 1",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4641720,
+          "name": "Sill Cats - Cat Pack 2",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4890190,
+          "name": "Sill Cats - Cat Pack 3",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4641730,
+          "name": "Sill Cats - Halloween Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4854110,
+          "name": "Sill Cats - Soccer Ball",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4890950,
+          "name": "Sill Cats - Летний декоративный набор",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4852410,
+          "name": "Sill Cats - Набор национальных флагов",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 433340,
       "game_name": "Slime Rancher",
-      "known_dlc_count": 0,
+      "known_dlc_count": 5,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 5,
+      "dlc": [
+        {
+          "appid": 982310,
+          "name": "Slime Rancher: Galactic Bundle",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 671160,
+          "name": "Slime Rancher: Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1207000,
+          "name": "Slime Rancher: Original Soundtrack II + The Casey Sessions",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1079180,
+          "name": "Slime Rancher: Secret Style Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 939480,
+          "name": "Slime Rancher: VR Playground",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1657630,
       "game_name": "Slime Rancher 2",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 2117970,
+          "name": "Slime Rancher 2: Original Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3922910,
+          "name": "Slime Rancher 2: Original Soundtrack, Vol. 2",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1213700,
@@ -537,11 +1883,28 @@
     {
       "game_appid": 972660,
       "game_name": "Spiritfarer®: Farewell Edition",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 1398770,
+          "name": "Spiritfarer®: Farewell Edition - Digital Artbook",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1395720,
+          "name": "Spiritfarer®: Farewell Edition - OST",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 242640,
@@ -555,11 +1918,20 @@
     {
       "game_appid": 355790,
       "game_name": "Styx: Shards of Darkness",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 465250,
+          "name": "Styx: Shards of Darkness - The Akenash Set",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 330830,
@@ -591,11 +1963,20 @@
     {
       "game_appid": 1272160,
       "game_name": "The Life and Suffering of Sir Brante",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 1566770,
+          "name": "The Life and Suffering of Sir Brante — Digital Content Bundle",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 986040,
@@ -608,7 +1989,7 @@
     },
     {
       "game_appid": 292030,
-      "game_name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "game_name": "The Witcher 3: Wild Hunt — Remastered",
       "known_dlc_count": 0,
       "owned_count": 0,
       "not_owned_count": 0,
@@ -618,11 +1999,20 @@
     {
       "game_appid": 1062090,
       "game_name": "Timberborn",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 1752670,
+          "name": "Timberborn Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 2064650,
@@ -636,47 +2026,116 @@
     {
       "game_appid": 35700,
       "game_name": "Trine",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 1227420,
+          "name": "Trine Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 35720,
       "game_name": "Trine 2",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 1228580,
+          "name": "Trine 2 Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 319910,
       "game_name": "Trine 3: The Artifacts of Power",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 1227410,
+          "name": "Trine 3: The Artifacts of Power Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 690640,
       "game_name": "Trine 4: The Nightmare Prince",
-      "known_dlc_count": 0,
+      "known_dlc_count": 4,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 4,
+      "dlc": [
+        {
+          "appid": 1444560,
+          "name": "Trine 4: Melody of Mystery",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1503550,
+          "name": "Trine 4: Melody of Mystery Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1504370,
+          "name": "Trine 4: The Nightmare Prince - The Art of Trine 4 (Artbook)",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1224800,
+          "name": "Trine 4: The Nightmare Prince Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1436700,
       "game_name": "Trine 5: A Clockwork Conspiracy",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 2469220,
+          "name": "Trine 5: A Clockwork Conspiracy Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1225570,
@@ -690,20 +2149,150 @@
     {
       "game_appid": 1604030,
       "game_name": "V Rising",
-      "known_dlc_count": 0,
+      "known_dlc_count": 6,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 6,
+      "dlc": [
+        {
+          "appid": 1983900,
+          "name": "V Rising - Dracula's Relics Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3604340,
+          "name": "V Rising - Eternal Dominance Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1983901,
+          "name": "V Rising - Founder's Pack: Eldest Bloodline",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2358430,
+          "name": "V Rising - Sinister Evolution Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1999270,
+          "name": "V Rising Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2833600,
+          "name": "V Rising — набор Legacy of Castlevania Premium",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 230410,
       "game_name": "Warframe",
-      "known_dlc_count": 0,
+      "known_dlc_count": 10,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 10,
+      "dlc": [
+        {
+          "appid": 4735380,
+          "name": "App 4735380",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4735390,
+          "name": "App 4735390",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4735400,
+          "name": "App 4735400",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4735410,
+          "name": "App 4735410",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5126960,
+          "name": "App 5126960",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5127010,
+          "name": "App 5127010",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5131880,
+          "name": "App 5131880",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5131890,
+          "name": "App 5131890",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5131900,
+          "name": "App 5131900",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 5131910,
+          "name": "App 5131910",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 2489330,

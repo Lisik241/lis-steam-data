@@ -1,58 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-09-27T03:30:29+00:00",
+  "updated_at_utc": "2026-09-29T17:57:16+00:00",
   "country_code": "RU",
   "language": "russian",
   "wishlist_count": 10,
   "items": [
-    {
-      "appid": 1057640,
-      "name": "App 1057640",
-      "priority": 0,
-      "date_added_utc": "2025-10-24T18:55:44+00:00",
-      "type": null,
-      "is_free": null,
-      "short_description": null,
-      "header_image": null,
-      "release_date": null,
-      "developers": [],
-      "publishers": [],
-      "genres": [],
-      "price": null,
-      "store_details_available": false
-    },
-    {
-      "appid": 1332010,
-      "name": "App 1332010",
-      "priority": 0,
-      "date_added_utc": "2026-06-07T18:29:55+00:00",
-      "type": null,
-      "is_free": null,
-      "short_description": null,
-      "header_image": null,
-      "release_date": null,
-      "developers": [],
-      "publishers": [],
-      "genres": [],
-      "price": null,
-      "store_details_available": false
-    },
-    {
-      "appid": 1954200,
-      "name": "App 1954200",
-      "priority": 0,
-      "date_added_utc": "2025-06-28T15:52:55+00:00",
-      "type": null,
-      "is_free": null,
-      "short_description": null,
-      "header_image": null,
-      "release_date": null,
-      "developers": [],
-      "publishers": [],
-      "genres": [],
-      "price": null,
-      "store_details_available": false
-    },
     {
       "appid": 2138330,
       "name": "App 2138330",
@@ -86,22 +38,6 @@
       "store_details_available": false
     },
     {
-      "appid": 2679100,
-      "name": "App 2679100",
-      "priority": 0,
-      "date_added_utc": "2026-06-07T18:30:58+00:00",
-      "type": null,
-      "is_free": null,
-      "short_description": null,
-      "header_image": null,
-      "release_date": null,
-      "developers": [],
-      "publishers": [],
-      "genres": [],
-      "price": null,
-      "store_details_available": false
-    },
-    {
       "appid": 3485810,
       "name": "App 3485810",
       "priority": 0,
@@ -116,6 +52,80 @@
       "genres": [],
       "price": null,
       "store_details_available": false
+    },
+    {
+      "appid": 1954200,
+      "name": "Kena: Bridge of Spirits",
+      "priority": 0,
+      "date_added_utc": "2025-06-28T15:52:55+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "экшен-приключение с захватывающим сюжетом, где исследование мира органично сочетается с динамичными боями. Вам предстоит играть за юную проводницу духов Кену, отыскивать священный горный храм и расследовать события прошлого.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/header.jpg?t=1772142684",
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 сен. 2022 г."
+      },
+      "developers": [
+        "Ember Lab"
+      ],
+      "publishers": [
+        "Ember Lab"
+      ],
+      "genres": [
+        "Экшены",
+        "Приключенческие игры",
+        "Инди"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 170900,
+        "initial_price": 1709.0,
+        "final_price_minor_units": 170900,
+        "final_price": 1709.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "1709 руб."
+      },
+      "store_details_available": true
+    },
+    {
+      "appid": 1057640,
+      "name": "Onirism",
+      "priority": 0,
+      "date_added_utc": "2025-10-24T18:55:44+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "Dive into the dreamy world of Crearia in Onirism! Join Carol on a magical quest to find her lost plushie, Bunbun. Use quirky gadgets and wild weapons as you embark on a spellbinding journey through fantastical worlds, where you'll battle cunning and colorful foes in thrilling, high-intensity combat!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057640/b33c24bb80a68fec283b545189eda8b8c9dd89f5/header.jpg?t=1785232679",
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 окт. 2025 г."
+      },
+      "developers": [
+        "Crimson Tales"
+      ],
+      "publishers": [
+        "Shoreline Games"
+      ],
+      "genres": [
+        "Экшены",
+        "Приключенческие игры",
+        "Инди"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 39900,
+        "initial_price": 399.0,
+        "final_price_minor_units": 39900,
+        "final_price": 399.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "399 руб."
+      },
+      "store_details_available": true
     },
     {
       "appid": 1210320,
@@ -145,11 +155,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 71000,
         "initial_price": 710.0,
-        "final_price_minor_units": 28400,
-        "final_price": 284.0,
-        "discount_percent": 60,
-        "formatted_initial": "710 руб.",
-        "formatted_final": "284 руб."
+        "final_price_minor_units": 71000,
+        "final_price": 710.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "710 руб."
       },
       "store_details_available": true
     },
@@ -191,6 +201,42 @@
       "store_details_available": true
     },
     {
+      "appid": 1332010,
+      "name": "Stray",
+      "priority": 0,
+      "date_added_utc": "2026-06-07T18:29:55+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну, вырваться из давно заброшенного кибергорода и найти дорогу домой.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1785424330",
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 июл. 2022 г."
+      },
+      "developers": [
+        "BlueTwelve Studio"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "genres": [
+        "Приключенческие игры",
+        "Инди"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 126900,
+        "initial_price": 1269.0,
+        "final_price_minor_units": 126900,
+        "final_price": 1269.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "1269 руб."
+      },
+      "store_details_available": true
+    },
+    {
       "appid": 1382070,
       "name": "Viewfinder",
       "priority": 0,
@@ -223,6 +269,44 @@
         "discount_percent": 0,
         "formatted_initial": "",
         "formatted_final": "880 руб."
+      },
+      "store_details_available": true
+    },
+    {
+      "appid": 2679100,
+      "name": "Witchspire",
+      "priority": 0,
+      "date_added_utc": "2026-06-07T18:30:58+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "Мир, полный волшебства и незабываемых приключений, ждет вас! Приручайте питомцев, бейтесь с магическими созданиями и возводите уютные дома взмахом волшебной палочки. Можно играть как в одиночку, так и с друзьями.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/9903e0c01daca55b168474c99bc85e44a06299d0/header_alt_assets_2_russian.jpg?t=1790588918",
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 июн. 2026 г."
+      },
+      "developers": [
+        "Envar Games"
+      ],
+      "publishers": [
+        "Envar Games",
+        "Envar Publishing"
+      ],
+      "genres": [
+        "Приключенческие игры",
+        "Ролевые игры",
+        "Ранний доступ"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 96597,
+        "initial_price": 965.97,
+        "final_price_minor_units": 96597,
+        "final_price": 965.97,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "965,97 руб."
       },
       "store_details_available": true
     }

@@ -1,8 +1,8 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-09-27T03:30:29+00:00",
+  "updated_at_utc": "2026-09-29T17:57:16+00:00",
   "game_count": 78,
-  "total_playtime_hours": 1220.6,
+  "total_playtime_hours": 1231.9,
   "games": [
     {
       "appid": 3669570,
@@ -191,10 +191,10 @@
     {
       "appid": 1030300,
       "name": "Hollow Knight: Silksong",
-      "playtime_forever_minutes": 5952,
-      "playtime_forever_hours": 99.2,
-      "playtime_2weeks_minutes": 275,
-      "playtime_2weeks_hours": 4.6
+      "playtime_forever_minutes": 6632,
+      "playtime_forever_hours": 110.5,
+      "playtime_2weeks_minutes": 955,
+      "playtime_2weeks_hours": 15.9
     },
     {
       "appid": 2420110,
@@ -353,7 +353,7 @@
       "name": "Palworld",
       "playtime_forever_minutes": 2001,
       "playtime_forever_hours": 33.4,
-      "playtime_2weeks_minutes": 786,
+      "playtime_2weeks_minutes": 785,
       "playtime_2weeks_hours": 13.1
     },
     {
@@ -369,8 +369,8 @@
       "name": "Portal Knights",
       "playtime_forever_minutes": 422,
       "playtime_forever_hours": 7.0,
-      "playtime_2weeks_minutes": 294,
-      "playtime_2weeks_hours": 4.9
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
     },
     {
       "appid": 108600,
@@ -417,8 +417,8 @@
       "name": "RimWorld",
       "playtime_forever_minutes": 22253,
       "playtime_forever_hours": 370.9,
-      "playtime_2weeks_minutes": 2133,
-      "playtime_2weeks_hours": 35.5
+      "playtime_2weeks_minutes": 1408,
+      "playtime_2weeks_hours": 23.5
     },
     {
       "appid": 526870,
@@ -534,7 +534,7 @@
     },
     {
       "appid": 292030,
-      "name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "name": "The Witcher 3: Wild Hunt — Remastered",
       "playtime_forever_minutes": 190,
       "playtime_forever_hours": 3.2,
       "playtime_2weeks_minutes": 0,
