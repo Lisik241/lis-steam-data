@@ -17,6 +17,7 @@ Main changes:
 - Cosmetic/promo wording such as "unlock a decal" is not progression.
 """
 
+import http.client
 import json
 import re
 import socket
@@ -84,6 +85,13 @@ def classify_request_error(source, exc):
             source,
             "network",
             f"{source} network request failed: {exc.reason}",
+        )
+
+    if isinstance(exc, (http.client.RemoteDisconnected, ConnectionError)):
+        return SourceRequestError(
+            source,
+            "network",
+            f"{source} network connection was interrupted: {exc}",
         )
 
     if isinstance(exc, (UnicodeDecodeError, json.JSONDecodeError)):
@@ -323,6 +331,8 @@ def http_json(url, params=None, timeout=25, attempts=3):
         except (
             urllib.error.HTTPError,
             urllib.error.URLError,
+            http.client.RemoteDisconnected,
+            ConnectionError,
             TimeoutError,
             UnicodeDecodeError,
             json.JSONDecodeError,
