@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-09-29T17:57:16+00:00",
+  "updated_at_utc": "2026-09-30T03:32:46+00:00",
   "game_count": 78,
   "total_playtime_hours": 1231.9,
   "games": [
@@ -417,8 +417,8 @@
       "name": "RimWorld",
       "playtime_forever_minutes": 22253,
       "playtime_forever_hours": 370.9,
-      "playtime_2weeks_minutes": 1408,
-      "playtime_2weeks_hours": 23.5
+      "playtime_2weeks_minutes": 1291,
+      "playtime_2weeks_hours": 21.5
     },
     {
       "appid": 526870,
