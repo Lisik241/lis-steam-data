@@ -2,11 +2,107 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-01T02:49:17+00:00",
+  "updated_at_utc": "2026-10-01T16:32:34+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 25,
+  "candidate_count": 26,
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3796,
+      "title": "MXGP 26 - Scrubdesignz Liveries",
+      "source_title": "MXGP 26 - Scrubdesignz Liveries (Steam) Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Claim your free MXGP 26 - Scrubdesignz Liveries (DLC) via Steam! Please note the base game is required to enjoy this DLC content.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Don´t forget to install the base game first (required).\r\n3. Download this DLC directly via Steam before the offer expires.",
+      "worth": "$1.99",
+      "published_date": "2026-10-01 09:37:30",
+      "end_date": "2026-10-15 23:59:00",
+      "status": "Active",
+      "delivery": "direct_steam_store",
+      "content_kind": "unknown_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/mxgp-26-scrubdesignz-liveries-steam-giveaway",
+      "key_region_status": null,
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": null,
+      "rejected_steam_match": {
+        "appid": 4847440,
+        "name": "MXGP 26 - Scrubdesignz Liveries",
+        "search_match_score": 1.0,
+        "query_used": "MXGP 26 Scrubdesignz Liveries",
+        "lookup_mode": "candidate_title_variants",
+        "matched_product_role": "rejected_parent_mismatch"
+      },
+      "steam_ru": {
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_name_mismatch",
+        "rejected_product_metadata": {
+          "appid": 4847440,
+          "checked": true,
+          "reachable": true,
+          "verification": "strong_keep_forever_candidate",
+          "reason": "paid_app_at_100_percent_discount_in_ru",
+          "steam_type": "dlc",
+          "steam_name": "MXGP 26 - Scrubdesignz Liveries",
+          "is_free": true,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 9900,
+            "final": 9900,
+            "discount_percent": 100,
+            "initial_formatted": "99 руб.",
+            "final_formatted": "Free"
+          },
+          "developers": [
+            "Artefacts Studio"
+          ],
+          "publishers": [
+            "Nacon"
+          ],
+          "genres": [
+            "Racing",
+            "Simulation",
+            "Sports"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Downloadable Content",
+            "Steam Achievements",
+            "Steam Cloud",
+            "Family Sharing"
+          ],
+          "short_description": "This DLC gives you access to 6 SCRUB Designz liveries for your bike.",
+          "dlc": [],
+          "fullgame": {
+            "appid": "3634190",
+            "name": "MXGP 26 - The Official Game"
+          }
+        }
+      },
+      "dlc_gate": {
+        "eligible": null,
+        "reason": "base_game_name_mismatch",
+        "expected_base_name": "MXGP 26",
+        "resolved_base_name": "MXGP 26 - The Official Game",
+        "resolved_base_appid": "3634190"
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "needs_review",
+        "explanation": "base game unresolved or mismatched; taste scoring deferred; Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3795,
@@ -890,6 +986,7 @@
           ],
           "short_description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
           "dlc": [
+            5094350,
             3976910,
             3976900,
             3976890,
@@ -903,7 +1000,11 @@
             2367860,
             3119880,
             2330150,
-            3976880
+            3976880,
+            5094360,
+            5094370,
+            5094380,
+            5094390
           ],
           "fullgame": null
         }
