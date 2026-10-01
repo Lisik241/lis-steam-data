@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-01T16:32:34+00:00",
+  "updated_at_utc": "2026-10-01T20:34:20+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 26,
@@ -225,17 +225,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:38500",
+        "reason": "ru_final_price:15400",
         "steam_type": "game",
         "steam_name": "Dwarven Realms",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
-          "final": 38500,
-          "discount_percent": 0,
-          "initial_formatted": "",
-          "final_formatted": "385 руб."
+          "final": 15400,
+          "discount_percent": 60,
+          "initial_formatted": "385 руб.",
+          "final_formatted": "154 руб."
         },
         "developers": [
           "Crater Studios"
@@ -333,17 +333,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:38500",
+        "reason": "ru_final_price:28800",
         "steam_type": "dlc",
         "steam_name": "Deadswitch Combat: Soldier Bundle",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
-          "final": 38500,
-          "discount_percent": 0,
-          "initial_formatted": "",
-          "final_formatted": "385 руб."
+          "final": 28800,
+          "discount_percent": 25,
+          "initial_formatted": "385 руб.",
+          "final_formatted": "288 руб."
         },
         "developers": [
           "Wilkin Games"
@@ -580,17 +580,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:69900",
+          "reason": "ru_final_price:17400",
           "steam_type": "game",
           "steam_name": "ENDLESS Space™ 2",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 69900,
-            "final": 69900,
-            "discount_percent": 0,
-            "initial_formatted": "",
-            "final_formatted": "699 руб."
+            "final": 17400,
+            "discount_percent": 75,
+            "initial_formatted": "699 руб.",
+            "final_formatted": "174 руб."
           },
           "developers": [
             "AMPLITUDE Studios"
