@@ -355,15 +355,15 @@ class SteamVerificationTests(unittest.TestCase):
 class RemoteDisconnectTests(unittest.TestCase):
     def test_http_json_retries_remote_disconnect(self):
         payload = b'{"ok": true}'
-        response = mock.MagicMock()
+        response = __import__("unittest.mock").mock.MagicMock()
         response.__enter__.return_value.read.return_value = payload
         response.__exit__.return_value = False
 
-        with mock.patch.object(
+        with patch.object(
             hunter.urllib.request,
             "urlopen",
             side_effect=[hunter.http.client.RemoteDisconnected("closed"), response],
-        ) as urlopen, mock.patch.object(hunter.time, "sleep") as sleep:
+        ) as urlopen, patch.object(hunter.time, "sleep") as sleep:
             result = hunter.http_json("https://www.gamerpower.com/api/giveaways")
 
         self.assertEqual(result, {"ok": True})
