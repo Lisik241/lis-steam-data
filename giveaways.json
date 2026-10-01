@@ -2,11 +2,33 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-09-30T04:33:13+00:00",
+  "updated_at_utc": "2026-10-01T02:49:17+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 24,
+  "candidate_count": 25,
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3795,
+      "title": "No Brakes Club Playtest",
+      "source_title": "No Brakes Club Playtest Steam Key Giveaway",
+      "type": "Early Access",
+      "platforms": "PC, Steam",
+      "description": "Coffee Beans Dev is teaming up with our sister site DungeonLoot, to give away Steam playtest keys for No Brakes Club!\n\nBe among the first to try this retro multiplayer platformer. Claim your key now before it’s too late, the playtest ends October 18th!\n\nIf you enjoy the game, don’t forget to wishlist it on Steam!",
+      "instructions": "1. Click the button to visit the giveaway page.\n2. Log in to your free DungeonLoot account and click the button to unlock your key.\n3. Launch the Steam client software and log in to your Steam account.\n4. Click the Games Menu. Choose Activate a Product on Steam.\n5. Follow the onscreen instructions to complete the process.",
+      "worth": "N/A",
+      "published_date": "2026-09-30 11:42:13",
+      "end_date": "2026-10-18 23:59:59",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/no-brakes-club-playtest-steam-keys",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": true,
+        "reason": "hard_reject:playtest"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3785,
