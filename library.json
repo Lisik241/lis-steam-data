@@ -1,8 +1,8 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-01T03:33:37+00:00",
-  "game_count": 78,
-  "total_playtime_hours": 1232.8,
+  "updated_at_utc": "2026-10-02T03:33:04+00:00",
+  "game_count": 79,
+  "total_playtime_hours": 1233.7,
   "games": [
     {
       "appid": 3669570,
@@ -169,8 +169,8 @@
       "name": "Graveyard Keeper",
       "playtime_forever_minutes": 755,
       "playtime_forever_hours": 12.6,
-      "playtime_2weeks_minutes": 5,
-      "playtime_2weeks_hours": 0.1
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
     },
     {
       "appid": 1740720,
@@ -275,6 +275,14 @@
       "playtime_forever_hours": 3.0,
       "playtime_2weeks_minutes": 0,
       "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 1672810,
+      "name": "MIO: Memories in Orbit",
+      "playtime_forever_minutes": 55,
+      "playtime_forever_hours": 0.9,
+      "playtime_2weeks_minutes": 55,
+      "playtime_2weeks_hours": 0.9
     },
     {
       "appid": 1084600,
@@ -417,8 +425,8 @@
       "name": "RimWorld",
       "playtime_forever_minutes": 22253,
       "playtime_forever_hours": 370.9,
-      "playtime_2weeks_minutes": 1117,
-      "playtime_2weeks_hours": 18.6
+      "playtime_2weeks_minutes": 708,
+      "playtime_2weeks_hours": 11.8
     },
     {
       "appid": 526870,
