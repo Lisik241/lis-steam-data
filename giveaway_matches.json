@@ -1,17 +1,17 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-02T16:34:56+00:00",
+  "updated_at_utc": "2026-10-02T20:31:18+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 46912,
+      "age_seconds": 61094,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 46912,
+      "age_seconds": 61094,
       "reason": null
     },
     "taste_profile_loaded": false
@@ -340,17 +340,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:25400",
+          "reason": "ru_final_price:29900",
           "steam_type": "game",
           "steam_name": "Crown Siege",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 29900,
-            "final": 25400,
-            "discount_percent": 15,
-            "initial_formatted": "299 руб.",
-            "final_formatted": "254 руб."
+            "final": 29900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "299 руб."
           },
           "developers": [
             "JOrbits Games"
