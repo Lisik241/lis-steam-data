@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-02T03:33:04+00:00",
-  "catalog_updated_at_utc": "2026-10-02T03:33:04+00:00",
+  "updated_at_utc": "2026-10-03T03:39:04+00:00",
+  "catalog_updated_at_utc": "2026-10-03T03:39:04+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 194
+    "unknown": 207
   },
   "games": [
     {
@@ -1576,6 +1576,14 @@
           "status_source": "preserved"
         },
         {
+          "appid": 1889981,
+          "name": "App 1889981",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
           "appid": 2064590,
           "name": "App 2064590",
           "type": null,
@@ -1618,14 +1626,6 @@
         {
           "appid": 2564570,
           "name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
-          "type": "dlc",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 1889981,
-          "name": "Pathfinder: Wrath of the Righteous - Through the Ashes",
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
@@ -1697,29 +1697,136 @@
     {
       "game_appid": 617290,
       "game_name": "Remnant: From the Ashes",
-      "known_dlc_count": 0,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 1344680,
+          "name": "Remnant: From the Ashes - Subject 2923",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1245150,
+          "name": "Remnant: From the Ashes - Swamps of Corsus",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 294100,
       "game_name": "RimWorld",
-      "known_dlc_count": 0,
+      "known_dlc_count": 10,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 10,
+      "dlc": [
+        {
+          "appid": 2380740,
+          "name": "RimWorld - Anomaly",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2914900,
+          "name": "RimWorld - Anomaly Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1826140,
+          "name": "RimWorld - Biotech",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1392840,
+          "name": "RimWorld - Ideology",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3022790,
+          "name": "RimWorld - Odyssey",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3689230,
+          "name": "RimWorld - Odyssey Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1149640,
+          "name": "RimWorld - Royalty",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1244270,
+          "name": "RimWorld - Royalty Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 367680,
+          "name": "RimWorld Name in Game Access",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 990430,
+          "name": "RimWorld Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 526870,
       "game_name": "Satisfactory",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 2873550,
+          "name": "Satisfactory Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1172620,

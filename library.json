@@ -1,8 +1,8 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-02T03:33:04+00:00",
+  "updated_at_utc": "2026-10-03T03:39:04+00:00",
   "game_count": 79,
-  "total_playtime_hours": 1233.7,
+  "total_playtime_hours": 1234.8,
   "games": [
     {
       "appid": 3669570,
@@ -191,10 +191,10 @@
     {
       "appid": 1030300,
       "name": "Hollow Knight: Silksong",
-      "playtime_forever_minutes": 6685,
-      "playtime_forever_hours": 111.4,
-      "playtime_2weeks_minutes": 1008,
-      "playtime_2weeks_hours": 16.8
+      "playtime_forever_minutes": 6750,
+      "playtime_forever_hours": 112.5,
+      "playtime_2weeks_minutes": 1073,
+      "playtime_2weeks_hours": 17.9
     },
     {
       "appid": 2420110,
@@ -425,8 +425,8 @@
       "name": "RimWorld",
       "playtime_forever_minutes": 22253,
       "playtime_forever_hours": 370.9,
-      "playtime_2weeks_minutes": 708,
-      "playtime_2weeks_hours": 11.8
+      "playtime_2weeks_minutes": 296,
+      "playtime_2weeks_hours": 4.9
     },
     {
       "appid": 526870,

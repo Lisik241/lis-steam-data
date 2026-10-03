@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-02T03:33:04+00:00",
+  "updated_at_utc": "2026-10-03T03:39:04+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 79,
-  "total_dlc_count": 194,
+  "total_dlc_count": 207,
   "games": [
     {
       "game_appid": 3669570,
@@ -3416,6 +3416,17 @@
           "store_details_available": false
         },
         {
+          "appid": 1889981,
+          "name": "App 1889981",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
+        },
+        {
           "appid": 2064590,
           "name": "App 2064590",
           "type": null,
@@ -3547,30 +3558,6 @@
           "store_details_available": true
         },
         {
-          "appid": 1889981,
-          "name": "Pathfinder: Wrath of the Righteous - Through the Ashes",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "Пока будущий командор ведет свою историческую битву за судьбу Страж-камня и всего мира, простые люди на охваченных огнем улицах Кенабреса из последних сил сражаются за выживание.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889981/header.jpg?t=1650545937",
-          "release_date": {
-            "coming_soon": false,
-            "date": "21 апр. 2022 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 36900,
-            "initial_price": 369.0,
-            "final_price_minor_units": 11000,
-            "final_price": 110.0,
-            "discount_percent": 70,
-            "formatted_initial": "369 руб.",
-            "formatted_final": "110 руб."
-          },
-          "store_details_available": true
-        },
-        {
           "appid": 3116830,
           "name": "Pathfinder: Wrath of the Righteous - Visitors from Morta",
           "type": "dlc",
@@ -3620,7 +3607,7 @@
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 0,
       "dlc": []
     },
@@ -3648,23 +3635,338 @@
     {
       "game_appid": 617290,
       "game_name": "Remnant: From the Ashes",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 2,
+      "dlc": [
+        {
+          "appid": 1344680,
+          "name": "Remnant: From the Ashes - Subject 2923",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Выполняя новые задания и побеждая уникальных боссов, вам предстоит собирать уникальное снаряжение, чтобы выжить во враждебной среде, положить конец Корню и спасти человечество.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1344680/header.jpg?t=1764659036",
+          "release_date": {
+            "coming_soon": false,
+            "date": "20 авг. 2020 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 30900,
+            "initial_price": 309.0,
+            "final_price_minor_units": 7700,
+            "final_price": 77.0,
+            "discount_percent": 75,
+            "formatted_initial": "309 руб.",
+            "formatted_final": "77 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1245150,
+          "name": "Remnant: From the Ashes - Swamps of Corsus",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Этот комплект дополнений для Remnant: From the Ashes добавляет новый режим и расширит один из миров игры.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245150/header.jpg?t=1764659111",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 апр. 2020 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 30900,
+            "initial_price": 309.0,
+            "final_price_minor_units": 7700,
+            "final_price": 77.0,
+            "discount_percent": 75,
+            "formatted_initial": "309 руб.",
+            "formatted_final": "77 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 294100,
       "game_name": "RimWorld",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 10,
+      "dlc": [
+        {
+          "appid": 2380740,
+          "name": "RimWorld - Anomaly",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "На границах известного мира сгущается тьма. Вам предстоит пережить нашествие биомассы, кровавые дожди, атаки сектантов, оживших мертвецов и невидимых охотников — и при этом не сойти с ума. Ловите и изучайте темных существ и проводите псионические ритуалы. Во тьме скрывается много непознанного!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380740/c743d79fcebb602e3307adf7d2e9feedf2be3590/header.jpg?t=1782756913",
+          "release_date": {
+            "coming_soon": false,
+            "date": "11 апр. 2024 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 90000,
+            "initial_price": 900.0,
+            "final_price_minor_units": 76500,
+            "final_price": 765.0,
+            "discount_percent": 15,
+            "formatted_initial": "900 руб.",
+            "formatted_final": "765 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 2914900,
+          "name": "RimWorld - Anomaly Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "The original soundtrack for RimWorld - Anomaly.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914900/583645ea21bd62a406a011742aa8e33540e7bc6a/header.jpg?t=1776705983",
+          "release_date": {
+            "coming_soon": false,
+            "date": "11 апр. 2024 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 20000,
+            "initial_price": 200.0,
+            "final_price_minor_units": 20000,
+            "final_price": 200.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "200 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1826140,
+          "name": "RimWorld - Biotech",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Control mechanoids, raise a family with children, and play with genetic modifications. Fight or ally with xenohuman factions and explore the dark secrets of the blood-drinkers.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1826140/d9e00ec47322ba4f608ebfc98e110190306a15e0/header.jpg?t=1782756849",
+          "release_date": {
+            "coming_soon": false,
+            "date": "21 окт. 2022 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 90000,
+            "initial_price": 900.0,
+            "final_price_minor_units": 76500,
+            "final_price": 765.0,
+            "discount_percent": 15,
+            "formatted_initial": "900 руб.",
+            "formatted_final": "765 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1392840,
+          "name": "RimWorld - Ideology",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Во что вы верите? RimWorld - Ideology добавляет в игру системы убеждений. Играйте пиратами-нудистами-каннибалами, слепыми подземными людьми-кротами, благородными ковбоями-фермерами, одержимыми технологиями трансгуманистами и много кем ещё.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392840/1735af8e16d6a81f8c41d7940ab7a5cf349089dd/header.jpg?t=1776193654",
+          "release_date": {
+            "coming_soon": false,
+            "date": "20 июл. 2021 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 75000,
+            "initial_price": 750.0,
+            "final_price_minor_units": 60000,
+            "final_price": 600.0,
+            "discount_percent": 20,
+            "formatted_initial": "750 руб.",
+            "formatted_final": "600 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 3022790,
+          "name": "RimWorld - Odyssey",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Постройте корабль и путешествуйте по планете! Исследуйте экзотические биомы, расширяйте свою мобильную колонию и выбирайтесь в космос. Ищите древние технологии на астероидах, заброшенных космических станциях и спутниках. Отыщите и разгромите логово механоидов.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/d1725bac389c6e88c0be0c4aab62dbeec4aa15e4/header.jpg?t=1782756963",
+          "release_date": {
+            "coming_soon": false,
+            "date": "11 июл. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 88000,
+            "initial_price": 880.0,
+            "final_price_minor_units": 79200,
+            "final_price": 792.0,
+            "discount_percent": 10,
+            "formatted_initial": "880 руб.",
+            "formatted_final": "792 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 3689230,
+          "name": "RimWorld - Odyssey Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "The original soundtrack for RimWorld - Odyssey.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689230/3da0d38a0210f596275e2d9ea6433c38f7121b9a/header.jpg?t=1782497706",
+          "release_date": {
+            "coming_soon": false,
+            "date": "11 июл. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 20000,
+            "initial_price": 200.0,
+            "final_price_minor_units": 20000,
+            "final_price": 200.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "200 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1149640,
+          "name": "RimWorld - Royalty",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Империя уже здесь. Зарабатывайте знатные титулы, выполняя её задания, получайте пси-способности, уникальные технологии и поддержку имперских войск. Или же боритесь с её гегемонией, связываясь с древом души или воруя пси-технологии. Примите имперского правителя — и он доставит вас к звёздам.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/45ca4ea5e7b18f1ed0a38776c3036146491e998d/header.jpg?t=1779288400",
+          "release_date": {
+            "coming_soon": false,
+            "date": "24 фев. 2020 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 75000,
+            "initial_price": 750.0,
+            "final_price_minor_units": 60000,
+            "final_price": 600.0,
+            "discount_percent": 20,
+            "formatted_initial": "750 руб.",
+            "formatted_final": "600 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1244270,
+          "name": "RimWorld - Royalty Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "The original soundtrack for RimWorld - Royalty.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244270/32005c2d60332c43785e620f429cd6f45328dfdb/header.jpg?t=1779305278",
+          "release_date": {
+            "coming_soon": false,
+            "date": "26 фев. 2020 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 20000,
+            "initial_price": 200.0,
+            "final_price_minor_units": 20000,
+            "final_price": 200.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "200 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 367680,
+          "name": "RimWorld Name in Game Access",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Enter a name into the game. Players will recruit, command, and fight you for all time! (All content must follow the RimWorld creative rewards guidelines.)",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367680/b1bee148eb171b0b073ada8cbd805fb0fca34432/header.jpg?t=1775166522",
+          "release_date": {
+            "coming_soon": false,
+            "date": "9 сен. 2016 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 55000,
+            "initial_price": 550.0,
+            "final_price_minor_units": 55000,
+            "final_price": 550.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "550 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 990430,
+          "name": "RimWorld Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "The soundtrack to RimWorld, with 31 tracks of space western music. Composed by Alistair Lindsay.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990430/ba25dba0cb5ea7b591c86a7b560eb7c15a18f9fe/header.jpg?t=1776703804",
+          "release_date": {
+            "coming_soon": false,
+            "date": "14 янв. 2019 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 19500,
+            "initial_price": 195.0,
+            "final_price_minor_units": 19500,
+            "final_price": 195.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "195 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 526870,
       "game_name": "Satisfactory",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 1,
+      "dlc": [
+        {
+          "appid": 2873550,
+          "name": "Satisfactory Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Саундтрек Satisfactory — это почти 4 часа мастерски написанной музыки, которую корпорация FICSIT рекомендует в качестве надежного музыкального компаньона для покорения неизведанных планет и достижения максимальной эффективности!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873550/header.jpg?t=1725980362",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 мар. 2024 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 32000,
+            "initial_price": 320.0,
+            "final_price_minor_units": 22400,
+            "final_price": 224.0,
+            "discount_percent": 30,
+            "formatted_initial": "320 руб.",
+            "formatted_final": "224 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 1172620,
