@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-03T03:39:04+00:00",
+  "updated_at_utc": "2026-10-04T05:26:30+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 79,
-  "total_dlc_count": 207,
+  "total_dlc_count": 208,
   "games": [
     {
       "game_appid": 3669570,
@@ -3628,9 +3628,34 @@
     {
       "game_appid": 2244130,
       "game_name": "Ratopia",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 1,
+      "dlc": [
+        {
+          "appid": 2694570,
+          "name": "Ratopia Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "The soundtrack of Ratopia by Rémi Agullo &amp; Emile Boudghene. All proceeds go directly to the composer.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694570/header.jpg?t=1765850492",
+          "release_date": {
+            "coming_soon": false,
+            "date": "30 ноя. 2023 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 24000,
+            "initial_price": 240.0,
+            "final_price_minor_units": 18000,
+            "final_price": 180.0,
+            "discount_percent": 25,
+            "formatted_initial": "240 руб.",
+            "formatted_final": "180 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 617290,
@@ -4411,11 +4436,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 14900,
             "initial_price": 149.0,
-            "final_price_minor_units": 7400,
-            "final_price": 74.0,
-            "discount_percent": 50,
-            "formatted_initial": "149 руб.",
-            "formatted_final": "74 руб."
+            "final_price_minor_units": 14900,
+            "final_price": 149.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "149 руб."
           },
           "store_details_available": true
         }

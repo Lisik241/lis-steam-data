@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-03T03:39:04+00:00",
-  "catalog_updated_at_utc": "2026-10-03T03:39:04+00:00",
+  "updated_at_utc": "2026-10-04T05:26:30+00:00",
+  "catalog_updated_at_utc": "2026-10-04T05:26:30+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 207
+    "unknown": 208
   },
   "games": [
     {
@@ -1688,11 +1688,20 @@
     {
       "game_appid": 2244130,
       "game_name": "Ratopia",
-      "known_dlc_count": 0,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 2694570,
+          "name": "Ratopia Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 617290,
@@ -1708,7 +1717,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1245150,
@@ -1716,7 +1725,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -1734,7 +1743,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2914900,
@@ -1742,7 +1751,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1826140,
@@ -1750,7 +1759,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1392840,
@@ -1758,7 +1767,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 3022790,
@@ -1766,7 +1775,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 3689230,
@@ -1774,7 +1783,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1149640,
@@ -1782,7 +1791,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1244270,
@@ -1790,7 +1799,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 367680,
@@ -1798,7 +1807,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 990430,
@@ -1806,7 +1815,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -1824,7 +1833,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
