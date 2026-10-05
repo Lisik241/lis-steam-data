@@ -1,11 +1,91 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-04T05:26:30+00:00",
+  "updated_at_utc": "2026-10-05T03:35:32+00:00",
   "country_code": "RU",
   "language": "russian",
-  "game_count_checked": 79,
-  "total_dlc_count": 208,
+  "game_count_checked": 80,
+  "total_dlc_count": 219,
   "games": [
+    {
+      "game_appid": 1336490,
+      "game_name": "Against the Storm",
+      "store_details_available": true,
+      "dlc_count": 3,
+      "dlc": [
+        {
+          "appid": 3075500,
+          "name": "Against the Storm - Keepers of the Stone",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "К Against the Storm присоединяется раса жаб, у которых есть свои сильные стороны и нужды. Заселяйте новые биомы, изучайте новые постройки, создавайте краевые камни и отправляйте экспедиции на поиски ценных чертежей для Опаленной королевы.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075500/header.jpg?t=1762544446",
+          "release_date": {
+            "coming_soon": false,
+            "date": "26 сен. 2024 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 49900,
+            "initial_price": 499.0,
+            "final_price_minor_units": 32400,
+            "final_price": 324.0,
+            "discount_percent": 35,
+            "formatted_initial": "499 руб.",
+            "formatted_final": "324 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 3725110,
+          "name": "Against the Storm - Nightwatchers",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "В борьбу за выживание в Against the Storm вступает раса нетопырей со своими сильными и слабыми сторонами и желаниями. Заселяйте новый биом, изучайте новые возможности строительства, ищите союзников – и все это, чтобы услужить Опаленной королеве.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725110/a7801fdcdadde5f11072d1eb0fe197fbddad9736/header.jpg?t=1762544370",
+          "release_date": {
+            "coming_soon": false,
+            "date": "31 июл. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 49900,
+            "initial_price": 499.0,
+            "final_price_minor_units": 39900,
+            "final_price": 399.0,
+            "discount_percent": 20,
+            "formatted_initial": "499 руб.",
+            "formatted_final": "399 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 2712950,
+          "name": "Against the Storm - Supporter Pack",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "В набор Against the Storm Supporter Pack вошел официальный саундтрек Against the Storm, а также обои в формате 4K, наборы эмодзи, официальный цифровой артбук объемом 300+ страниц, посвященный процессу разработки, и многое другое.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712950/header_russian.jpg?t=1787434700",
+          "release_date": {
+            "coming_soon": false,
+            "date": "8 дек. 2023 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 29900,
+            "initial_price": 299.0,
+            "final_price_minor_units": 23900,
+            "final_price": 239.0,
+            "discount_percent": 20,
+            "formatted_initial": "299 руб.",
+            "formatted_final": "239 руб."
+          },
+          "store_details_available": true
+        }
+      ]
+    },
     {
       "game_appid": 3669570,
       "game_name": "Alchemy Factory",
@@ -3416,6 +3496,17 @@
           "store_details_available": false
         },
         {
+          "appid": 1889980,
+          "name": "App 1889980",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
+        },
+        {
           "appid": 1889981,
           "name": "App 1889981",
           "type": null,
@@ -3438,52 +3529,37 @@
           "store_details_available": false
         },
         {
-          "appid": 2564580,
-          "name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "“Танец масок” – это шестое и заключительное DLC для Pathfinder: Wrath of the Righteous в Season Pass 2, любовное послание рыцарю-командору и его яркой свите.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564580/header.jpg?t=1723224656",
-          "release_date": {
-            "coming_soon": false,
-            "date": "13 июн. 2024 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 36900,
-            "initial_price": 369.0,
-            "final_price_minor_units": 11000,
-            "final_price": 110.0,
-            "discount_percent": 70,
-            "formatted_initial": "369 руб.",
-            "formatted_final": "110 руб."
-          },
-          "store_details_available": true
+          "appid": 2266770,
+          "name": "App 2266770",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
         },
         {
-          "appid": 1889980,
-          "name": "Pathfinder: Wrath of the Righteous - Inevitable Excess",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "Откликнитесь на просьбу могущественной сущности, чтобы уберечь пространственно-временной континуум от неминуемого краха. Используйте свои непревзойденные мифические силы, сражаясь с поистине непобедимыми противниками.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889980/header.jpg?t=1733996702",
-          "release_date": {
-            "coming_soon": false,
-            "date": "3 мар. 2022 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 36900,
-            "initial_price": 369.0,
-            "final_price_minor_units": 11000,
-            "final_price": 110.0,
-            "discount_percent": 70,
-            "formatted_initial": "369 руб.",
-            "formatted_final": "110 руб."
-          },
-          "store_details_available": true
+          "appid": 2564570,
+          "name": "App 2564570",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
+        },
+        {
+          "appid": 2564580,
+          "name": "App 2564580",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
         },
         {
           "appid": 1694801,
@@ -3506,54 +3582,6 @@
             "discount_percent": 80,
             "formatted_initial": "599 руб.",
             "formatted_final": "119 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 2266770,
-          "name": "Pathfinder: Wrath of the Righteous - The Last Sarkorians",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "Страна Саркорис была уничтожена демонами, но последние из ее жителей продолжают бой. Знакомьтесь: Ульбриг Олеск, перевертыш, способный превращаться в могучего грифона. Исследуйте новый регион, сразитесь с новыми врагами... И, возможно, найдите новую любовь!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2266770/header.jpg?t=1678208415",
-          "release_date": {
-            "coming_soon": false,
-            "date": "7 мар. 2023 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 36900,
-            "initial_price": 369.0,
-            "final_price_minor_units": 11000,
-            "final_price": 110.0,
-            "discount_percent": 70,
-            "formatted_initial": "369 руб.",
-            "formatted_final": "110 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 2564570,
-          "name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "Продолжите путь персонажем из дополнения “Шаги по пеплу” или создайте нового: вас ожидают 15 новых архетипов, новые заклинания и фиты.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564570/header.jpg?t=1700583073",
-          "release_date": {
-            "coming_soon": false,
-            "date": "21 ноя. 2023 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 36900,
-            "initial_price": 369.0,
-            "final_price_minor_units": 11000,
-            "final_price": 110.0,
-            "discount_percent": 70,
-            "formatted_initial": "369 руб.",
-            "formatted_final": "110 руб."
           },
           "store_details_available": true
         },
@@ -3607,16 +3635,209 @@
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 0,
       "dlc": []
     },
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 8,
+      "dlc": [
+        {
+          "appid": 610070,
+          "name": "Rain World - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Complete soundtrack of Rain World!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610070/header.jpg?t=1712787244",
+          "release_date": {
+            "coming_soon": false,
+            "date": "27 мар. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 24900,
+            "initial_price": 249.0,
+            "final_price_minor_units": 11200,
+            "final_price": 112.0,
+            "discount_percent": 55,
+            "formatted_initial": "249 руб.",
+            "formatted_final": "112 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4574640,
+          "name": "Rain World Soundtrack - Alphas, Gems, and Junk",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574640/aa69e590b2aff4b15ea9b3bb376428c3baeff841/header.jpg?t=1778170861",
+          "release_date": {
+            "coming_soon": false,
+            "date": "7 мая. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 23900,
+            "initial_price": 239.0,
+            "final_price_minor_units": 19100,
+            "final_price": 191.0,
+            "discount_percent": 20,
+            "formatted_initial": "239 руб.",
+            "formatted_final": "191 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4574940,
+          "name": "Rain World Soundtrack - Ambients and Instrumentals",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574940/1187a81a4f40ef854fb2e57d0a077e33d3767028/header.jpg?t=1778170711",
+          "release_date": {
+            "coming_soon": false,
+            "date": "7 мая. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 42400,
+            "initial_price": 424.0,
+            "final_price_minor_units": 33900,
+            "final_price": 339.0,
+            "discount_percent": 20,
+            "formatted_initial": "424 руб.",
+            "formatted_final": "339 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4574970,
+          "name": "Rain World Soundtrack - Songs and Rhythms",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574970/f3adf467e37b60f24a1585babe7de0f9631a8933/header.jpg?t=1778533914",
+          "release_date": {
+            "coming_soon": false,
+            "date": "7 мая. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 42400,
+            "initial_price": 424.0,
+            "final_price_minor_units": 33900,
+            "final_price": 339.0,
+            "discount_percent": 20,
+            "formatted_initial": "424 руб.",
+            "formatted_final": "339 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1933390,
+          "name": "Rain World: Downpour",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Rain World: Downpour — это дополнение к Rain World. Управляйте пятью новыми персонажами с уникальными способностями в огромном преображённом мире. Слизнекоты приспособились к жизни в суровой среде среди эволюционировавших хищников... Выдержите новые условия и испытания на неизведанных территориях!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933390/b25bcda46f777640ea39bfacfa30a34f20f8170c/header.jpg?t=1781026290",
+          "release_date": {
+            "coming_soon": false,
+            "date": "19 янв. 2023 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 55000,
+            "initial_price": 550.0,
+            "final_price_minor_units": 35700,
+            "final_price": 357.0,
+            "discount_percent": 35,
+            "formatted_initial": "550 руб.",
+            "formatted_final": "357 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 2282210,
+          "name": "Rain World: Downpour - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Rain World: Downpour is a DLC expansion of Rain World. Take control of five new characters with new abilities in this vast, redefined world. Slugcats have adapted to the harsh conditions alongside evolved predators! Survive new environmental conditions, dangers and explore uncharted territory.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282210/header.jpg?t=1707800192",
+          "release_date": {
+            "coming_soon": false,
+            "date": "23 янв. 2023 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 38500,
+            "initial_price": 385.0,
+            "final_price_minor_units": 25000,
+            "final_price": 250.0,
+            "discount_percent": 35,
+            "formatted_initial": "385 руб.",
+            "formatted_final": "250 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 2857120,
+          "name": "Rain World: The Watcher",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Rain World: The Watcher — это дополнение к Rain World. Отправляйтесь в невиданные пределы, о которых можно было только мечтать. Когда земля уйдёт из-под ног, будете ли вы цепляться за прошлое? Или погрузитесь в неизвестность?",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2857120/672443de0c93bb380130c3c4040e3cdfa4d5abc5/header.jpg?t=1779405889",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 мар. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 55000,
+            "initial_price": 550.0,
+            "final_price_minor_units": 44000,
+            "final_price": 440.0,
+            "discount_percent": 20,
+            "formatted_initial": "550 руб.",
+            "formatted_final": "440 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 3588290,
+          "name": "Rain World: The Watcher - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Official Soundtrack for Rain World: The Watcher.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588290/a2e57dfcd797afdc92778f1e620371fafa00ec31/header.jpg?t=1743466481",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 мар. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 38500,
+            "initial_price": 385.0,
+            "final_price_minor_units": 30800,
+            "final_price": 308.0,
+            "discount_percent": 20,
+            "formatted_initial": "385 руб.",
+            "formatted_final": "308 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 1895880,

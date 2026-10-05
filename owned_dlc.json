@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-04T05:26:30+00:00",
-  "catalog_updated_at_utc": "2026-10-04T05:26:30+00:00",
+  "updated_at_utc": "2026-10-05T03:35:32+00:00",
+  "catalog_updated_at_utc": "2026-10-05T03:35:32+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,9 +9,43 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 208
+    "unknown": 219
   },
   "games": [
+    {
+      "game_appid": 1336490,
+      "game_name": "Against the Storm",
+      "known_dlc_count": 3,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 3,
+      "dlc": [
+        {
+          "appid": 3075500,
+          "name": "Against the Storm - Keepers of the Stone",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3725110,
+          "name": "Against the Storm - Nightwatchers",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2712950,
+          "name": "Against the Storm - Supporter Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
+    },
     {
       "game_appid": 3669570,
       "game_name": "Alchemy Factory",
@@ -1576,6 +1610,14 @@
           "status_source": "preserved"
         },
         {
+          "appid": 1889980,
+          "name": "App 1889980",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
           "appid": 1889981,
           "name": "App 1889981",
           "type": null,
@@ -1592,40 +1634,32 @@
           "status_source": "preserved"
         },
         {
-          "appid": 2564580,
-          "name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
-          "type": "dlc",
-          "is_free": false,
+          "appid": 2266770,
+          "name": "App 2266770",
+          "type": null,
+          "is_free": null,
           "status": "unknown",
           "status_source": "preserved"
         },
         {
-          "appid": 1889980,
-          "name": "Pathfinder: Wrath of the Righteous - Inevitable Excess",
-          "type": "dlc",
-          "is_free": false,
+          "appid": 2564570,
+          "name": "App 2564570",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
+          "appid": 2564580,
+          "name": "App 2564580",
+          "type": null,
+          "is_free": null,
           "status": "unknown",
           "status_source": "preserved"
         },
         {
           "appid": 1694801,
           "name": "Pathfinder: Wrath of the Righteous - Season Pass",
-          "type": "dlc",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 2266770,
-          "name": "Pathfinder: Wrath of the Righteous - The Last Sarkorians",
-          "type": "dlc",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 2564570,
-          "name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
@@ -1670,11 +1704,76 @@
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "known_dlc_count": 0,
+      "known_dlc_count": 8,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 8,
+      "dlc": [
+        {
+          "appid": 610070,
+          "name": "Rain World - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4574640,
+          "name": "Rain World Soundtrack - Alphas, Gems, and Junk",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4574940,
+          "name": "Rain World Soundtrack - Ambients and Instrumentals",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4574970,
+          "name": "Rain World Soundtrack - Songs and Rhythms",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1933390,
+          "name": "Rain World: Downpour",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2282210,
+          "name": "Rain World: Downpour - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2857120,
+          "name": "Rain World: The Watcher",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3588290,
+          "name": "Rain World: The Watcher - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1895880,
@@ -1699,7 +1798,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
