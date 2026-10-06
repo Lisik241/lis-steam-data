@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-05T03:35:32+00:00",
-  "catalog_updated_at_utc": "2026-10-05T03:35:32+00:00",
+  "updated_at_utc": "2026-10-06T03:33:21+00:00",
+  "catalog_updated_at_utc": "2026-10-06T03:33:21+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 219
+    "unknown": 220
   },
   "games": [
     {
@@ -26,7 +26,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 3725110,
@@ -34,7 +34,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2712950,
@@ -42,7 +42,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -1715,7 +1715,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4574640,
@@ -1723,7 +1723,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4574940,
@@ -1731,7 +1731,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4574970,
@@ -1739,7 +1739,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1933390,
@@ -1747,7 +1747,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2282210,
@@ -1755,7 +1755,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2857120,
@@ -1763,7 +1763,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 3588290,
@@ -1771,7 +1771,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -1921,11 +1921,19 @@
     {
       "game_appid": 526870,
       "game_name": "Satisfactory",
-      "known_dlc_count": 1,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 1,
+      "unknown_count": 2,
       "dlc": [
+        {
+          "appid": 5276140,
+          "name": "Satisfactory - Core Values Expansion",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
         {
           "appid": 2873550,
           "name": "Satisfactory Soundtrack",
