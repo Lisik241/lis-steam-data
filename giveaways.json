@@ -2,11 +2,33 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-06T00:44:06+00:00",
+  "updated_at_utc": "2026-10-06T16:36:12+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 28,
+  "candidate_count": 29,
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3803,
+      "title": "Everwind AW-51 Pack",
+      "source_title": "Everwind AW-51 Pack Steam Key Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Claim your free Everwind AW-51 Pack Steam Key! Please note that this DLC giveaway requires the base game and 10 ARP (Arena Reward Points) to claim a key. Fortunately, you can earn ARP for free every day simply by logging into the website.",
+      "instructions": "1. Log in to your free Alienware account and click the button to unlock your key (10 ARP required).\r\n2. Launch the Steam client and click the Games menu option.\r\n3. Choose \"activate a Product on Steam\" to redeem your Steam key.",
+      "worth": "N/A",
+      "published_date": "2026-10-06 10:44:38",
+      "end_date": "N/A",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "service_or_account_reward",
+      "gamerpower_url": "https://www.gamerpower.com/everwind-aw-51-pack-steam-key-giveaway",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": true,
+        "reason": "service_or_account_reward"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3802,
