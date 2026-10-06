@@ -2,11 +2,33 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-05T04:39:14+00:00",
+  "updated_at_utc": "2026-10-06T00:44:06+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 27,
+  "candidate_count": 28,
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3802,
+      "title": "Scallywags Playtest",
+      "source_title": "Scallywags Playtest Steam Key Giveaway",
+      "type": "Early Access",
+      "platforms": "PC, Steam",
+      "description": "Claim your free Scallywags Playtest Steam Key and join the early access!",
+      "instructions": "1. Login into your free Alienware account and click the button to unlock your key.\r\n2. Launch the Steam client and click the Games menu option.\r\n3. Choose \"activate a Product on Steam\" to redeem your Steam key.",
+      "worth": "N/A",
+      "published_date": "2026-10-05 14:55:52",
+      "end_date": "N/A",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/scallywags-playtest-steam-key-giveaway",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": true,
+        "reason": "hard_reject:playtest"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3800,
