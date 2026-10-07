@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-06T03:33:21+00:00",
-  "catalog_updated_at_utc": "2026-10-06T03:33:21+00:00",
+  "updated_at_utc": "2026-10-07T03:34:29+00:00",
+  "catalog_updated_at_utc": "2026-10-07T03:34:29+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -1932,7 +1932,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2873550,

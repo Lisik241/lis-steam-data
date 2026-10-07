@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-06T03:33:21+00:00",
+  "updated_at_utc": "2026-10-07T03:34:29+00:00",
   "game_count": 80,
   "total_playtime_hours": 1237.6,
   "games": [
@@ -369,8 +369,8 @@
       "name": "Palworld",
       "playtime_forever_minutes": 2001,
       "playtime_forever_hours": 33.4,
-      "playtime_2weeks_minutes": 192,
-      "playtime_2weeks_hours": 3.2
+      "playtime_2weeks_minutes": 1,
+      "playtime_2weeks_hours": 0.0
     },
     {
       "appid": 1184370,
