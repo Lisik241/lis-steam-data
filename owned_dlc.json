@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-07T03:34:29+00:00",
-  "catalog_updated_at_utc": "2026-10-07T03:34:29+00:00",
+  "updated_at_utc": "2026-10-08T03:34:40+00:00",
+  "catalog_updated_at_utc": "2026-10-08T03:34:40+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -2435,6 +2435,15 @@
           "status_source": "preserved"
         }
       ]
+    },
+    {
+      "game_appid": 3559900,
+      "game_name": "Voidling Bound Demo",
+      "known_dlc_count": 0,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 0,
+      "dlc": []
     },
     {
       "game_appid": 230410,

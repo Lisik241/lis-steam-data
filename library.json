@@ -1,8 +1,8 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-07T03:34:29+00:00",
-  "game_count": 80,
-  "total_playtime_hours": 1237.6,
+  "updated_at_utc": "2026-10-08T03:34:40+00:00",
+  "game_count": 81,
+  "total_playtime_hours": 1239.4,
   "games": [
     {
       "appid": 1336490,
@@ -199,10 +199,10 @@
     {
       "appid": 1030300,
       "name": "Hollow Knight: Silksong",
-      "playtime_forever_minutes": 6874,
-      "playtime_forever_hours": 114.6,
-      "playtime_2weeks_minutes": 1197,
-      "playtime_2weeks_hours": 19.9
+      "playtime_forever_minutes": 6893,
+      "playtime_forever_hours": 114.9,
+      "playtime_2weeks_minutes": 1216,
+      "playtime_2weeks_hours": 20.3
     },
     {
       "appid": 2420110,
@@ -627,6 +627,14 @@
       "playtime_forever_hours": 0.6,
       "playtime_2weeks_minutes": 0,
       "playtime_2weeks_hours": 0.0
+    },
+    {
+      "appid": 3559900,
+      "name": "Voidling Bound Demo",
+      "playtime_forever_minutes": 92,
+      "playtime_forever_hours": 1.5,
+      "playtime_2weeks_minutes": 92,
+      "playtime_2weeks_hours": 1.5
     },
     {
       "appid": 230410,

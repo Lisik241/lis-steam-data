@@ -1,9 +1,9 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-07T03:34:29+00:00",
+  "updated_at_utc": "2026-10-08T03:34:40+00:00",
   "country_code": "RU",
   "language": "russian",
-  "game_count_checked": 80,
+  "game_count_checked": 81,
   "total_dlc_count": 220,
   "games": [
     {
@@ -3651,7 +3651,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "Complete soundtrack of Rain World!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610070/header.jpg?t=1712787244",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610070/header.jpg?t=1791381487",
           "release_date": {
             "coming_soon": false,
             "date": "27 мар. 2017 г."
@@ -3675,7 +3675,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574640/aa69e590b2aff4b15ea9b3bb376428c3baeff841/header.jpg?t=1778170861",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574640/aa69e590b2aff4b15ea9b3bb376428c3baeff841/header.jpg?t=1791381524",
           "release_date": {
             "coming_soon": false,
             "date": "7 мая. 2026 г."
@@ -3699,7 +3699,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574940/1187a81a4f40ef854fb2e57d0a077e33d3767028/header.jpg?t=1778170711",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574940/1187a81a4f40ef854fb2e57d0a077e33d3767028/header.jpg?t=1791381584",
           "release_date": {
             "coming_soon": false,
             "date": "7 мая. 2026 г."
@@ -3723,7 +3723,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574970/f3adf467e37b60f24a1585babe7de0f9631a8933/header.jpg?t=1778533914",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574970/f3adf467e37b60f24a1585babe7de0f9631a8933/header.jpg?t=1791381676",
           "release_date": {
             "coming_soon": false,
             "date": "7 мая. 2026 г."
@@ -3747,7 +3747,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Rain World: Downpour — это дополнение к Rain World. Управляйте пятью новыми персонажами с уникальными способностями в огромном преображённом мире. Слизнекоты приспособились к жизни в суровой среде среди эволюционировавших хищников... Выдержите новые условия и испытания на неизведанных территориях!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933390/b25bcda46f777640ea39bfacfa30a34f20f8170c/header.jpg?t=1781026290",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933390/b25bcda46f777640ea39bfacfa30a34f20f8170c/header.jpg?t=1791381654",
           "release_date": {
             "coming_soon": false,
             "date": "19 янв. 2023 г."
@@ -3795,7 +3795,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Rain World: The Watcher — это дополнение к Rain World. Отправляйтесь в невиданные пределы, о которых можно было только мечтать. Когда земля уйдёт из-под ног, будете ли вы цепляться за прошлое? Или погрузитесь в неизвестность?",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2857120/672443de0c93bb380130c3c4040e3cdfa4d5abc5/header.jpg?t=1779405889",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2857120/672443de0c93bb380130c3c4040e3cdfa4d5abc5/header.jpg?t=1791381739",
           "release_date": {
             "coming_soon": false,
             "date": "28 мар. 2025 г."
@@ -3819,7 +3819,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "Official Soundtrack for Rain World: The Watcher.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588290/a2e57dfcd797afdc92778f1e620371fafa00ec31/header.jpg?t=1743466481",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588290/a2e57dfcd797afdc92778f1e620371fafa00ec31/header.jpg?t=1791381767",
           "release_date": {
             "coming_soon": false,
             "date": "28 мар. 2025 г."
@@ -5157,6 +5157,13 @@
           "store_details_available": true
         }
       ]
+    },
+    {
+      "game_appid": 3559900,
+      "game_name": "Voidling Bound Demo",
+      "store_details_available": true,
+      "dlc_count": 0,
+      "dlc": []
     },
     {
       "game_appid": 230410,
