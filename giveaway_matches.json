@@ -1,23 +1,23 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-08T08:36:37+00:00",
+  "updated_at_utc": "2026-10-08T12:43:10+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 18117,
+      "age_seconds": 32910,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 18117,
+      "age_seconds": 32910,
       "reason": null
     },
     "taste_profile_loaded": false
   },
   "region": "RU",
-  "match_count": 15,
+  "match_count": 16,
   "bands": {
     "must_claim": 0,
     "likely_match": 0,
@@ -25,7 +25,7 @@
     "family_only": 0,
     "needs_review": 7,
     "low_priority": 1,
-    "skip": 7
+    "skip": 8
   },
   "items": [
     {
@@ -688,6 +688,121 @@
         "eligible": false,
         "reason": "base_game_not_owned",
         "base_appid": 2015270
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
+    {
+      "source": "GamerPower",
+      "source_id": 3805,
+      "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack Steam",
+      "source_title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack Steam Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Score Gear.Club Unlimited 3 - Gear.Club Signature Pack (DLC) for free via Steam until until October 22. Please note the base game is required to enjoy this DLC content.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Don´t forget to install the base game first (required).\r\n3. Download this DLC directly via Steam before the offer expires.",
+      "worth": "$4.99",
+      "published_date": "2026-10-08 07:21:25",
+      "end_date": "2026-10-22 23:59:00",
+      "status": "Active",
+      "delivery": "direct_steam_store",
+      "content_kind": "unknown_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/gear-club-unlimited-3-gear-club-signature-pack-steam-giveaway",
+      "key_region_status": null,
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 3659460,
+        "name": "Gear.Club Unlimited 3",
+        "search_match_score": 1.0,
+        "query_used": "Gear.Club Unlimited 3",
+        "lookup_mode": "base_game_fallback",
+        "base_game_query": "Gear.Club Unlimited 3",
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 3659460,
+        "name": "Gear.Club Unlimited 3",
+        "owned": false
+      },
+      "steam_ru": {
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 3659460,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:219900",
+          "steam_type": "game",
+          "steam_name": "Gear.Club Unlimited 3",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 219900,
+            "final": 219900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "2199 руб."
+          },
+          "developers": [
+            "Eden Games"
+          ],
+          "publishers": [
+            "Nacon"
+          ],
+          "genres": [
+            "Racing",
+            "Simulation",
+            "Sports"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Shared/Split Screen PvP",
+            "Co-op",
+            "Shared/Split Screen Co-op",
+            "Shared/Split Screen",
+            "Steam Achievements",
+            "Full controller support",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Gamepad Recommended",
+            "Keyboard Only Option",
+            "Playable without Timed Input",
+            "DualShock Controller Support",
+            "DualShock Controller Support",
+            "DualSense Controller Support",
+            "DualSense Controller Support",
+            "Stereo Sound",
+            "Surround Sound",
+            "Steam Cloud",
+            "Steam Leaderboards",
+            "Remote Play Together",
+            "Family Sharing"
+          ],
+          "short_description": "The Gear.Club series is back! Customize and set up your favourite cars to race at top speed along the roads of the French Mediterranean coast and Japan. Don't just win – show off your style!",
+          "dlc": [
+            4114140,
+            4114150
+          ],
+          "fullgame": null
+        }
+      },
+      "dlc_gate": {
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 3659460
       },
       "taste": {
         "score": 0,
