@@ -1,33 +1,110 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-08T16:38:10+00:00",
+  "updated_at_utc": "2026-10-08T20:36:17+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 47010,
+      "age_seconds": 61297,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 47010,
+      "age_seconds": 61297,
       "reason": null
     },
     "taste_profile_loaded": false
   },
   "region": "RU",
-  "match_count": 16,
+  "match_count": 17,
   "bands": {
     "must_claim": 0,
     "likely_match": 0,
-    "conditional": 0,
+    "conditional": 1,
     "family_only": 0,
     "needs_review": 7,
     "low_priority": 1,
     "skip": 8
   },
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3809,
+      "title": "Pony Island",
+      "source_title": "Pony Island (Steam) Giveaway",
+      "type": "Game",
+      "platforms": "PC, Steam",
+      "description": "Yes, this is real! You can grab Pony Island for free on Steam! Pony Island is a suspenseful puzzle game disguised as something much more interesting. Definitely worth checking out",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!",
+      "worth": "$4.99",
+      "published_date": "2026-10-08 13:49:15",
+      "end_date": "2026-10-12 23:59:00",
+      "status": "Active",
+      "delivery": "direct_or_unknown",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/pony-island-steam-giveaway",
+      "key_region_status": null,
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 405640,
+        "name": "Pony Island",
+        "search_match_score": 1.0,
+        "query_used": "Pony Island",
+        "lookup_mode": "candidate_title_variants",
+        "matched_product_role": "candidate_product"
+      },
+      "steam_ru": {
+        "appid": 405640,
+        "checked": true,
+        "reachable": true,
+        "verification": "strong_keep_forever_candidate",
+        "reason": "paid_app_at_100_percent_discount_in_ru",
+        "steam_type": "game",
+        "steam_name": "Pony Island",
+        "is_free": true,
+        "price_overview": {
+          "currency": "RUB",
+          "initial": 20000,
+          "final": 20000,
+          "discount_percent": 100,
+          "initial_formatted": "200 руб.",
+          "final_formatted": "Free"
+        },
+        "developers": [
+          "Daniel Mullins Games"
+        ],
+        "publishers": [
+          "Daniel Mullins Games"
+        ],
+        "genres": [
+          "Indie"
+        ],
+        "categories": [
+          "Single-player",
+          "Steam Achievements",
+          "Steam Trading Cards",
+          "Stats",
+          "Family Sharing"
+        ],
+        "short_description": "Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. It is not a game about ponies.",
+        "dlc": [
+          428010
+        ],
+        "fullgame": null
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "conditional",
+        "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3804,
@@ -62,17 +139,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:3100",
+        "reason": "ru_final_price:12500",
         "steam_type": "game",
         "steam_name": "Spooky Cats",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 12500,
-          "final": 3100,
-          "discount_percent": 75,
-          "initial_formatted": "125 руб.",
-          "final_formatted": "31 руб."
+          "final": 12500,
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "125 руб."
         },
         "developers": [
           "russpuppy"
@@ -847,17 +924,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:28800",
+        "reason": "ru_final_price:38500",
         "steam_type": "dlc",
         "steam_name": "Deadswitch Combat: Soldier Bundle",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
-          "final": 28800,
-          "discount_percent": 25,
-          "initial_formatted": "385 руб.",
-          "final_formatted": "288 руб."
+          "final": 38500,
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "385 руб."
         },
         "developers": [
           "Wilkin Games"
@@ -1072,17 +1149,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:17400",
+          "reason": "ru_final_price:69900",
           "steam_type": "game",
           "steam_name": "ENDLESS Space™ 2",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 69900,
-            "final": 17400,
-            "discount_percent": 75,
-            "initial_formatted": "699 руб.",
-            "final_formatted": "174 руб."
+            "final": 69900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "699 руб."
           },
           "developers": [
             "AMPLITUDE Studios"
@@ -1191,17 +1268,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:152400",
+          "reason": "ru_final_price:304900",
           "steam_type": "game",
           "steam_name": "Age of Wonders 4",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 304900,
-            "final": 152400,
-            "discount_percent": 50,
-            "initial_formatted": "3049 руб.",
-            "final_formatted": "1524 руб."
+            "final": 304900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "3049 руб."
           },
           "developers": [
             "Triumph Studios"
