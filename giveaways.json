@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-08T20:36:17+00:00",
+  "updated_at_utc": "2026-10-09T04:35:28+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 32,
@@ -992,17 +992,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:69900",
+          "reason": "ru_final_price:17400",
           "steam_type": "game",
           "steam_name": "ENDLESS Space™ 2",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 69900,
-            "final": 69900,
-            "discount_percent": 0,
-            "initial_formatted": "",
-            "final_formatted": "699 руб."
+            "final": 17400,
+            "discount_percent": 75,
+            "initial_formatted": "699 руб.",
+            "final_formatted": "174 руб."
           },
           "developers": [
             "AMPLITUDE Studios"
