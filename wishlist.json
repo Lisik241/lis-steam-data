@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-08T03:34:40+00:00",
+  "updated_at_utc": "2026-10-09T03:35:07+00:00",
   "country_code": "RU",
   "language": "russian",
   "wishlist_count": 11,
@@ -33,11 +33,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 304900,
         "initial_price": 3049.0,
-        "final_price_minor_units": 152400,
-        "final_price": 1524.0,
-        "discount_percent": 50,
-        "formatted_initial": "3049 руб.",
-        "formatted_final": "1524 руб."
+        "final_price_minor_units": 304900,
+        "final_price": 3049.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "3049 руб."
       },
       "store_details_available": true
     },
@@ -118,11 +118,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 170900,
         "initial_price": 1709.0,
-        "final_price_minor_units": 85400,
-        "final_price": 854.0,
-        "discount_percent": 50,
-        "formatted_initial": "1709 руб.",
-        "formatted_final": "854 руб."
+        "final_price_minor_units": 170900,
+        "final_price": 1709.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "1709 руб."
       },
       "store_details_available": true
     },
@@ -155,11 +155,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 39900,
         "initial_price": 399.0,
-        "final_price_minor_units": 19900,
-        "final_price": 199.0,
-        "discount_percent": 50,
-        "formatted_initial": "399 руб.",
-        "formatted_final": "199 руб."
+        "final_price_minor_units": 39900,
+        "final_price": 399.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "399 руб."
       },
       "store_details_available": true
     },
@@ -191,11 +191,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 71000,
         "initial_price": 710.0,
-        "final_price_minor_units": 28400,
-        "final_price": 284.0,
-        "discount_percent": 60,
-        "formatted_initial": "710 руб.",
-        "formatted_final": "284 руб."
+        "final_price_minor_units": 71000,
+        "final_price": 710.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "710 руб."
       },
       "store_details_available": true
     },
@@ -228,11 +228,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 85500,
         "initial_price": 855.0,
-        "final_price_minor_units": 57200,
-        "final_price": 572.0,
-        "discount_percent": 33,
-        "formatted_initial": "855 руб.",
-        "formatted_final": "572 руб."
+        "final_price_minor_units": 85500,
+        "final_price": 855.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "855 руб."
       },
       "store_details_available": true
     },
@@ -300,11 +300,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 88000,
         "initial_price": 880.0,
-        "final_price_minor_units": 26400,
-        "final_price": 264.0,
-        "discount_percent": 70,
-        "formatted_initial": "880 руб.",
-        "formatted_final": "264 руб."
+        "final_price_minor_units": 88000,
+        "final_price": 880.0,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "880 руб."
       },
       "store_details_available": true
     },
@@ -316,7 +316,7 @@
       "type": "game",
       "is_free": false,
       "short_description": "Мир, полный волшебства и незабываемых приключений, ждет вас! Приручайте питомцев, бейтесь с магическими созданиями и возводите уютные дома взмахом волшебной палочки. Можно играть как в одиночку, так и с друзьями.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/9903e0c01daca55b168474c99bc85e44a06299d0/header_alt_assets_2_russian.jpg?t=1791366494",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/9903e0c01daca55b168474c99bc85e44a06299d0/header_alt_assets_2_russian.jpg?t=1791472300",
       "release_date": {
         "coming_soon": false,
         "date": "10 июн. 2026 г."
@@ -338,11 +338,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 96597,
         "initial_price": 965.97,
-        "final_price_minor_units": 72397,
-        "final_price": 723.97,
-        "discount_percent": 25,
-        "formatted_initial": "965,97 руб.",
-        "formatted_final": "723,97 руб."
+        "final_price_minor_units": 96597,
+        "final_price": 965.97,
+        "discount_percent": 0,
+        "formatted_initial": "",
+        "formatted_final": "965,97 руб."
       },
       "store_details_available": true
     }
