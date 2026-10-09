@@ -1,33 +1,112 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-09T16:35:05+00:00",
+  "updated_at_utc": "2026-10-09T20:33:22+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 46798,
+      "age_seconds": 61095,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 46798,
+      "age_seconds": 61095,
       "reason": null
     },
     "taste_profile_loaded": false
   },
   "region": "RU",
-  "match_count": 17,
+  "match_count": 18,
   "bands": {
     "must_claim": 0,
     "likely_match": 0,
-    "conditional": 1,
+    "conditional": 2,
     "family_only": 0,
     "needs_review": 7,
     "low_priority": 1,
     "skip": 8
   },
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3810,
+      "title": "Fireside Feelings",
+      "source_title": "Fireside Feelings (Steam) Giveaway",
+      "type": "Game",
+      "platforms": "PC, Steam",
+      "description": "Grab a blanket and join this Steam giveaway! Fireside Feelings is free on Steam until October 12! Fireside Feelings is a cozy 2d game about social interactions and connections! Don´t miss it!",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!",
+      "worth": "$7.99",
+      "published_date": "2026-10-09 13:15:36",
+      "end_date": "2026-10-12 23:59:00",
+      "status": "Active",
+      "delivery": "direct_or_unknown",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/fireside-feelings-steam-giveaway",
+      "key_region_status": null,
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 2990600,
+        "name": "Fireside Feelings",
+        "search_match_score": 1.0,
+        "query_used": "Fireside Feelings",
+        "lookup_mode": "candidate_title_variants",
+        "matched_product_role": "candidate_product"
+      },
+      "steam_ru": {
+        "appid": 2990600,
+        "checked": true,
+        "reachable": true,
+        "verification": "strong_keep_forever_candidate",
+        "reason": "paid_app_at_100_percent_discount_in_ru",
+        "steam_type": "game",
+        "steam_name": "Fireside Feelings",
+        "is_free": true,
+        "price_overview": {
+          "currency": "RUB",
+          "initial": 32000,
+          "final": 32000,
+          "discount_percent": 100,
+          "initial_formatted": "320 руб.",
+          "final_formatted": "Free"
+        },
+        "developers": [
+          "Team Empreintes"
+        ],
+        "publishers": [],
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "categories": [
+          "Single-player",
+          "Steam Achievements",
+          "Adjustable Text Size",
+          "Color Alternatives",
+          "Custom Volume Controls",
+          "Playable without Timed Input",
+          "Steam Cloud",
+          "Family Sharing"
+        ],
+        "short_description": "Share your thoughts and discover those shared by others, in Fireside Feelings. Gather around the welcoming warmth of the campfire and take part in conversations between real people separated in space and time. Sometimes, we all need a good talk under the stars.",
+        "dlc": [
+          3805590
+        ],
+        "fullgame": null
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "conditional",
+        "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3809,
