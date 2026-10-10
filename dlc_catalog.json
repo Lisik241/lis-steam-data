@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-09T03:35:07+00:00",
+  "updated_at_utc": "2026-10-10T03:34:08+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 81,
-  "total_dlc_count": 220,
+  "total_dlc_count": 212,
   "games": [
     {
       "game_appid": 1336490,
@@ -2584,7 +2584,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Наконец-то пришло время найти своего идеального партнера по ремонту! Макс, Фил, Белла? Вам решать, как будут звать вашего спутника. Возьмите очаровательного питомца и позвольте ему помочь вам в увлекательном путешествии в дружелюбном районе Уютной деревни!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569190/52dbd48692072ed3d8f39c4022d287c9c10319e5/header.jpg?t=1780686200",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569190/52dbd48692072ed3d8f39c4022d287c9c10319e5/header.jpg?t=1791522357",
           "release_date": {
             "coming_soon": false,
             "date": "12 мая. 2022 г."
@@ -3635,209 +3635,16 @@
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 0,
       "dlc": []
     },
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": true,
-      "dlc_count": 8,
-      "dlc": [
-        {
-          "appid": 610070,
-          "name": "Rain World - Soundtrack",
-          "type": "music",
-          "is_free": false,
-          "short_description": "Complete soundtrack of Rain World!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610070/header.jpg?t=1791381487",
-          "release_date": {
-            "coming_soon": false,
-            "date": "27 мар. 2017 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 24900,
-            "initial_price": 249.0,
-            "final_price_minor_units": 24900,
-            "final_price": 249.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "249 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 4574640,
-          "name": "Rain World Soundtrack - Alphas, Gems, and Junk",
-          "type": "music",
-          "is_free": false,
-          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574640/aa69e590b2aff4b15ea9b3bb376428c3baeff841/header.jpg?t=1791381524",
-          "release_date": {
-            "coming_soon": false,
-            "date": "7 мая. 2026 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 23900,
-            "initial_price": 239.0,
-            "final_price_minor_units": 23900,
-            "final_price": 239.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "239 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 4574940,
-          "name": "Rain World Soundtrack - Ambients and Instrumentals",
-          "type": "music",
-          "is_free": false,
-          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574940/1187a81a4f40ef854fb2e57d0a077e33d3767028/header.jpg?t=1791381584",
-          "release_date": {
-            "coming_soon": false,
-            "date": "7 мая. 2026 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 42400,
-            "initial_price": 424.0,
-            "final_price_minor_units": 42400,
-            "final_price": 424.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "424 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 4574970,
-          "name": "Rain World Soundtrack - Songs and Rhythms",
-          "type": "music",
-          "is_free": false,
-          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574970/f3adf467e37b60f24a1585babe7de0f9631a8933/header.jpg?t=1791381676",
-          "release_date": {
-            "coming_soon": false,
-            "date": "7 мая. 2026 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 42400,
-            "initial_price": 424.0,
-            "final_price_minor_units": 42400,
-            "final_price": 424.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "424 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 1933390,
-          "name": "Rain World: Downpour",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "Rain World: Downpour — это дополнение к Rain World. Управляйте пятью новыми персонажами с уникальными способностями в огромном преображённом мире. Слизнекоты приспособились к жизни в суровой среде среди эволюционировавших хищников... Выдержите новые условия и испытания на неизведанных территориях!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933390/b25bcda46f777640ea39bfacfa30a34f20f8170c/header.jpg?t=1791381654",
-          "release_date": {
-            "coming_soon": false,
-            "date": "19 янв. 2023 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 55000,
-            "initial_price": 550.0,
-            "final_price_minor_units": 55000,
-            "final_price": 550.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "550 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 2282210,
-          "name": "Rain World: Downpour - Soundtrack",
-          "type": "music",
-          "is_free": false,
-          "short_description": "Rain World: Downpour is a DLC expansion of Rain World. Take control of five new characters with new abilities in this vast, redefined world. Slugcats have adapted to the harsh conditions alongside evolved predators! Survive new environmental conditions, dangers and explore uncharted territory.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282210/header.jpg?t=1707800192",
-          "release_date": {
-            "coming_soon": false,
-            "date": "23 янв. 2023 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 38500,
-            "initial_price": 385.0,
-            "final_price_minor_units": 38500,
-            "final_price": 385.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "385 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 2857120,
-          "name": "Rain World: The Watcher",
-          "type": "dlc",
-          "is_free": false,
-          "short_description": "Rain World: The Watcher — это дополнение к Rain World. Отправляйтесь в невиданные пределы, о которых можно было только мечтать. Когда земля уйдёт из-под ног, будете ли вы цепляться за прошлое? Или погрузитесь в неизвестность?",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2857120/672443de0c93bb380130c3c4040e3cdfa4d5abc5/header.jpg?t=1791381739",
-          "release_date": {
-            "coming_soon": false,
-            "date": "28 мар. 2025 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 55000,
-            "initial_price": 550.0,
-            "final_price_minor_units": 55000,
-            "final_price": 550.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "550 руб."
-          },
-          "store_details_available": true
-        },
-        {
-          "appid": 3588290,
-          "name": "Rain World: The Watcher - Soundtrack",
-          "type": "music",
-          "is_free": false,
-          "short_description": "Official Soundtrack for Rain World: The Watcher.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588290/a2e57dfcd797afdc92778f1e620371fafa00ec31/header.jpg?t=1791381767",
-          "release_date": {
-            "coming_soon": false,
-            "date": "28 мар. 2025 г."
-          },
-          "price": {
-            "country_code": "RU",
-            "currency": "RUB",
-            "initial_price_minor_units": 38500,
-            "initial_price": 385.0,
-            "final_price_minor_units": 38500,
-            "final_price": 385.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "385 руб."
-          },
-          "store_details_available": true
-        }
-      ]
+      "store_details_available": false,
+      "dlc_count": 0,
+      "dlc": []
     },
     {
       "game_appid": 1895880,
@@ -4333,12 +4140,22 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Четыре немного загадочных породы только к Хэллоуину — выход в октябре 2026. Добавьте в список желаемого, чтобы получить уведомление о выходе. Требуется базовое приложение (бесплатно).",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641730/700dfac82e774cc31abf01510845c181e7489ca8/header.jpg?t=1784443673",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641730/700dfac82e774cc31abf01510845c181e7489ca8/header.jpg?t=1791558163",
           "release_date": {
-            "coming_soon": true,
-            "date": "Скоро выйдет"
+            "coming_soon": false,
+            "date": "9 окт. 2026 г."
           },
-          "price": null,
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 9900,
+            "initial_price": 99.0,
+            "final_price_minor_units": 8900,
+            "final_price": 89.0,
+            "discount_percent": 10,
+            "formatted_initial": "99 руб.",
+            "formatted_final": "89 руб."
+          },
           "store_details_available": true
         },
         {

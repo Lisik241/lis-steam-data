@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-09T03:35:07+00:00",
-  "catalog_updated_at_utc": "2026-10-09T03:35:07+00:00",
+  "updated_at_utc": "2026-10-10T03:34:08+00:00",
+  "catalog_updated_at_utc": "2026-10-10T03:34:08+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 220
+    "unknown": 212
   },
   "games": [
     {
@@ -1704,76 +1704,11 @@
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "known_dlc_count": 8,
+      "known_dlc_count": 0,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 8,
-      "dlc": [
-        {
-          "appid": 610070,
-          "name": "Rain World - Soundtrack",
-          "type": "music",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 4574640,
-          "name": "Rain World Soundtrack - Alphas, Gems, and Junk",
-          "type": "music",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 4574940,
-          "name": "Rain World Soundtrack - Ambients and Instrumentals",
-          "type": "music",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 4574970,
-          "name": "Rain World Soundtrack - Songs and Rhythms",
-          "type": "music",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 1933390,
-          "name": "Rain World: Downpour",
-          "type": "dlc",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 2282210,
-          "name": "Rain World: Downpour - Soundtrack",
-          "type": "music",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 2857120,
-          "name": "Rain World: The Watcher",
-          "type": "dlc",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 3588290,
-          "name": "Rain World: The Watcher - Soundtrack",
-          "type": "music",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        }
-      ]
+      "unknown_count": 0,
+      "dlc": []
     },
     {
       "game_appid": 1895880,

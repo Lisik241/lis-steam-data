@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-09T03:35:07+00:00",
+  "updated_at_utc": "2026-10-10T03:34:08+00:00",
   "game_count": 81,
   "total_playtime_hours": 1239.4,
   "games": [
@@ -201,8 +201,8 @@
       "name": "Hollow Knight: Silksong",
       "playtime_forever_minutes": 6893,
       "playtime_forever_hours": 114.9,
-      "playtime_2weeks_minutes": 1216,
-      "playtime_2weeks_hours": 20.3
+      "playtime_2weeks_minutes": 1156,
+      "playtime_2weeks_hours": 19.3
     },
     {
       "appid": 2420110,
