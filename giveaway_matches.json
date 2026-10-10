@@ -1,29 +1,29 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-09T20:33:22+00:00",
+  "updated_at_utc": "2026-10-10T00:45:38+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 61095,
+      "age_seconds": 76231,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 61095,
+      "age_seconds": 76231,
       "reason": null
     },
     "taste_profile_loaded": false
   },
   "region": "RU",
-  "match_count": 18,
+  "match_count": 17,
   "bands": {
     "must_claim": 0,
     "likely_match": 0,
     "conditional": 2,
     "family_only": 0,
-    "needs_review": 7,
+    "needs_review": 6,
     "low_priority": 1,
     "skip": 8
   },
@@ -182,82 +182,6 @@
         "matched_concepts": [],
         "band": "conditional",
         "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
-      }
-    },
-    {
-      "source": "GamerPower",
-      "source_id": 3804,
-      "title": "Spooky Cats",
-      "source_title": "Spooky Cats Steam Key Giveaway",
-      "type": "Game",
-      "platforms": "PC, Steam",
-      "description": "Fanatical is giving away Spooky Cats Steam keys for free! Grab your Steam key before it's too late!",
-      "instructions": "1. Login into your Fanatical account and subscribe to their newsletter\r\n2. Link a valid Steam account and unlock your Steam key!\r\n3. Launch the Steam client and click the Games menu option.\r\n4. Choose \"Activate a Product on Steam\" to redeem your Steam key.",
-      "worth": "$2.99",
-      "published_date": "2026-10-07 06:34:03",
-      "end_date": "2026-10-09 23:59:00",
-      "status": "Active",
-      "delivery": "external_steam_key",
-      "content_kind": "game_or_other",
-      "gamerpower_url": "https://www.gamerpower.com/spooky-cats-steam-key-giveaway",
-      "key_region_status": "unknown_no_explicit_ru_block_seen",
-      "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 372210,
-        "name": "Spooky Cats",
-        "search_match_score": 1.0,
-        "query_used": "Spooky Cats",
-        "lookup_mode": "candidate_title_variants",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "appid": 372210,
-        "checked": true,
-        "reachable": true,
-        "verification": "not_free_in_ru",
-        "reason": "ru_final_price:12500",
-        "steam_type": "game",
-        "steam_name": "Spooky Cats",
-        "is_free": false,
-        "price_overview": {
-          "currency": "RUB",
-          "initial": 12500,
-          "final": 12500,
-          "discount_percent": 0,
-          "initial_formatted": "",
-          "final_formatted": "125 руб."
-        },
-        "developers": [
-          "russpuppy"
-        ],
-        "publishers": [
-          "russpuppy"
-        ],
-        "genres": [
-          "Action",
-          "Casual",
-          "Indie"
-        ],
-        "categories": [
-          "Single-player",
-          "Steam Trading Cards",
-          "Partial Controller Support",
-          "Family Sharing"
-        ],
-        "short_description": "Oh no! This cute little kitty cat is alone and lost in a haunted house! Only by collecting pennies and defeating monsters can she find the way out! Use your fast fingers to defeat this adorably dark and funny platform game.",
-        "dlc": [],
-        "fullgame": null
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "needs_review",
-        "explanation": "external Steam key; store price does not invalidate the giveaway; Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
     {
