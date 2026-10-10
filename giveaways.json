@@ -2,10 +2,10 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-10T00:45:38+00:00",
+  "updated_at_utc": "2026-10-10T12:38:34+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 34,
+  "candidate_count": 33,
   "items": [
     {
       "source": "GamerPower",
@@ -298,28 +298,6 @@
         "matched_concepts": [],
         "band": "skip",
         "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
-      }
-    },
-    {
-      "source": "GamerPower",
-      "source_id": 3804,
-      "title": "Spooky Cats",
-      "source_title": "Spooky Cats Steam Key Giveaway",
-      "type": "Game",
-      "platforms": "PC, Steam",
-      "description": "Fanatical is giving away Spooky Cats Steam keys for free! Grab your Steam key before it's too late!",
-      "instructions": "1. Login into your Fanatical account and subscribe to their newsletter\r\n2. Link a valid Steam account and unlock your Steam key!\r\n3. Launch the Steam client and click the Games menu option.\r\n4. Choose \"Activate a Product on Steam\" to redeem your Steam key.",
-      "worth": "$2.99",
-      "published_date": "2026-10-07 06:34:03",
-      "end_date": "2026-10-09 23:59:00",
-      "status": "Active",
-      "delivery": "external_steam_key",
-      "content_kind": "game_or_other",
-      "gamerpower_url": "https://www.gamerpower.com/spooky-cats-steam-key-giveaway",
-      "key_region_status": "unknown_no_explicit_ru_block_seen",
-      "pre_filter": {
-        "rejected": true,
-        "reason": "expired_by_local_clock"
       }
     },
     {
