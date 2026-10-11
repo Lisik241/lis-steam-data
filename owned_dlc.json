@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-10T03:34:08+00:00",
-  "catalog_updated_at_utc": "2026-10-10T03:34:08+00:00",
+  "updated_at_utc": "2026-10-11T03:34:55+00:00",
+  "catalog_updated_at_utc": "2026-10-11T03:34:55+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 212
+    "unknown": 235
   },
   "games": [
     {
@@ -1684,13 +1684,128 @@
       ]
     },
     {
-      "game_appid": 374040,
-      "game_name": "Portal Knights",
-      "known_dlc_count": 0,
+      "game_appid": 405640,
+      "game_name": "Pony Island",
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 1,
+      "dlc": [
+        {
+          "appid": 428010,
+          "name": "App 428010",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
+    },
+    {
+      "game_appid": 374040,
+      "game_name": "Portal Knights",
+      "known_dlc_count": 12,
+      "owned_count": 0,
+      "not_owned_count": 0,
+      "unknown_count": 12,
+      "dlc": [
+        {
+          "appid": 617110,
+          "name": "Portal Knights - Bibot Box",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 918540,
+          "name": "Portal Knights - Box of Fantastic Headwear",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 851870,
+          "name": "Portal Knights - Box of Grumpy Rings",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 851860,
+          "name": "Portal Knights - Box of Joyful Rings",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1176870,
+          "name": "Portal Knights - Druids, Furfolk, and Relic Defense",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1046050,
+          "name": "Portal Knights - Elves, Rogues, and Rifts",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 617140,
+          "name": "Portal Knights - Emoji Box",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 837990,
+          "name": "Portal Knights - Forest Animals Box",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 617100,
+          "name": "Portal Knights - Gold Throne Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 617120,
+          "name": "Portal Knights - Lobot Box",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 617090,
+          "name": "Portal Knights - Portal Pioneer Pack",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1085410,
+          "name": "Portal Knights - Weddings and Galas",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 108600,
@@ -1704,11 +1819,76 @@
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "known_dlc_count": 0,
+      "known_dlc_count": 8,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 8,
+      "dlc": [
+        {
+          "appid": 610070,
+          "name": "Rain World - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4574640,
+          "name": "Rain World Soundtrack - Alphas, Gems, and Junk",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4574940,
+          "name": "Rain World Soundtrack - Ambients and Instrumentals",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4574970,
+          "name": "Rain World Soundtrack - Songs and Rhythms",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 1933390,
+          "name": "Rain World: Downpour",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2282210,
+          "name": "Rain World: Downpour - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 2857120,
+          "name": "Rain World: The Watcher",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 3588290,
+          "name": "Rain World: The Watcher - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 1895880,
@@ -2372,13 +2552,30 @@
       ]
     },
     {
-      "game_appid": 3559900,
-      "game_name": "Voidling Bound Demo",
-      "known_dlc_count": 0,
+      "game_appid": 2004680,
+      "game_name": "Voidling Bound",
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 0,
-      "dlc": []
+      "unknown_count": 2,
+      "dlc": [
+        {
+          "appid": 4788030,
+          "name": "Voidling Bound - Digital Artbook",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
+        {
+          "appid": 4807740,
+          "name": "Voidling Bound Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        }
+      ]
     },
     {
       "game_appid": 230410,

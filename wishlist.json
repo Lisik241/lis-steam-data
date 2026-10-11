@@ -1,9 +1,9 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-10T03:34:08+00:00",
+  "updated_at_utc": "2026-10-11T03:34:55+00:00",
   "country_code": "RU",
   "language": "russian",
-  "wishlist_count": 11,
+  "wishlist_count": 12,
   "items": [
     {
       "appid": 1669000,
@@ -40,6 +40,22 @@
         "formatted_final": "3049 руб."
       },
       "store_details_available": true
+    },
+    {
+      "appid": 19680,
+      "name": "App 19680",
+      "priority": 0,
+      "date_added_utc": "2026-10-10T13:02:42+00:00",
+      "type": null,
+      "is_free": null,
+      "short_description": null,
+      "header_image": null,
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [],
+      "price": null,
+      "store_details_available": false
     },
     {
       "appid": 2138330,

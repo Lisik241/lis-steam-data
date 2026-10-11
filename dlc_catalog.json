@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-10T03:34:08+00:00",
+  "updated_at_utc": "2026-10-11T03:34:55+00:00",
   "country_code": "RU",
   "language": "russian",
-  "game_count_checked": 81,
-  "total_dlc_count": 212,
+  "game_count_checked": 82,
+  "total_dlc_count": 235,
   "games": [
     {
       "game_appid": 1336490,
@@ -3626,11 +3626,289 @@
       ]
     },
     {
+      "game_appid": 405640,
+      "game_name": "Pony Island",
+      "store_details_available": true,
+      "dlc_count": 1,
+      "dlc": [
+        {
+          "appid": 428010,
+          "name": "App 428010",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
+        }
+      ]
+    },
+    {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 12,
+      "dlc": [
+        {
+          "appid": 617110,
+          "name": "Portal Knights - Bibot Box",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Оставьте позади привычный мир и окунитесь в фантастический неизведанный мир Portal Knights! Участвуйте вместе с друзьями в этом остросюжетном приключении, знакомясь с удивительными трехмерными мирами игры-песочницы. Создайте свое приключение. Слепите своего героя. Станьте величайшим рыцарем порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617110/header_russian.jpg?t=1683298936",
+          "release_date": {
+            "coming_soon": false,
+            "date": "18 мая. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 7900,
+            "initial_price": 79.0,
+            "final_price_minor_units": 7900,
+            "final_price": 79.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "79 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 918540,
+          "name": "Portal Knights - Box of Fantastic Headwear",
+          "type": "dlc",
+          "is_free": true,
+          "short_description": "Сыграйте в нашу трёхмерную песочницу! В этом ролевом боевике вам предстоит повышать уровень персонажа, делать могучее оружие, воевать в реальном времени и строить почти всё, что угодно! Сстаньте величайшим рыцарем порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918540/header_russian.jpg?t=1683298279",
+          "release_date": {
+            "coming_soon": false,
+            "date": "29 окт. 2018 г."
+          },
+          "price": null,
+          "store_details_available": true
+        },
+        {
+          "appid": 851870,
+          "name": "Portal Knights - Box of Grumpy Rings",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Сыграйте в нашу трёхмерную песочницу! В этом ролевом боевике вам предстоит повышать уровень персонажа, делать могучее оружие, воевать в реальном времени и строить почти всё, что угодно! Сстаньте величайшим рыцарем порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851870/header_russian.jpg?t=1683298452",
+          "release_date": {
+            "coming_soon": false,
+            "date": "13 сен. 2018 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 8200,
+            "initial_price": 82.0,
+            "final_price_minor_units": 8200,
+            "final_price": 82.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "82 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 851860,
+          "name": "Portal Knights - Box of Joyful Rings",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Сыграйте в нашу трёхмерную песочницу! В этом ролевом боевике вам предстоит повышать уровень персонажа, делать могучее оружие, воевать в реальном времени и строить почти всё, что угодно! Сстаньте величайшим рыцарем порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851860/header_russian.jpg?t=1683298571",
+          "release_date": {
+            "coming_soon": false,
+            "date": "13 сен. 2018 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 8200,
+            "initial_price": 82.0,
+            "final_price_minor_units": 8200,
+            "final_price": 82.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "82 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1176870,
+          "name": "Portal Knights - Druids, Furfolk, and Relic Defense",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Отправляйтесь в дальние края Фейнора и защитите его святые реликвии!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176870/header.jpg?t=1683297097",
+          "release_date": {
+            "coming_soon": false,
+            "date": "20 фев. 2020 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 25900,
+            "initial_price": 259.0,
+            "final_price_minor_units": 25900,
+            "final_price": 259.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "259 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1046050,
+          "name": "Portal Knights - Elves, Rogues, and Rifts",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Отправляйтесь на загадочную луну Фэйнор и откройте новый класс «разбойник» и новую игровую расу эльфов! Темные силы из Пустого измерения хотят погубить Фйэнор с помощью коварных roguelite-ущелий. Только вы можете спасти Фэйнор!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046050/header.jpg?t=1683298047",
+          "release_date": {
+            "coming_soon": false,
+            "date": "27 июн. 2019 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 25900,
+            "initial_price": 259.0,
+            "final_price_minor_units": 25900,
+            "final_price": 259.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "259 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 617140,
+          "name": "Portal Knights - Emoji Box",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Оставьте позади привычный мир и окунитесь в фантастический неизведанный мир Portal Knights! Участвуйте вместе с друзьями в этом остросюжетном приключении, знакомясь с удивительными трехмерными мирами игры-песочницы. Создайте свое приключение. Слепите своего героя. Станьте величайшим рыцарем порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617140/header_russian.jpg?t=1683298718",
+          "release_date": {
+            "coming_soon": false,
+            "date": "18 мая. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 7900,
+            "initial_price": 79.0,
+            "final_price_minor_units": 7900,
+            "final_price": 79.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "79 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 837990,
+          "name": "Portal Knights - Forest Animals Box",
+          "type": "dlc",
+          "is_free": true,
+          "short_description": "Коробка лесных животных содержит 4 новых питомцев для коллекции в игре Portal Knights",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837990/header_russian.jpg?t=1683298607",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 июн. 2018 г."
+          },
+          "price": null,
+          "store_details_available": true
+        },
+        {
+          "appid": 617100,
+          "name": "Portal Knights - Gold Throne Pack",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Оставьте позади привычный мир и окунитесь в фантастическую неизвестность вместе с Portal Knights! Участвуйте вместе с друзьями в этом остросюжетном приключении, знакомясь с удивительными трехмерными мирами игры-песочницы. Создайте свое приключение. Слепите своего героя. Станьте лучшим Рыцарем Порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617100/header_russian.jpg?t=1683299056",
+          "release_date": {
+            "coming_soon": false,
+            "date": "20 июл. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 9900,
+            "initial_price": 99.0,
+            "final_price_minor_units": 9900,
+            "final_price": 99.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "99 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 617120,
+          "name": "Portal Knights - Lobot Box",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Оставьте позади привычный мир и окунитесь в фантастический неизведанный мир Portal Knights! Участвуйте вместе с друзьями в этом остросюжетном приключении, знакомясь с удивительными трехмерными мирами игры-песочницы. Создайте свое приключение. Слепите своего героя. Станьте величайшим рыцарем порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617120/header_russian.jpg?t=1683298894",
+          "release_date": {
+            "coming_soon": false,
+            "date": "18 мая. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 7900,
+            "initial_price": 79.0,
+            "final_price_minor_units": 7900,
+            "final_price": 79.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "79 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 617090,
+          "name": "Portal Knights - Portal Pioneer Pack",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Оставьте позади привычный мир и окунитесь в фантастическую неизвестность вместе с Portal Knights! Участвуйте вместе с друзьями в этом остросюжетном приключении, знакомясь с удивительными трехмерными мирами игры-песочницы. Создайте свое приключение. Слепите своего героя. Станьте лучшим Рыцарем Порталов!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617090/header_russian.jpg?t=1683299099",
+          "release_date": {
+            "coming_soon": false,
+            "date": "20 июл. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 7900,
+            "initial_price": 79.0,
+            "final_price_minor_units": 7900,
+            "final_price": 79.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "79 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1085410,
+          "name": "Portal Knights - Weddings and Galas",
+          "type": "dlc",
+          "is_free": true,
+          "short_description": "Закрепите свой союз с любимым человеком на по-королевски пышной сказочной свадьбе – или просто приоденьтесь для формального случая.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085410/header.jpg?t=1683297856",
+          "release_date": {
+            "coming_soon": false,
+            "date": "6 фев. 2020 г."
+          },
+          "price": null,
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 108600,
@@ -3642,9 +3920,202 @@
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": false,
-      "dlc_count": 0,
-      "dlc": []
+      "store_details_available": true,
+      "dlc_count": 8,
+      "dlc": [
+        {
+          "appid": 610070,
+          "name": "Rain World - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Complete soundtrack of Rain World!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610070/header.jpg?t=1791381487",
+          "release_date": {
+            "coming_soon": false,
+            "date": "27 мар. 2017 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 24900,
+            "initial_price": 249.0,
+            "final_price_minor_units": 24900,
+            "final_price": 249.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "249 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4574640,
+          "name": "Rain World Soundtrack - Alphas, Gems, and Junk",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574640/aa69e590b2aff4b15ea9b3bb376428c3baeff841/header.jpg?t=1791381524",
+          "release_date": {
+            "coming_soon": false,
+            "date": "7 мая. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 23900,
+            "initial_price": 239.0,
+            "final_price_minor_units": 23900,
+            "final_price": 239.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "239 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4574940,
+          "name": "Rain World Soundtrack - Ambients and Instrumentals",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574940/1187a81a4f40ef854fb2e57d0a077e33d3767028/header.jpg?t=1791381584",
+          "release_date": {
+            "coming_soon": false,
+            "date": "7 мая. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 42400,
+            "initial_price": 424.0,
+            "final_price_minor_units": 42400,
+            "final_price": 424.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "424 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4574970,
+          "name": "Rain World Soundtrack - Songs and Rhythms",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Композиции времён разработки Rain World, которые так и не были «официально» выпущены!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574970/f3adf467e37b60f24a1585babe7de0f9631a8933/header.jpg?t=1791381676",
+          "release_date": {
+            "coming_soon": false,
+            "date": "7 мая. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 42400,
+            "initial_price": 424.0,
+            "final_price_minor_units": 42400,
+            "final_price": 424.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "424 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 1933390,
+          "name": "Rain World: Downpour",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Rain World: Downpour — это дополнение к Rain World. Управляйте пятью новыми персонажами с уникальными способностями в огромном преображённом мире. Слизнекоты приспособились к жизни в суровой среде среди эволюционировавших хищников... Выдержите новые условия и испытания на неизведанных территориях!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933390/b25bcda46f777640ea39bfacfa30a34f20f8170c/header.jpg?t=1791381654",
+          "release_date": {
+            "coming_soon": false,
+            "date": "19 янв. 2023 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 55000,
+            "initial_price": 550.0,
+            "final_price_minor_units": 55000,
+            "final_price": 550.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "550 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 2282210,
+          "name": "Rain World: Downpour - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Rain World: Downpour is a DLC expansion of Rain World. Take control of five new characters with new abilities in this vast, redefined world. Slugcats have adapted to the harsh conditions alongside evolved predators! Survive new environmental conditions, dangers and explore uncharted territory.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282210/header.jpg?t=1707800192",
+          "release_date": {
+            "coming_soon": false,
+            "date": "23 янв. 2023 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 38500,
+            "initial_price": 385.0,
+            "final_price_minor_units": 38500,
+            "final_price": 385.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "385 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 2857120,
+          "name": "Rain World: The Watcher",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Rain World: The Watcher — это дополнение к Rain World. Отправляйтесь в невиданные пределы, о которых можно было только мечтать. Когда земля уйдёт из-под ног, будете ли вы цепляться за прошлое? Или погрузитесь в неизвестность?",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2857120/672443de0c93bb380130c3c4040e3cdfa4d5abc5/header.jpg?t=1791381739",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 мар. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 55000,
+            "initial_price": 550.0,
+            "final_price_minor_units": 55000,
+            "final_price": 550.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "550 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 3588290,
+          "name": "Rain World: The Watcher - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Official Soundtrack for Rain World: The Watcher.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588290/a2e57dfcd797afdc92778f1e620371fafa00ec31/header.jpg?t=1791381767",
+          "release_date": {
+            "coming_soon": false,
+            "date": "28 мар. 2025 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 38500,
+            "initial_price": 385.0,
+            "final_price_minor_units": 38500,
+            "final_price": 385.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "385 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 1895880,
@@ -4976,11 +5447,60 @@
       ]
     },
     {
-      "game_appid": 3559900,
-      "game_name": "Voidling Bound Demo",
+      "game_appid": 2004680,
+      "game_name": "Voidling Bound",
       "store_details_available": true,
-      "dlc_count": 0,
-      "dlc": []
+      "dlc_count": 2,
+      "dlc": [
+        {
+          "appid": 4788030,
+          "name": "Voidling Bound - Digital Artbook",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Hatch, evolve, and upgrade powerful space creatures in this action-packed sci-fi 3rd person shooter that reinvents the monster taming genre!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4788030/30885c72367bf4ac7c26d17a7b9b6ccc3fe344cb/header.jpg?t=1781035356",
+          "release_date": {
+            "coming_soon": false,
+            "date": "9 июн. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 59000,
+            "initial_price": 590.0,
+            "final_price_minor_units": 47200,
+            "final_price": 472.0,
+            "discount_percent": 20,
+            "formatted_initial": "590 руб.",
+            "formatted_final": "472 руб."
+          },
+          "store_details_available": true
+        },
+        {
+          "appid": 4807740,
+          "name": "Voidling Bound Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "Hatch, evolve, and upgrade powerful space creatures in this action-packed sci-fi 3rd person shooter that reinvents the monster taming genre!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807740/f5174df6d86649022db395ba65f6b34ee34fed73/header.jpg?t=1781033591",
+          "release_date": {
+            "coming_soon": false,
+            "date": "9 июн. 2026 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 46500,
+            "initial_price": 465.0,
+            "final_price_minor_units": 37200,
+            "final_price": 372.0,
+            "discount_percent": 20,
+            "formatted_initial": "465 руб.",
+            "formatted_final": "372 руб."
+          },
+          "store_details_available": true
+        }
+      ]
     },
     {
       "game_appid": 230410,
