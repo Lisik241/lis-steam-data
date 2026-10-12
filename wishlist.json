@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-11T03:34:55+00:00",
+  "updated_at_utc": "2026-10-12T03:39:05+00:00",
   "country_code": "RU",
   "language": "russian",
   "wishlist_count": 12,
@@ -332,7 +332,7 @@
       "type": "game",
       "is_free": false,
       "short_description": "Мир, полный волшебства и незабываемых приключений, ждет вас! Приручайте питомцев, бейтесь с магическими созданиями и возводите уютные дома взмахом волшебной палочки. Можно играть как в одиночку, так и с друзьями.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/9903e0c01daca55b168474c99bc85e44a06299d0/header_alt_assets_2_russian.jpg?t=1791472300",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/fb7f504258d3ace8267a937de3fb9be130c246d8/header.jpg?t=1791472300",
       "release_date": {
         "coming_soon": false,
         "date": "10 июн. 2026 г."

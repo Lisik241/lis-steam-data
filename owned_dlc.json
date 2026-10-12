@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-11T03:34:55+00:00",
-  "catalog_updated_at_utc": "2026-10-11T03:34:55+00:00",
+  "updated_at_utc": "2026-10-12T03:39:05+00:00",
+  "catalog_updated_at_utc": "2026-10-12T03:39:05+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -1570,14 +1570,6 @@
       "unknown_count": 14,
       "dlc": [
         {
-          "appid": 1694800,
-          "name": "App 1694800",
-          "type": null,
-          "is_free": null,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
           "appid": 1816820,
           "name": "App 1816820",
           "type": null,
@@ -1658,18 +1650,26 @@
           "status_source": "preserved"
         },
         {
-          "appid": 1694801,
-          "name": "Pathfinder: Wrath of the Righteous - Season Pass",
+          "appid": 3116830,
+          "name": "App 3116830",
+          "type": null,
+          "is_free": null,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
+          "appid": 1694800,
+          "name": "Pathfinder: Wrath of the Righteous - Commander Pack",
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
           "status_source": "preserved"
         },
         {
-          "appid": 3116830,
-          "name": "Pathfinder: Wrath of the Righteous - Visitors from Morta",
+          "appid": 1694801,
+          "name": "Pathfinder: Wrath of the Righteous - Season Pass",
           "type": "dlc",
-          "is_free": true,
+          "is_free": false,
           "status": "unknown",
           "status_source": "preserved"
         },
@@ -1693,11 +1693,11 @@
       "dlc": [
         {
           "appid": 428010,
-          "name": "App 428010",
-          "type": null,
-          "is_free": null,
+          "name": "Pony Island - Soundtrack",
+          "type": "music",
+          "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -1715,7 +1715,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 918540,
@@ -1723,7 +1723,7 @@
           "type": "dlc",
           "is_free": true,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 851870,
@@ -1731,7 +1731,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 851860,
@@ -1739,7 +1739,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1176870,
@@ -1747,7 +1747,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1046050,
@@ -1755,7 +1755,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 617140,
@@ -1763,7 +1763,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 837990,
@@ -1771,7 +1771,7 @@
           "type": "dlc",
           "is_free": true,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 617100,
@@ -1779,7 +1779,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 617120,
@@ -1787,7 +1787,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 617090,
@@ -1795,7 +1795,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1085410,
@@ -1803,7 +1803,7 @@
           "type": "dlc",
           "is_free": true,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -1830,7 +1830,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4574640,
@@ -1838,7 +1838,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4574940,
@@ -1846,7 +1846,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4574970,
@@ -1854,7 +1854,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 1933390,
@@ -1862,7 +1862,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2282210,
@@ -1870,7 +1870,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 2857120,
@@ -1878,7 +1878,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 3588290,
@@ -1886,7 +1886,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },
@@ -2565,7 +2565,7 @@
           "type": "dlc",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 4807740,
@@ -2573,7 +2573,7 @@
           "type": "music",
           "is_free": false,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         }
       ]
     },

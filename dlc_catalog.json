@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-11T03:34:55+00:00",
+  "updated_at_utc": "2026-10-12T03:39:05+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3441,17 +3441,6 @@
       "dlc_count": 14,
       "dlc": [
         {
-          "appid": 1694800,
-          "name": "App 1694800",
-          "type": null,
-          "is_free": null,
-          "short_description": null,
-          "header_image": null,
-          "release_date": null,
-          "price": null,
-          "store_details_available": false
-        },
-        {
           "appid": 1816820,
           "name": "App 1816820",
           "type": null,
@@ -3562,6 +3551,41 @@
           "store_details_available": false
         },
         {
+          "appid": 3116830,
+          "name": "App 3116830",
+          "type": null,
+          "is_free": null,
+          "short_description": null,
+          "header_image": null,
+          "release_date": null,
+          "price": null,
+          "store_details_available": false
+        },
+        {
+          "appid": 1694800,
+          "name": "Pathfinder: Wrath of the Righteous - Commander Pack",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Исследуйте захваченный демонами мир в новой эпической ролевой игре от создателей культовой Pathfinder: Kingmaker. Познайте суть добра и зла, узнайте истинную цену власти и станьте Мифическим Героем, способным на подвиги, превосходящие ожидания смертных.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694800/header.jpg?t=1635975257",
+          "release_date": {
+            "coming_soon": false,
+            "date": "2 сен. 2021 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 22900,
+            "initial_price": 229.0,
+            "final_price_minor_units": 22900,
+            "final_price": 229.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "229 руб."
+          },
+          "store_details_available": true
+        },
+        {
           "appid": 1694801,
           "name": "Pathfinder: Wrath of the Righteous - Season Pass",
           "type": "dlc",
@@ -3583,20 +3607,6 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true
-        },
-        {
-          "appid": 3116830,
-          "name": "Pathfinder: Wrath of the Righteous - Visitors from Morta",
-          "type": "dlc",
-          "is_free": true,
-          "short_description": "Среди пустошей Мировой язвы приоткрылось окно в иной мир.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116830/header.jpg?t=1727195541",
-          "release_date": {
-            "coming_soon": false,
-            "date": "5 сен. 2024 г."
-          },
-          "price": null,
           "store_details_available": true
         },
         {
@@ -3633,14 +3643,27 @@
       "dlc": [
         {
           "appid": 428010,
-          "name": "App 428010",
-          "type": null,
-          "is_free": null,
-          "short_description": null,
-          "header_image": null,
-          "release_date": null,
-          "price": null,
-          "store_details_available": false
+          "name": "Pony Island - Soundtrack",
+          "type": "music",
+          "is_free": false,
+          "short_description": "The soundtrack of Pony Island.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428010/header.jpg?t=1581558736",
+          "release_date": {
+            "coming_soon": false,
+            "date": "4 янв. 2016 г."
+          },
+          "price": {
+            "country_code": "RU",
+            "currency": "RUB",
+            "initial_price_minor_units": 8200,
+            "initial_price": 82.0,
+            "final_price_minor_units": 8200,
+            "final_price": 82.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "82 руб."
+          },
+          "store_details_available": true
         }
       ]
     },
