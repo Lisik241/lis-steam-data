@@ -383,6 +383,12 @@ def update_dlc_catalog(
     library_games: list[dict[str, Any]],
     updated_at: str,
 ) -> None:
+    previous_catalog = load_json_file(DLC_CATALOG_FILE) or {}
+    previous_games = {
+        int(entry["game_appid"]): entry
+        for entry in previous_catalog.get("games", [])
+        if isinstance(entry, dict) and str(entry.get("game_appid", "")).isdigit()
+    }
     catalog_games = []
     total_dlc = 0
 
@@ -407,15 +413,20 @@ def update_dlc_catalog(
             details = None
 
         if details is None:
-            catalog_games.append(
-                {
-                    "game_appid": game_appid,
-                    "game_name": game_name,
-                    "store_details_available": False,
-                    "dlc_count": 0,
-                    "dlc": [],
-                }
-            )
+            previous = previous_games.get(game_appid, {})
+            preserved = previous.get("dlc", [])
+            if not isinstance(preserved, list):
+                preserved = []
+            preserved = [dict(entry) for entry in preserved if isinstance(entry, dict)]
+            total_dlc += len(preserved)
+            catalog_games.append({
+                "game_appid": game_appid,
+                "game_name": game_name,
+                "store_details_available": False,
+                "dlc_count": len(preserved),
+                "dlc": preserved,
+                "dlc_data_source": "previous_catalog" if preserved else "unavailable",
+            })
             time.sleep(0.7)
             continue
 
@@ -427,6 +438,11 @@ def update_dlc_catalog(
             if dlc_ids:
                 print(f"  DLC page fallback found {len(dlc_ids)} app IDs")
 
+        previous_entries = {
+            int(entry["appid"]): entry
+            for entry in previous_games.get(game_appid, {}).get("dlc", [])
+            if isinstance(entry, dict) and str(entry.get("appid", "")).isdigit()
+        }
         cleaned_dlc = []
 
         for dlc_index, dlc_appid_raw in enumerate(dlc_ids, start=1):
@@ -446,6 +462,13 @@ def update_dlc_catalog(
                     "keeping the DLC with partial metadata."
                 )
                 dlc_details = None
+
+            if dlc_details is None and dlc_appid in previous_entries:
+                preserved = dict(previous_entries[dlc_appid])
+                preserved["metadata_source"] = "previous_catalog"
+                cleaned_dlc.append(preserved)
+                time.sleep(0.7)
+                continue
 
             cleaned_dlc.append(
                 {
