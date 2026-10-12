@@ -77,6 +77,48 @@ class GameDetailsRateLimitTests(unittest.TestCase):
         self.assertEqual(game["dlc"], [])
 
 
+class CachedDlcPreservationTests(unittest.TestCase):
+    def setUp(self):
+        self.previous = {
+            "games": [{
+                "game_appid": 10,
+                "game_name": "Base Game",
+                "dlc": [{"appid": 20, "name": "Known DLC", "store_details_available": True}],
+            }]
+        }
+
+    def test_unavailable_base_game_preserves_dlc(self):
+        with mock.patch.object(updater, "load_json_file", return_value=self.previous), mock.patch.object(
+            updater, "get_app_details", return_value=None
+        ), mock.patch.object(updater.time, "sleep"), mock.patch(
+            "pathlib.Path.write_text", autospec=True
+        ) as write_text:
+            updater.update_dlc_catalog([{"appid": 10, "name": "Base Game"}], "2026-10-12T00:00:00+00:00")
+        payload = __import__("json").loads(write_text.call_args.args[1])
+        game = payload["games"][0]
+        self.assertEqual(payload["total_dlc_count"], 1)
+        self.assertEqual(game["dlc_count"], 1)
+        self.assertEqual(game["dlc"][0]["appid"], 20)
+        self.assertEqual(game["dlc_data_source"], "previous_catalog")
+        self.assertFalse(game["store_details_available"])
+
+    def test_rate_limited_dlc_preserves_metadata(self):
+        error = updater.SteamRequestError(
+            "rate_limited", "Steam request failed with HTTP 429.",
+            retryable=True, status=429
+        )
+        with mock.patch.object(updater, "load_json_file", return_value=self.previous), mock.patch.object(
+            updater, "get_app_details", side_effect=[{"dlc": [20]}, error]
+        ), mock.patch.object(updater.time, "sleep"), mock.patch(
+            "pathlib.Path.write_text", autospec=True
+        ) as write_text:
+            updater.update_dlc_catalog([{"appid": 10, "name": "Base Game"}], "2026-10-12T00:00:00+00:00")
+        payload = __import__("json").loads(write_text.call_args.args[1])
+        dlc = payload["games"][0]["dlc"][0]
+        self.assertEqual(dlc["name"], "Known DLC")
+        self.assertEqual(dlc["metadata_source"], "previous_catalog")
+
+
 class FetchJsonErrorTests(unittest.TestCase):
     def assert_category(self, side_effect, expected):
         with mock.patch.object(updater.urllib.request, "urlopen", side_effect=side_effect):
