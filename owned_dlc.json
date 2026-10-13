@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-12T03:39:05+00:00",
-  "catalog_updated_at_utc": "2026-10-12T03:39:05+00:00",
+  "updated_at_utc": "2026-10-13T03:37:35+00:00",
+  "catalog_updated_at_utc": "2026-10-13T03:37:35+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -1650,14 +1650,6 @@
           "status_source": "preserved"
         },
         {
-          "appid": 3116830,
-          "name": "App 3116830",
-          "type": null,
-          "is_free": null,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
           "appid": 1694800,
           "name": "Pathfinder: Wrath of the Righteous - Commander Pack",
           "type": "dlc",
@@ -1670,6 +1662,14 @@
           "name": "Pathfinder: Wrath of the Righteous - Season Pass",
           "type": "dlc",
           "is_free": false,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
+          "appid": 3116830,
+          "name": "Pathfinder: Wrath of the Righteous - Visitors from Morta",
+          "type": "dlc",
+          "is_free": true,
           "status": "unknown",
           "status_source": "preserved"
         },
