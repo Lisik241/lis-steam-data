@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-16T03:49:41+00:00",
+  "updated_at_utc": "2026-10-17T03:47:32+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3600,8 +3600,7 @@
             "formatted_initial": "",
             "formatted_final": "229 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 1694801,
@@ -3671,7 +3670,7 @@
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3698,8 +3697,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 374040,
