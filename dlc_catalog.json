@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-18T03:47:22+00:00",
+  "updated_at_utc": "2026-10-19T03:52:21+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3639,8 +3639,7 @@
             "date": "5 сен. 2024 г."
           },
           "price": null,
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 2145870,
@@ -3671,7 +3670,7 @@
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3698,12 +3697,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 12,
       "dlc": [
         {
@@ -3964,7 +3964,8 @@
           "price": null,
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 108600,
