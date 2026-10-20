@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-19T01:00:57+00:00",
+  "updated_at_utc": "2026-10-20T01:02:33+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 30,
@@ -137,91 +137,8 @@
       "gamerpower_url": "https://www.gamerpower.com/voidtrain-big-catch-dlc-giveaway",
       "key_region_status": null,
       "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 1159690,
-        "name": "Voidtrain",
-        "search_match_score": 1.0,
-        "query_used": "Voidtrain",
-        "lookup_mode": "base_game_fallback",
-        "base_game_query": "Voidtrain",
-        "matched_product_role": "base_game_only"
-      },
-      "base_game": {
-        "appid": 1159690,
-        "name": "Voidtrain",
-        "owned": false
-      },
-      "steam_ru": {
-        "checked": false,
-        "verification": "needs_review",
-        "reason": "base_game_found_but_dlc_appid_unresolved",
-        "base_game_store_metadata": {
-          "appid": 1159690,
-          "checked": true,
-          "reachable": true,
-          "verification": "not_free_in_ru",
-          "reason": "ru_final_price:49900",
-          "steam_type": "game",
-          "steam_name": "Voidtrain",
-          "is_free": false,
-          "price_overview": {
-            "currency": "RUB",
-            "initial": 99900,
-            "final": 49900,
-            "discount_percent": 50,
-            "initial_formatted": "999 руб.",
-            "final_formatted": "499 руб."
-          },
-          "developers": [
-            "HypeTrain Digital"
-          ],
-          "publishers": [
-            "HypeTrain Digital"
-          ],
-          "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "RPG",
-            "Simulation"
-          ],
-          "categories": [
-            "Single-player",
-            "Multi-player",
-            "Co-op",
-            "Online Co-op",
-            "Cross-Platform Multiplayer",
-            "Steam Achievements",
-            "Steam Trading Cards",
-            "Partial Controller Support",
-            "Steam Cloud",
-            "Family Sharing"
-          ],
-          "short_description": "Become a crew member of an Interdimensional Express Train! Discover a new world full of mysterious creatures, enemies and places. Upgrade and customize your train, gather new materials and build better weapons. Play solo or online сo-op with up to 4 people.",
-          "dlc": [
-            5007040,
-            4108450,
-            2348780,
-            4146410
-          ],
-          "fullgame": null
-        }
-      },
-      "dlc_gate": {
-        "eligible": false,
-        "reason": "base_game_not_owned",
-        "base_appid": 1159690
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "skip",
-        "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
+        "rejected": true,
+        "reason": "expired_by_local_clock"
       }
     },
     {
