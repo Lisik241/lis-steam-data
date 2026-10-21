@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-20T03:50:05+00:00",
+  "updated_at_utc": "2026-10-21T03:50:46+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3637,7 +3637,8 @@
             "formatted_initial": "",
             "formatted_final": "369 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 3116830,
@@ -3715,7 +3716,7 @@
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 12,
       "dlc": [
         {
@@ -3976,8 +3977,7 @@
           "price": null,
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 108600,
@@ -4596,7 +4596,7 @@
           "type": "dlc",
           "is_free": true,
           "short_description": "Подарите своим котикам игрушки. Со временем видов игрушек станет больше. Разместите на экране катящийся мячик, который так любят кошки, флажок с милым дизайном или кошачью башню, помогающую забираться повыше.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824710/af1c72674503713721cf15bd8e0700584a81ad86/header.jpg?t=1784485069",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824710/af1c72674503713721cf15bd8e0700584a81ad86/header.jpg?t=1792512182",
           "release_date": {
             "coming_soon": false,
             "date": "12 июн. 2026 г."
