@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-21T03:50:46+00:00",
+  "updated_at_utc": "2026-10-22T03:51:12+00:00",
   "country_code": "RU",
   "language": "russian",
   "wishlist_count": 12,
@@ -331,8 +331,8 @@
       "date_added_utc": "2026-06-07T18:30:58+00:00",
       "type": "game",
       "is_free": false,
-      "short_description": "Мир, полный волшебства и незабываемых приключений, ждет вас! Приручайте питомцев, бейтесь с магическими созданиями и возводите уютные дома взмахом волшебной палочки. Можно играть как в одиночку, так и с друзьями.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/fb7f504258d3ace8267a937de3fb9be130c246d8/header.jpg?t=1792167106",
+      "short_description": "Кооперативное приключение в мире магии (до 6 игроков) с элементами выживания. К вам взывает волшебный край – край чудес и чудовищ! Сумеете ли вы овладеть чарами, повергнуть врагов, возвести уютное убежище и дать отпор отравляющей все и вся Порче?",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/25d0b528b0ac751bdd0c81369fefd9077a23b69a/header_alt_assets_3.jpg?t=1792587467",
       "release_date": {
         "coming_soon": false,
         "date": "10 июн. 2026 г."
@@ -353,11 +353,11 @@
         "currency": "RUB",
         "initial_price_minor_units": 96597,
         "initial_price": 965.97,
-        "final_price_minor_units": 96597,
-        "final_price": 965.97,
-        "discount_percent": 0,
-        "formatted_initial": "",
-        "formatted_final": "965,97 руб."
+        "final_price_minor_units": 72397,
+        "final_price": 723.97,
+        "discount_percent": 25,
+        "formatted_initial": "965,97 руб.",
+        "formatted_final": "723,97 руб."
       },
       "store_details_available": true
     }

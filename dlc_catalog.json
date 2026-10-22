@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-21T03:50:46+00:00",
+  "updated_at_utc": "2026-10-22T03:51:12+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
-  "total_dlc_count": 235,
+  "total_dlc_count": 236,
   "games": [
     {
       "game_appid": 1336490,
@@ -3337,8 +3337,22 @@
       "game_appid": 2139460,
       "game_name": "Once Human",
       "store_details_available": true,
-      "dlc_count": 2,
+      "dlc_count": 3,
       "dlc": [
+        {
+          "appid": 5423670,
+          "name": "Once Human — Океаническое расширение: бонусный набор «Острова бездны»",
+          "type": "dlc",
+          "is_free": true,
+          "short_description": "Заберите бесплатный бонусный набор «Острова бездны»! Выберите 1 из 7 эксклюзивных девиаций, а также набор для выживания (компактный фильтр для воды, гидрокостюм и др.) и 2 000 Starchrom. Доступно в игре с 21 октября (PT). Одна выдача на аккаунт на всех платформах — только первая.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423670/e5c9e21528680cfcb98e6134b4cfcc9f839411f3/header.jpg?t=1792638254",
+          "release_date": {
+            "coming_soon": false,
+            "date": "21 окт. 2026 г."
+          },
+          "price": null,
+          "store_details_available": true
+        },
         {
           "appid": 3379260,
           "name": "Once Human- Тематический набор «Двойной агент»",
@@ -3495,18 +3509,6 @@
           "metadata_source": "previous_catalog"
         },
         {
-          "appid": 1882540,
-          "name": "App 1882540",
-          "type": null,
-          "is_free": null,
-          "short_description": null,
-          "header_image": null,
-          "release_date": null,
-          "price": null,
-          "store_details_available": false,
-          "metadata_source": "previous_catalog"
-        },
-        {
           "appid": 1889980,
           "name": "App 1889980",
           "type": null,
@@ -3567,6 +3569,20 @@
           "metadata_source": "previous_catalog"
         },
         {
+          "appid": 1882540,
+          "name": "Pathfinder: Wrath of the Righteous -  A Visitor from Distant Lands",
+          "type": "dlc",
+          "is_free": true,
+          "short_description": "Получите нового питомца - верховного дракончика. Его великая мудрость поможет вам легче проходить проверки всех навыков категории Знания.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882540/header.jpg?t=1643296006",
+          "release_date": {
+            "coming_soon": false,
+            "date": "27 янв. 2022 г."
+          },
+          "price": null,
+          "store_details_available": true
+        },
+        {
           "appid": 1694800,
           "name": "Pathfinder: Wrath of the Righteous - Commander Pack",
           "type": "dlc",
@@ -3588,8 +3604,7 @@
             "formatted_initial": "",
             "formatted_final": "229 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 1694801,
@@ -3613,7 +3628,8 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 2564570,
@@ -3652,7 +3668,8 @@
             "date": "5 сен. 2024 г."
           },
           "price": null,
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 2145870,
@@ -3683,7 +3700,7 @@
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3710,8 +3727,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 374040,
@@ -4304,11 +4320,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 90000,
             "initial_price": 900.0,
-            "final_price_minor_units": 90000,
-            "final_price": 900.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "900 руб."
+            "final_price_minor_units": 76500,
+            "final_price": 765.0,
+            "discount_percent": 15,
+            "formatted_initial": "900 руб.",
+            "formatted_final": "765 руб."
           },
           "store_details_available": true
         },
@@ -4352,11 +4368,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 90000,
             "initial_price": 900.0,
-            "final_price_minor_units": 90000,
-            "final_price": 900.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "900 руб."
+            "final_price_minor_units": 76500,
+            "final_price": 765.0,
+            "discount_percent": 15,
+            "formatted_initial": "900 руб.",
+            "formatted_final": "765 руб."
           },
           "store_details_available": true
         },
@@ -4376,11 +4392,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 75000,
             "initial_price": 750.0,
-            "final_price_minor_units": 75000,
-            "final_price": 750.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "750 руб."
+            "final_price_minor_units": 60000,
+            "final_price": 600.0,
+            "discount_percent": 20,
+            "formatted_initial": "750 руб.",
+            "formatted_final": "600 руб."
           },
           "store_details_available": true
         },
@@ -4400,11 +4416,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 88000,
             "initial_price": 880.0,
-            "final_price_minor_units": 88000,
-            "final_price": 880.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "880 руб."
+            "final_price_minor_units": 79200,
+            "final_price": 792.0,
+            "discount_percent": 10,
+            "formatted_initial": "880 руб.",
+            "formatted_final": "792 руб."
           },
           "store_details_available": true
         },
@@ -4448,11 +4464,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 75000,
             "initial_price": 750.0,
-            "final_price_minor_units": 75000,
-            "final_price": 750.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "750 руб."
+            "final_price_minor_units": 60000,
+            "final_price": 600.0,
+            "discount_percent": 20,
+            "formatted_initial": "750 руб.",
+            "formatted_final": "600 руб."
           },
           "store_details_available": true
         },
@@ -5085,11 +5101,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 14900,
             "initial_price": 149.0,
-            "final_price_minor_units": 14900,
-            "final_price": 149.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "149 руб."
+            "final_price_minor_units": 7400,
+            "final_price": 74.0,
+            "discount_percent": 50,
+            "formatted_initial": "149 руб.",
+            "formatted_final": "74 руб."
           },
           "store_details_available": true
         }

@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-21T03:50:46+00:00",
-  "catalog_updated_at_utc": "2026-10-21T03:50:46+00:00",
+  "updated_at_utc": "2026-10-22T03:51:12+00:00",
+  "catalog_updated_at_utc": "2026-10-22T03:51:12+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 235
+    "unknown": 236
   },
   "games": [
     {
@@ -1484,11 +1484,19 @@
     {
       "game_appid": 2139460,
       "game_name": "Once Human",
-      "known_dlc_count": 2,
+      "known_dlc_count": 3,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 2,
+      "unknown_count": 3,
       "dlc": [
+        {
+          "appid": 5423670,
+          "name": "Once Human — Океаническое расширение: бонусный набор «Острова бездны»",
+          "type": "dlc",
+          "is_free": true,
+          "status": "unknown",
+          "status_source": "new_dlc"
+        },
         {
           "appid": 3379260,
           "name": "Once Human- Тематический набор «Двойной агент»",
@@ -1594,14 +1602,6 @@
           "status_source": "preserved"
         },
         {
-          "appid": 1882540,
-          "name": "App 1882540",
-          "type": null,
-          "is_free": null,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
           "appid": 1889980,
           "name": "App 1889980",
           "type": null,
@@ -1638,6 +1638,14 @@
           "name": "App 2564580",
           "type": null,
           "is_free": null,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
+          "appid": 1882540,
+          "name": "Pathfinder: Wrath of the Righteous -  A Visitor from Distant Lands",
+          "type": "dlc",
+          "is_free": true,
           "status": "unknown",
           "status_source": "preserved"
         },
