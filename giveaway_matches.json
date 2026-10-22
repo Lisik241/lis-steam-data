@@ -1,17 +1,17 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-22T13:03:43+00:00",
+  "updated_at_utc": "2026-10-22T16:51:49+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 33151,
+      "age_seconds": 46837,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 33151,
+      "age_seconds": 46837,
       "reason": null
     },
     "taste_profile_loaded": false
@@ -50,66 +50,14 @@
         "reason": null
       },
       "steam_match": null,
-      "rejected_steam_match": {
-        "appid": 4099830,
-        "name": "Magicraft - DAVE THE DIVER Content Pack",
-        "search_match_score": 0.5,
-        "query_used": "DAVE THE DIVER",
-        "lookup_mode": "base_game_fallback",
-        "base_game_query": "DAVE THE DIVER",
-        "matched_product_role": "rejected_parent_mismatch"
-      },
       "steam_ru": {
         "checked": false,
         "verification": "needs_review",
-        "reason": "base_game_name_mismatch",
-        "rejected_product_metadata": {
-          "appid": 4099830,
-          "checked": true,
-          "reachable": true,
-          "verification": "reject_f2p",
-          "reason": "steam_marks_app_as_permanently_free",
-          "steam_type": "dlc",
-          "steam_name": "Magicraft - DAVE THE DIVER Content Pack",
-          "is_free": true,
-          "price_overview": {},
-          "developers": [
-            "Wave Games"
-          ],
-          "publishers": [
-            "bilibili"
-          ],
-          "genres": [
-            "Action",
-            "Adventure",
-            "Indie",
-            "RPG",
-            "Free To Play"
-          ],
-          "categories": [
-            "Single-player",
-            "Downloadable Content",
-            "Steam Achievements",
-            "Full controller support",
-            "DualShock Controller Support",
-            "DualShock Controller Support",
-            "Steam Cloud",
-            "Family Sharing"
-          ],
-          "short_description": "The Magicraft × Dave the Diver Content Pack features a variety of exciting crossover content. Embark on a magical adventure as Dave explores the world of Magicraft!",
-          "dlc": [],
-          "fullgame": {
-            "appid": "2103140",
-            "name": "Magicraft"
-          }
-        }
+        "reason": "no_confident_steam_appid_match"
       },
       "dlc_gate": {
         "eligible": null,
-        "reason": "base_game_name_mismatch",
-        "expected_base_name": "DAVE THE DIVER",
-        "resolved_base_name": "Magicraft",
-        "resolved_base_appid": "2103140"
+        "reason": "base_game_unresolved"
       },
       "taste": {
         "score": 0,
