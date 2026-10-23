@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-22T03:51:12+00:00",
-  "catalog_updated_at_utc": "2026-10-22T03:51:12+00:00",
+  "updated_at_utc": "2026-10-23T03:50:23+00:00",
+  "catalog_updated_at_utc": "2026-10-23T03:50:23+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 236
+    "unknown": 237
   },
   "games": [
     {
@@ -293,10 +293,10 @@
     {
       "game_appid": 49520,
       "game_name": "Borderlands 2",
-      "known_dlc_count": 1,
+      "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 1,
+      "unknown_count": 2,
       "dlc": [
         {
           "appid": 218560,
@@ -305,6 +305,14 @@
           "is_free": false,
           "status": "unknown",
           "status_source": "preserved"
+        },
+        {
+          "appid": 224180,
+          "name": "Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2",
+          "type": "dlc",
+          "is_free": false,
+          "status": "unknown",
+          "status_source": "new_dlc"
         }
       ]
     },
@@ -1495,7 +1503,7 @@
           "type": "dlc",
           "is_free": true,
           "status": "unknown",
-          "status_source": "new_dlc"
+          "status_source": "preserved"
         },
         {
           "appid": 3379260,
@@ -1594,14 +1602,6 @@
           "status_source": "preserved"
         },
         {
-          "appid": 1849470,
-          "name": "App 1849470",
-          "type": null,
-          "is_free": null,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
           "appid": 1889980,
           "name": "App 1889980",
           "type": null,
@@ -1654,6 +1654,14 @@
           "name": "Pathfinder: Wrath of the Righteous - Commander Pack",
           "type": "dlc",
           "is_free": false,
+          "status": "unknown",
+          "status_source": "preserved"
+        },
+        {
+          "appid": 1849470,
+          "name": "Pathfinder: Wrath of the Righteous - Paint of War",
+          "type": "dlc",
+          "is_free": true,
           "status": "unknown",
           "status_source": "preserved"
         },
