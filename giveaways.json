@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-25T04:50:16+00:00",
+  "updated_at_utc": "2026-10-25T19:05:51+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 29,
@@ -62,18 +62,18 @@
         "appid": 4841320,
         "checked": true,
         "reachable": true,
-        "verification": "strong_keep_forever_candidate",
-        "reason": "paid_app_at_100_percent_discount_in_ru",
+        "verification": "not_free_in_ru",
+        "reason": "ru_final_price:55500",
         "steam_type": "dlc",
         "steam_name": "Squad Weapon Skins - Recon Team Pack ",
-        "is_free": true,
+        "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 55500,
           "final": 55500,
-          "discount_percent": 100,
-          "initial_formatted": "555 руб.",
-          "final_formatted": "Free"
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "555 руб."
         },
         "developers": [
           "Offworld"
