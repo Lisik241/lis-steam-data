@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-25T19:05:51+00:00",
+  "updated_at_utc": "2026-10-26T04:55:03+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 29,
@@ -47,76 +47,8 @@
       "gamerpower_url": "https://www.gamerpower.com/squad-weapon-skins-recon-team-pack-steam-giveaway",
       "key_region_status": null,
       "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 4841320,
-        "name": "Squad Weapon Skins - Recon Team Pack ",
-        "search_match_score": 1.0,
-        "query_used": "Squad Weapon Skins Recon Team Pack",
-        "lookup_mode": "candidate_title_variants",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "appid": 4841320,
-        "checked": true,
-        "reachable": true,
-        "verification": "not_free_in_ru",
-        "reason": "ru_final_price:55500",
-        "steam_type": "dlc",
-        "steam_name": "Squad Weapon Skins - Recon Team Pack ",
-        "is_free": false,
-        "price_overview": {
-          "currency": "RUB",
-          "initial": 55500,
-          "final": 55500,
-          "discount_percent": 0,
-          "initial_formatted": "",
-          "final_formatted": "555 руб."
-        },
-        "developers": [
-          "Offworld"
-        ],
-        "publishers": [
-          "Offworld"
-        ],
-        "genres": [
-          "Action",
-          "Massively Multiplayer",
-          "Strategy"
-        ],
-        "categories": [
-          "Multi-player",
-          "PvP",
-          "Online PvP",
-          "Co-op",
-          "Downloadable Content"
-        ],
-        "short_description": "This pack contains 5 woodland weapon skins for the USMC faction.",
-        "dlc": [],
-        "fullgame": {
-          "appid": "393380",
-          "name": "Squad"
-        }
-      },
-      "base_game": {
-        "appid": 393380,
-        "name": "Squad",
-        "owned": false
-      },
-      "dlc_gate": {
-        "eligible": false,
-        "reason": "base_game_not_owned",
-        "base_appid": 393380
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "skip",
-        "explanation": "base game is not owned; DLC has no current use; permanent bonus/cosmetic DLC; surface only when base game is owned; Steam/GamerPower metadata does not expose enough taste signals yet"
+        "rejected": true,
+        "reason": "expired_by_local_clock"
       }
     },
     {
