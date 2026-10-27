@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-26T09:02:26+00:00",
+  "updated_at_utc": "2026-10-27T09:05:26+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
-  "total_dlc_count": 237,
+  "total_dlc_count": 238,
   "games": [
     {
       "game_appid": 1336490,
@@ -3582,7 +3582,8 @@
             "date": "27 янв. 2022 г."
           },
           "price": null,
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 1694800,
@@ -3606,7 +3607,8 @@
             "formatted_initial": "",
             "formatted_final": "229 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 1849470,
@@ -3620,7 +3622,8 @@
             "date": "22 дек. 2021 г."
           },
           "price": null,
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 1694801,
@@ -5166,11 +5169,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 28000,
             "initial_price": 280.0,
-            "final_price_minor_units": 19600,
-            "final_price": 196.0,
-            "discount_percent": 30,
-            "formatted_initial": "280 руб.",
-            "formatted_final": "196 руб."
+            "final_price_minor_units": 28000,
+            "final_price": 280.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "280 руб."
           },
           "store_details_available": true
         }
@@ -5417,7 +5420,7 @@
       "game_appid": 1604030,
       "game_name": "V Rising",
       "store_details_available": true,
-      "dlc_count": 6,
+      "dlc_count": 7,
       "dlc": [
         {
           "appid": 1983900,
@@ -5435,11 +5438,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 25900,
             "initial_price": 259.0,
-            "final_price_minor_units": 25900,
-            "final_price": 259.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "259 руб."
+            "final_price_minor_units": 20700,
+            "final_price": 207.0,
+            "discount_percent": 20,
+            "formatted_initial": "259 руб.",
+            "formatted_final": "207 руб."
           },
           "store_details_available": true
         },
@@ -5459,11 +5462,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 71000,
             "initial_price": 710.0,
-            "final_price_minor_units": 71000,
-            "final_price": 710.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "710 руб."
+            "final_price_minor_units": 56800,
+            "final_price": 568.0,
+            "discount_percent": 20,
+            "formatted_initial": "710 руб.",
+            "formatted_final": "568 руб."
           },
           "store_details_available": true
         },
@@ -5483,12 +5486,26 @@
             "currency": "RUB",
             "initial_price_minor_units": 51500,
             "initial_price": 515.0,
-            "final_price_minor_units": 51500,
-            "final_price": 515.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "515 руб."
+            "final_price_minor_units": 41200,
+            "final_price": 412.0,
+            "discount_percent": 20,
+            "formatted_initial": "515 руб.",
+            "formatted_final": "412 руб."
           },
+          "store_details_available": true
+        },
+        {
+          "appid": 2169180,
+          "name": "V Rising - Haunted Nights Castle Pack",
+          "type": "dlc",
+          "is_free": true,
+          "short_description": "Вся сущность осеннего увядания и разложения в наборе для замка «Проклятые ночи». Не упускайте этот шанс и заполучите бесплатные скины на Хэллоуин!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169180/header.jpg?t=1793033991",
+          "release_date": {
+            "coming_soon": false,
+            "date": "24 окт. 2022 г."
+          },
+          "price": null,
           "store_details_available": true
         },
         {
@@ -5507,11 +5524,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 38500,
             "initial_price": 385.0,
-            "final_price_minor_units": 38500,
-            "final_price": 385.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "385 руб."
+            "final_price_minor_units": 30800,
+            "final_price": 308.0,
+            "discount_percent": 20,
+            "formatted_initial": "385 руб.",
+            "formatted_final": "308 руб."
           },
           "store_details_available": true
         },
@@ -5545,11 +5562,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 71000,
             "initial_price": 710.0,
-            "final_price_minor_units": 71000,
-            "final_price": 710.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "710 руб."
+            "final_price_minor_units": 56800,
+            "final_price": 568.0,
+            "discount_percent": 20,
+            "formatted_initial": "710 руб.",
+            "formatted_final": "568 руб."
           },
           "store_details_available": true
         }
