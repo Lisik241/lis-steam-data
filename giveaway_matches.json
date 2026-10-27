@@ -1,17 +1,17 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-10-26T21:03:05+00:00",
+  "updated_at_utc": "2026-10-27T05:12:55+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 43239,
+      "age_seconds": 72629,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 43239,
+      "age_seconds": 72629,
       "reason": null
     },
     "taste_profile_loaded": false
@@ -594,7 +594,7 @@
           "Includes level editor",
           "Family Sharing"
         ],
-        "short_description": "Complete soldier pack with over 300 items.",
+        "short_description": "Complete soldier pack with over 500 items.",
         "dlc": [],
         "fullgame": {
           "appid": "3408170",
