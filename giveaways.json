@@ -2,11 +2,112 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-29T05:54:37+00:00",
+  "updated_at_utc": "2026-10-29T15:16:01+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 28,
+  "candidate_count": 29,
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3831,
+      "title": "Hunting Simulator 3 - Classic American Hunter Pack",
+      "source_title": "Hunting Simulator 3 - Classic American Hunter Pack (Steam) Giveaway",
+      "type": "DLC",
+      "platforms": "PC, Steam",
+      "description": "Score Hunting Simulator 3 - Classic American Hunter Pack (DLC) for free on Steam! Please note the base game is required to enjoy this content DLC.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Don´t forget to install the base game first (required).\r\n3. Download this DLC directly via Steam before the offer expires.",
+      "worth": "$4.99",
+      "published_date": "2026-10-29 09:52:14",
+      "end_date": "2026-11-12 23:59:00",
+      "status": "Active",
+      "delivery": "direct_steam_store",
+      "content_kind": "unknown_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/hunting-simulator-3-classic-american-hunter-pack-steam-giveaway",
+      "key_region_status": null,
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 4693960,
+        "name": "Hunting Simulator 3 - Classic American Hunter Pack",
+        "search_match_score": 1.0,
+        "query_used": "Hunting Simulator 3 Classic American Hunter Pack",
+        "lookup_mode": "candidate_title_variants",
+        "matched_product_role": "candidate_product"
+      },
+      "steam_ru": {
+        "appid": 4693960,
+        "checked": true,
+        "reachable": true,
+        "verification": "strong_keep_forever_candidate",
+        "reason": "paid_app_at_100_percent_discount_in_ru",
+        "steam_type": "dlc",
+        "steam_name": "Hunting Simulator 3 - Classic American Hunter Pack",
+        "is_free": true,
+        "price_overview": {
+          "currency": "RUB",
+          "initial": 24000,
+          "final": 24000,
+          "discount_percent": 100,
+          "initial_formatted": "240 руб.",
+          "final_formatted": "Free"
+        },
+        "developers": [
+          "Nacon Studio Ghent"
+        ],
+        "publishers": [
+          "Nacon"
+        ],
+        "genres": [
+          "Simulation"
+        ],
+        "categories": [
+          "Single-player",
+          "Downloadable Content",
+          "Steam Achievements",
+          "Full controller support",
+          "Camera Comfort",
+          "Custom Volume Controls",
+          "Adjustable Difficulty",
+          "Playable without Timed Input",
+          "DualShock Controller Support",
+          "DualShock Controller Support",
+          "DualSense Controller Support",
+          "DualSense Controller Support",
+          "Save Anytime",
+          "Stereo Sound",
+          "Steam Cloud",
+          "Stats",
+          "Steam Leaderboards",
+          "Family Sharing"
+        ],
+        "short_description": "This open-world game lets you experience the thrill of the hunt, with your faithful dog by your side! Choose your equipment from official brands, and explore the wilderness in search of your next game.",
+        "dlc": [],
+        "fullgame": {
+          "appid": "2482760",
+          "name": "Hunting Simulator 3"
+        }
+      },
+      "base_game": {
+        "appid": 2482760,
+        "name": "Hunting Simulator 3",
+        "owned": false
+      },
+      "dlc_gate": {
+        "eligible": false,
+        "reason": "base_game_not_owned",
+        "base_appid": 2482760
+      },
+      "taste": {
+        "score": 0,
+        "positive_signals": [],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "skip",
+        "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3826,
