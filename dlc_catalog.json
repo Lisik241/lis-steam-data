@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-30T10:07:31+00:00",
+  "updated_at_utc": "2026-10-31T09:43:44+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -66,7 +66,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "В набор Against the Storm Supporter Pack вошел официальный саундтрек Against the Storm, а также обои в формате 4K, наборы эмодзи, официальный цифровой артбук объемом 300+ страниц, посвященный процессу разработки, и многое другое.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712950/header_russian.jpg?t=1787434700",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712950/header_russian.jpg?t=1793357586",
           "release_date": {
             "coming_soon": false,
             "date": "8 дек. 2023 г."
@@ -3711,7 +3711,8 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         }
       ]
     },
