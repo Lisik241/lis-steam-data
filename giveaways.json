@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-10-30T20:51:39+00:00",
+  "updated_at_utc": "2026-10-31T20:01:34+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 31,
@@ -120,18 +120,18 @@
         "appid": 785890,
         "checked": true,
         "reachable": true,
-        "verification": "strong_keep_forever_candidate",
-        "reason": "paid_app_at_100_percent_discount_in_ru",
+        "verification": "not_free_in_ru",
+        "reason": "ru_final_price:60000",
         "steam_type": "game",
         "steam_name": "Hexologic",
-        "is_free": true,
+        "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 60000,
           "final": 60000,
-          "discount_percent": 100,
-          "initial_formatted": "600 руб.",
-          "final_formatted": "Free"
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "600 руб."
         },
         "developers": [
           "MythicOwl"
@@ -169,7 +169,7 @@
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "conditional",
+        "band": "skip",
         "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
