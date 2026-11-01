@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-10-31T09:43:44+00:00",
+  "updated_at_utc": "2026-11-01T10:33:36+00:00",
   "game_count": 82,
   "total_playtime_hours": 1252.5,
   "games": [
@@ -439,10 +439,10 @@
     {
       "appid": 294100,
       "name": "RimWorld",
-      "playtime_forever_minutes": 22362,
-      "playtime_forever_hours": 372.7,
-      "playtime_2weeks_minutes": 108,
-      "playtime_2weeks_hours": 1.8
+      "playtime_forever_minutes": 22367,
+      "playtime_forever_hours": 372.8,
+      "playtime_2weeks_minutes": 113,
+      "playtime_2weeks_hours": 1.9
     },
     {
       "appid": 526870,
@@ -641,8 +641,8 @@
       "name": "Voidling Bound",
       "playtime_forever_minutes": 340,
       "playtime_forever_hours": 5.7,
-      "playtime_2weeks_minutes": 125,
-      "playtime_2weeks_hours": 2.1
+      "playtime_2weeks_minutes": 0,
+      "playtime_2weeks_hours": 0.0
     },
     {
       "appid": 230410,
