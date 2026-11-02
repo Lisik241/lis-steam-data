@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-11-02T06:17:33+00:00",
+  "updated_at_utc": "2026-11-02T18:28:15+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 30,
@@ -40,18 +40,18 @@
         "appid": 1583850,
         "checked": true,
         "reachable": true,
-        "verification": "strong_keep_forever_candidate",
-        "reason": "paid_app_at_100_percent_discount_in_ru",
+        "verification": "not_free_in_ru",
+        "reason": "ru_final_price:38500",
         "steam_type": "game",
         "steam_name": "Asleep: Act 1",
-        "is_free": true,
+        "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
           "final": 38500,
-          "discount_percent": 100,
-          "initial_formatted": "385 руб.",
-          "final_formatted": "Free"
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "385 руб."
         },
         "developers": [
           "Black Hole Games"
@@ -83,7 +83,7 @@
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "conditional",
+        "band": "skip",
         "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
@@ -210,61 +210,92 @@
         "reason": null
       },
       "steam_match": {
-        "appid": 2169180,
-        "name": "V Rising - Haunted Nights Castle Pack",
+        "appid": 1604030,
+        "name": "V Rising",
         "search_match_score": 1.0,
-        "query_used": "V Rising Haunted Nights Castle Pack",
-        "lookup_mode": "candidate_title_variants",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "appid": 2169180,
-        "checked": true,
-        "reachable": true,
-        "verification": "reject_f2p",
-        "reason": "steam_marks_app_as_permanently_free",
-        "steam_type": "dlc",
-        "steam_name": "V Rising - Haunted Nights Castle Pack",
-        "is_free": true,
-        "price_overview": {},
-        "developers": [
-          "Stunlock Studios"
-        ],
-        "publishers": [
-          "Stunlock Studios"
-        ],
-        "genres": [
-          "Action",
-          "Adventure",
-          "Massively Multiplayer"
-        ],
-        "categories": [
-          "Single-player",
-          "Multi-player",
-          "PvP",
-          "Online PvP",
-          "LAN PvP",
-          "Co-op",
-          "Online Co-op",
-          "LAN Co-op",
-          "Downloadable Content",
-          "Family Sharing"
-        ],
-        "short_description": "Capture the essence of the season of decay. Surround yourself with dark symbols, candles within skulls, and hollowed-out cadavers of gourds. Pair them with tasteful windows and carpets that reflect the color of the falling leaves. Dress your walls with some tasteful spiderwebbing to set the mood.",
-        "dlc": [],
-        "fullgame": {
-          "appid": "1604030",
-          "name": "V Rising"
-        }
+        "query_used": "V Rising",
+        "lookup_mode": "base_game_fallback",
+        "base_game_query": "V Rising",
+        "matched_product_role": "base_game_only"
       },
       "base_game": {
         "appid": 1604030,
         "name": "V Rising",
         "owned": true
       },
+      "steam_ru": {
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 1604030,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:120000",
+          "steam_type": "game",
+          "steam_name": "V Rising",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 120000,
+            "final": 120000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "1200 руб."
+          },
+          "developers": [
+            "Stunlock Studios"
+          ],
+          "publishers": [
+            "Stunlock Studios"
+          ],
+          "genres": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "LAN PvP",
+            "Co-op",
+            "Online Co-op",
+            "LAN Co-op",
+            "Steam Achievements",
+            "Camera Comfort",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Playable without Timed Input",
+            "DualShock Controller Support",
+            "DualShock Controller Support",
+            "DualSense Controller Support",
+            "DualSense Controller Support",
+            "Save Anytime",
+            "Stereo Sound",
+            "Subtitle Options",
+            "Surround Sound",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Family Sharing"
+          ],
+          "short_description": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
+          "dlc": [
+            3604340,
+            2833600,
+            1983901,
+            2358430,
+            1983900,
+            1999270
+          ],
+          "fullgame": null
+        }
+      },
       "dlc_gate": {
-        "eligible": true,
-        "reason": "base_game_owned",
+        "eligible": null,
+        "reason": "dlc_product_unresolved",
         "base_appid": 1604030
       },
       "taste": {
@@ -272,8 +303,8 @@
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "skip",
-        "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
+        "band": "needs_review",
+        "explanation": "base game is owned but the exact DLC product is unresolved; taste scoring deferred; Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
     {
@@ -550,17 +581,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:28800",
+        "reason": "ru_final_price:38500",
         "steam_type": "dlc",
         "steam_name": "Deadswitch Combat: Soldier Bundle",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
-          "final": 28800,
-          "discount_percent": 25,
-          "initial_formatted": "385 руб.",
-          "final_formatted": "288 руб."
+          "final": 38500,
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "385 руб."
         },
         "developers": [
           "Wilkin Games"

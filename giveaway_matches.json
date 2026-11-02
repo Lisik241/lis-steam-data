@@ -1,17 +1,17 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-11-02T06:17:33+00:00",
+  "updated_at_utc": "2026-11-02T18:28:15+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 71037,
+      "age_seconds": 25794,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 71037,
+      "age_seconds": 25794,
       "reason": null
     },
     "taste_profile_loaded": false
@@ -21,91 +21,130 @@
   "bands": {
     "must_claim": 0,
     "likely_match": 0,
-    "conditional": 1,
+    "conditional": 0,
     "family_only": 0,
-    "needs_review": 5,
+    "needs_review": 6,
     "low_priority": 1,
     "skip": 8
   },
   "items": [
     {
       "source": "GamerPower",
-      "source_id": 3836,
-      "title": "Asleep: Act 1",
-      "source_title": "Asleep: Act 1 (Steam) Giveaway",
-      "type": "Game",
+      "source_id": 3826,
+      "title": "V Rising - Haunted Nights Castle Pack",
+      "source_title": "V Rising - Haunted Nights Castle Pack (Steam) Giveaway",
+      "type": "DLC",
       "platforms": "PC, Steam",
-      "description": "Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles.",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!",
-      "worth": "$9.99",
-      "published_date": "2026-10-30 13:06:58",
+      "description": "Claim V Rising - Haunted Nights Castle Pack (DLC) for free via Steam until November 2! Please note the base game is required to enjoy this content DLC.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Don´t forget to install the base game first (required).\r\n3. Download this DLC directly via Steam before the offer expires.",
+      "worth": "N/A",
+      "published_date": "2026-10-26 13:36:30",
       "end_date": "2026-11-02 23:59:00",
       "status": "Active",
-      "delivery": "direct_or_unknown",
-      "content_kind": "game_or_other",
-      "gamerpower_url": "https://www.gamerpower.com/asleep-act-1-steam-giveaway",
+      "delivery": "direct_steam_store",
+      "content_kind": "unknown_dlc",
+      "gamerpower_url": "https://www.gamerpower.com/v-rising-haunted-nights-castle-pack-steam-giveaway",
       "key_region_status": null,
       "pre_filter": {
         "rejected": false,
         "reason": null
       },
       "steam_match": {
-        "appid": 1583850,
-        "name": "Asleep: Act 1",
+        "appid": 1604030,
+        "name": "V Rising",
         "search_match_score": 1.0,
-        "query_used": "Asleep: Act 1",
-        "lookup_mode": "candidate_title_variants",
-        "matched_product_role": "candidate_product"
+        "query_used": "V Rising",
+        "lookup_mode": "base_game_fallback",
+        "base_game_query": "V Rising",
+        "matched_product_role": "base_game_only"
+      },
+      "base_game": {
+        "appid": 1604030,
+        "name": "V Rising",
+        "owned": true
       },
       "steam_ru": {
-        "appid": 1583850,
-        "checked": true,
-        "reachable": true,
-        "verification": "strong_keep_forever_candidate",
-        "reason": "paid_app_at_100_percent_discount_in_ru",
-        "steam_type": "game",
-        "steam_name": "Asleep: Act 1",
-        "is_free": true,
-        "price_overview": {
-          "currency": "RUB",
-          "initial": 38500,
-          "final": 38500,
-          "discount_percent": 100,
-          "initial_formatted": "385 руб.",
-          "final_formatted": "Free"
-        },
-        "developers": [
-          "Black Hole Games"
-        ],
-        "publishers": [
-          "CriticalLeap"
-        ],
-        "genres": [
-          "Action",
-          "Adventure",
-          "Indie",
-          "Simulation"
-        ],
-        "categories": [
-          "Single-player",
-          "Steam Achievements",
-          "Full controller support",
-          "Family Sharing"
-        ],
-        "short_description": "Use light to survive a nightmare: each creature reacts differently to it. Explore, solve puzzles, and evade the horrors in the dark. You are in the skin of Ana Lúcia.",
-        "dlc": [
-          3368680,
-          5211170
-        ],
-        "fullgame": null
+        "checked": false,
+        "verification": "needs_review",
+        "reason": "base_game_found_but_dlc_appid_unresolved",
+        "base_game_store_metadata": {
+          "appid": 1604030,
+          "checked": true,
+          "reachable": true,
+          "verification": "not_free_in_ru",
+          "reason": "ru_final_price:120000",
+          "steam_type": "game",
+          "steam_name": "V Rising",
+          "is_free": false,
+          "price_overview": {
+            "currency": "RUB",
+            "initial": 120000,
+            "final": 120000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "1200 руб."
+          },
+          "developers": [
+            "Stunlock Studios"
+          ],
+          "publishers": [
+            "Stunlock Studios"
+          ],
+          "genres": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer"
+          ],
+          "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "LAN PvP",
+            "Co-op",
+            "Online Co-op",
+            "LAN Co-op",
+            "Steam Achievements",
+            "Camera Comfort",
+            "Custom Volume Controls",
+            "Adjustable Difficulty",
+            "Playable without Timed Input",
+            "DualShock Controller Support",
+            "DualShock Controller Support",
+            "DualSense Controller Support",
+            "DualSense Controller Support",
+            "Save Anytime",
+            "Stereo Sound",
+            "Subtitle Options",
+            "Surround Sound",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Family Sharing"
+          ],
+          "short_description": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
+          "dlc": [
+            3604340,
+            2833600,
+            1983901,
+            2358430,
+            1983900,
+            1999270
+          ],
+          "fullgame": null
+        }
+      },
+      "dlc_gate": {
+        "eligible": null,
+        "reason": "dlc_product_unresolved",
+        "base_appid": 1604030
       },
       "taste": {
         "score": 0,
         "positive_signals": [],
         "negative_signals": [],
         "matched_concepts": [],
-        "band": "conditional",
-        "explanation": "Steam/GamerPower metadata does not expose enough taste signals yet"
+        "band": "needs_review",
+        "explanation": "base game is owned but the exact DLC product is unresolved; taste scoring deferred; Steam/GamerPower metadata does not expose enough taste signals yet"
       }
     },
     {
@@ -508,82 +547,74 @@
     },
     {
       "source": "GamerPower",
-      "source_id": 3826,
-      "title": "V Rising - Haunted Nights Castle Pack",
-      "source_title": "V Rising - Haunted Nights Castle Pack (Steam) Giveaway",
-      "type": "DLC",
+      "source_id": 3836,
+      "title": "Asleep: Act 1",
+      "source_title": "Asleep: Act 1 (Steam) Giveaway",
+      "type": "Game",
       "platforms": "PC, Steam",
-      "description": "Claim V Rising - Haunted Nights Castle Pack (DLC) for free via Steam until November 2! Please note the base game is required to enjoy this content DLC.",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Don´t forget to install the base game first (required).\r\n3. Download this DLC directly via Steam before the offer expires.",
-      "worth": "N/A",
-      "published_date": "2026-10-26 13:36:30",
+      "description": "Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!",
+      "worth": "$9.99",
+      "published_date": "2026-10-30 13:06:58",
       "end_date": "2026-11-02 23:59:00",
       "status": "Active",
-      "delivery": "direct_steam_store",
-      "content_kind": "unknown_dlc",
-      "gamerpower_url": "https://www.gamerpower.com/v-rising-haunted-nights-castle-pack-steam-giveaway",
+      "delivery": "direct_or_unknown",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/asleep-act-1-steam-giveaway",
       "key_region_status": null,
       "pre_filter": {
         "rejected": false,
         "reason": null
       },
       "steam_match": {
-        "appid": 2169180,
-        "name": "V Rising - Haunted Nights Castle Pack",
+        "appid": 1583850,
+        "name": "Asleep: Act 1",
         "search_match_score": 1.0,
-        "query_used": "V Rising Haunted Nights Castle Pack",
+        "query_used": "Asleep: Act 1",
         "lookup_mode": "candidate_title_variants",
         "matched_product_role": "candidate_product"
       },
       "steam_ru": {
-        "appid": 2169180,
+        "appid": 1583850,
         "checked": true,
         "reachable": true,
-        "verification": "reject_f2p",
-        "reason": "steam_marks_app_as_permanently_free",
-        "steam_type": "dlc",
-        "steam_name": "V Rising - Haunted Nights Castle Pack",
-        "is_free": true,
-        "price_overview": {},
+        "verification": "not_free_in_ru",
+        "reason": "ru_final_price:38500",
+        "steam_type": "game",
+        "steam_name": "Asleep: Act 1",
+        "is_free": false,
+        "price_overview": {
+          "currency": "RUB",
+          "initial": 38500,
+          "final": 38500,
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "385 руб."
+        },
         "developers": [
-          "Stunlock Studios"
+          "Black Hole Games"
         ],
         "publishers": [
-          "Stunlock Studios"
+          "CriticalLeap"
         ],
         "genres": [
           "Action",
           "Adventure",
-          "Massively Multiplayer"
+          "Indie",
+          "Simulation"
         ],
         "categories": [
           "Single-player",
-          "Multi-player",
-          "PvP",
-          "Online PvP",
-          "LAN PvP",
-          "Co-op",
-          "Online Co-op",
-          "LAN Co-op",
-          "Downloadable Content",
+          "Steam Achievements",
+          "Full controller support",
           "Family Sharing"
         ],
-        "short_description": "Capture the essence of the season of decay. Surround yourself with dark symbols, candles within skulls, and hollowed-out cadavers of gourds. Pair them with tasteful windows and carpets that reflect the color of the falling leaves. Dress your walls with some tasteful spiderwebbing to set the mood.",
-        "dlc": [],
-        "fullgame": {
-          "appid": "1604030",
-          "name": "V Rising"
-        }
-      },
-      "base_game": {
-        "appid": 1604030,
-        "name": "V Rising",
-        "owned": true
-      },
-      "dlc_gate": {
-        "eligible": true,
-        "reason": "base_game_owned",
-        "base_appid": 1604030
+        "short_description": "Use light to survive a nightmare: each creature reacts differently to it. Explore, solve puzzles, and evade the horrors in the dark. You are in the skin of Ana Lúcia.",
+        "dlc": [
+          3368680,
+          5211170
+        ],
+        "fullgame": null
       },
       "taste": {
         "score": 0,
@@ -729,17 +760,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:28800",
+        "reason": "ru_final_price:38500",
         "steam_type": "dlc",
         "steam_name": "Deadswitch Combat: Soldier Bundle",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
-          "final": 28800,
-          "discount_percent": 25,
-          "initial_formatted": "385 руб.",
-          "final_formatted": "288 руб."
+          "final": 38500,
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "385 руб."
         },
         "developers": [
           "Wilkin Games"
