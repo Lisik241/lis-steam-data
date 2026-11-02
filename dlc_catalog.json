@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-01T10:33:36+00:00",
+  "updated_at_utc": "2026-11-02T11:18:21+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3608,7 +3608,8 @@
             "formatted_initial": "",
             "formatted_final": "229 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 1849470,
@@ -3712,8 +3713,7 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         }
       ]
     },
@@ -5121,11 +5121,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 14900,
             "initial_price": 149.0,
-            "final_price_minor_units": 7400,
-            "final_price": 74.0,
-            "discount_percent": 50,
-            "formatted_initial": "149 руб.",
-            "formatted_final": "74 руб."
+            "final_price_minor_units": 14900,
+            "final_price": 149.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "149 руб."
           },
           "store_details_available": true
         }
