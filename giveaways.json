@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-11-03T02:23:46+00:00",
+  "updated_at_utc": "2026-11-03T19:32:23+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 28,
@@ -986,17 +986,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:304900",
+          "reason": "ru_final_price:121900",
           "steam_type": "game",
           "steam_name": "Age of Wonders 4",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 304900,
-            "final": 304900,
-            "discount_percent": 0,
-            "initial_formatted": "",
-            "final_formatted": "3049 руб."
+            "final": 121900,
+            "discount_percent": 60,
+            "initial_formatted": "3049 руб.",
+            "final_formatted": "1219 руб."
           },
           "developers": [
             "Triumph Studios"
@@ -1036,6 +1036,7 @@
           "short_description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
           "dlc": [
             5094350,
+            5094370,
             3976910,
             3976900,
             3976890,
@@ -1051,7 +1052,6 @@
             2330150,
             3976880,
             5094360,
-            5094370,
             5094380,
             5094390
           ],
