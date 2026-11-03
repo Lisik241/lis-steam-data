@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-02T11:18:21+00:00",
-  "catalog_updated_at_utc": "2026-11-02T11:18:21+00:00",
+  "updated_at_utc": "2026-11-03T10:57:34+00:00",
+  "catalog_updated_at_utc": "2026-11-03T10:57:34+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -9,7 +9,7 @@
   "totals": {
     "owned": 0,
     "not_owned": 0,
-    "unknown": 238
+    "unknown": 236
   },
   "games": [
     {
@@ -293,19 +293,11 @@
     {
       "game_appid": 49520,
       "game_name": "Borderlands 2",
-      "known_dlc_count": 2,
+      "known_dlc_count": 1,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 2,
+      "unknown_count": 1,
       "dlc": [
-        {
-          "appid": 218560,
-          "name": "Borderlands 2 Season Pass",
-          "type": "dlc",
-          "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
         {
           "appid": 224180,
           "name": "Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2",
@@ -2512,10 +2504,10 @@
     {
       "game_appid": 1604030,
       "game_name": "V Rising",
-      "known_dlc_count": 7,
+      "known_dlc_count": 6,
       "owned_count": 0,
       "not_owned_count": 0,
-      "unknown_count": 7,
+      "unknown_count": 6,
       "dlc": [
         {
           "appid": 1983900,
@@ -2538,14 +2530,6 @@
           "name": "V Rising - Founder's Pack: Eldest Bloodline",
           "type": "dlc",
           "is_free": false,
-          "status": "unknown",
-          "status_source": "preserved"
-        },
-        {
-          "appid": 2169180,
-          "name": "V Rising - Haunted Nights Castle Pack",
-          "type": "dlc",
-          "is_free": true,
           "status": "unknown",
           "status_source": "preserved"
         },
