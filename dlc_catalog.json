@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-03T10:57:34+00:00",
+  "updated_at_utc": "2026-11-04T11:01:46+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -2651,7 +2651,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "Hozy OST invites you to slow down and rediscover beauty in small moments. Crafted by Yann Van Der Cruyssen, it matches each level's style &amp; mood to accompany the cleaning and setting up of one's home. With soft melodies and subtle textures, the tracks feature real instruments and electronic touches.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530150/662cda9316735b0ad71242c87f09cbdfc9d82233/header.jpg?t=1774886556",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530150/662cda9316735b0ad71242c87f09cbdfc9d82233/header.jpg?t=1793788117",
           "release_date": {
             "coming_soon": false,
             "date": "30 мар. 2026 г."
@@ -3586,14 +3586,13 @@
             "currency": "RUB",
             "initial_price_minor_units": 22900,
             "initial_price": 229.0,
-            "final_price_minor_units": 22900,
-            "final_price": 229.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "229 руб."
+            "final_price_minor_units": 12500,
+            "final_price": 125.0,
+            "discount_percent": 45,
+            "formatted_initial": "229 руб.",
+            "formatted_final": "125 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 1849470,
@@ -3632,7 +3631,8 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 2564570,
@@ -3690,11 +3690,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 59900,
             "initial_price": 599.0,
-            "final_price_minor_units": 59900,
-            "final_price": 599.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "599 руб."
+            "final_price_minor_units": 11900,
+            "final_price": 119.0,
+            "discount_percent": 80,
+            "formatted_initial": "599 руб.",
+            "formatted_final": "119 руб."
           },
           "store_details_available": true
         }
