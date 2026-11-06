@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-11-05T22:04:30+00:00",
+  "updated_at_utc": "2026-11-06T15:58:18+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 29,
@@ -1112,8 +1112,8 @@
           ],
           "short_description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
           "dlc": [
-            5094370,
             5094350,
+            5094370,
             3976910,
             3976900,
             3976890,
