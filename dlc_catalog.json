@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-08T10:28:43+00:00",
+  "updated_at_utc": "2026-11-09T11:41:25+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -129,11 +129,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 55000,
             "initial_price": 550.0,
-            "final_price_minor_units": 36300,
-            "final_price": 363.0,
-            "discount_percent": 34,
-            "formatted_initial": "550 руб.",
-            "formatted_final": "363 руб."
+            "final_price_minor_units": 55000,
+            "final_price": 550.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "550 руб."
           },
           "store_details_available": true
         },
@@ -237,11 +237,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 55000,
             "initial_price": 550.0,
-            "final_price_minor_units": 44000,
-            "final_price": 440.0,
-            "discount_percent": 20,
-            "formatted_initial": "550 руб.",
-            "formatted_final": "440 руб."
+            "final_price_minor_units": 55000,
+            "final_price": 550.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "550 руб."
           },
           "store_details_available": true
         },
@@ -601,13 +601,13 @@
           "price": {
             "country_code": "RU",
             "currency": "RUB",
-            "initial_price_minor_units": 4200,
-            "initial_price": 42.0,
-            "final_price_minor_units": 4200,
-            "final_price": 42.0,
+            "initial_price_minor_units": 6400,
+            "initial_price": 64.0,
+            "final_price_minor_units": 6400,
+            "final_price": 64.0,
             "discount_percent": 0,
             "formatted_initial": "",
-            "formatted_final": "42 руб."
+            "formatted_final": "64 руб."
           },
           "store_details_available": true
         },
@@ -3632,8 +3632,7 @@
             "formatted_initial": "599 руб.",
             "formatted_final": "119 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 2564570,
