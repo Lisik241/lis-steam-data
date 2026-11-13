@@ -1,18 +1,47 @@
 {
   "schema_version": 1,
-  "source": "Explicitly expressed interests; conservative initial profile",
+  "source": "Inferred from Steam library playtime and wishlist on 2026-11-13; preferences are hypotheses, not explicit ratings",
   "genre_preferences": {
     "metroidvania": {
-      "rating": "positive",
-      "evidence": "Interest in Hollow Knight: Silksong"
+      "rating": "very_strong_positive",
+      "evidence": "Hollow Knight: Silksong 115.7h; Hollow Knight 46.4h"
     },
     "survival": {
+      "rating": "strong_positive",
+      "evidence": "Project Zomboid 89.6h; Palworld 33.4h; ARK 14.9h"
+    },
+    "base_building": {
+      "rating": "very_strong_positive",
+      "evidence": "RimWorld 376.9h; Timberborn 22h; Palworld 33.4h"
+    },
+    "management": {
+      "rating": "very_strong_positive",
+      "evidence": "RimWorld 376.9h; Timberborn 22h"
+    },
+    "city_building_and_colonies": {
+      "rating": "very_strong_positive",
+      "evidence": "RimWorld 376.9h; Timberborn 22h"
+    },
+    "crafting": {
+      "rating": "strong_positive",
+      "evidence": "Palworld 33.4h; My Time at Sandrock 44.8h; Project Zomboid 89.6h"
+    },
+    "sandbox": {
+      "rating": "strong_positive",
+      "evidence": "Skyrim SE 91.5h; RimWorld 376.9h; Palworld 33.4h"
+    },
+    "automation_and_production": {
+      "rating": "positive",
+      "evidence": "Timberborn 22h; Alchemy Factory 14.2h; Satisfactory 5.5h"
+    },
+    "roguelike_and_roguelite": {
       "rating": "conditional_positive",
-      "evidence": "Interest in games like Palworld"
+      "evidence": "Against the Storm in library; genre interest tentative"
     }
   },
   "signals": {},
   "hard_filters": {
     "region": "RU"
-  }
+  },
+  "notes": "No negative preferences inferred from low playtime. Wishlist reinforces strategy, alchemy, survival, exploration. Evidence does not prove rankings of enjoyment."
 }
