@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "Explicitly expressed interests; conservative initial profile",
+  "genre_preferences": {
+    "metroidvania": {
+      "rating": "positive",
+      "evidence": "Interest in Hollow Knight: Silksong"
+    },
+    "survival": {
+      "rating": "conditional_positive",
+      "evidence": "Interest in games like Palworld"
+    }
+  },
+  "signals": {},
+  "hard_filters": {
+    "region": "RU"
+  }
+}
