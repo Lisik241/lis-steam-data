@@ -2,11 +2,33 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-11-11T22:44:20+00:00",
+  "updated_at_utc": "2026-11-13T01:09:15+00:00",
   "run_degraded": false,
   "source_errors": [],
-  "candidate_count": 29,
+  "candidate_count": 30,
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3851,
+      "title": "The Legend of California (Playtest)",
+      "source_title": "The Legend of California (Playtest) Steam Key Giveaway",
+      "type": "Early Access",
+      "platforms": "PC, Steam",
+      "description": "Claim your free The Legend of California Closed Alpha Steam Key and join the closed alpha through November 18.",
+      "instructions": "1. Login into your free Alienware account and click the button to unlock your key.\r\n2. Launch the Steam client and click the Games menu option.\r\n3. Choose \"activate a Product on Steam\" to redeem your Steam key.",
+      "worth": "N/A",
+      "published_date": "2026-11-12 13:59:00",
+      "end_date": "2026-11-18 23:59:00",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/the-legend-of-california-playtest-steam-key-giveaway",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": true,
+        "reason": "hard_reject:playtest"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 3848,
@@ -47,87 +69,8 @@
       "gamerpower_url": "https://www.gamerpower.com/hunting-simulator-3-classic-american-hunter-pack-steam-giveaway",
       "key_region_status": null,
       "pre_filter": {
-        "rejected": false,
-        "reason": null
-      },
-      "steam_match": {
-        "appid": 4693960,
-        "name": "Hunting Simulator 3 - Classic American Hunter Pack",
-        "search_match_score": 1.0,
-        "query_used": "Hunting Simulator 3 Classic American Hunter Pack",
-        "lookup_mode": "candidate_title_variants",
-        "matched_product_role": "candidate_product"
-      },
-      "steam_ru": {
-        "appid": 4693960,
-        "checked": true,
-        "reachable": true,
-        "verification": "strong_keep_forever_candidate",
-        "reason": "paid_app_at_100_percent_discount_in_ru",
-        "steam_type": "dlc",
-        "steam_name": "Hunting Simulator 3 - Classic American Hunter Pack",
-        "is_free": true,
-        "price_overview": {
-          "currency": "RUB",
-          "initial": 24000,
-          "final": 24000,
-          "discount_percent": 100,
-          "initial_formatted": "240 руб.",
-          "final_formatted": "Free"
-        },
-        "developers": [
-          "Nacon Studio Ghent"
-        ],
-        "publishers": [
-          "Nacon"
-        ],
-        "genres": [
-          "Simulation"
-        ],
-        "categories": [
-          "Single-player",
-          "Downloadable Content",
-          "Steam Achievements",
-          "Full controller support",
-          "Camera Comfort",
-          "Custom Volume Controls",
-          "Adjustable Difficulty",
-          "Playable without Timed Input",
-          "DualShock Controller Support",
-          "DualShock Controller Support",
-          "DualSense Controller Support",
-          "DualSense Controller Support",
-          "Save Anytime",
-          "Stereo Sound",
-          "Steam Cloud",
-          "Stats",
-          "Steam Leaderboards",
-          "Family Sharing"
-        ],
-        "short_description": "This open-world game lets you experience the thrill of the hunt, with your faithful dog by your side! Choose your equipment from official brands, and explore the wilderness in search of your next game.",
-        "dlc": [],
-        "fullgame": {
-          "appid": "2482760",
-          "name": "Hunting Simulator 3"
-        }
-      },
-      "base_game": {
-        "appid": 2482760,
-        "name": "Hunting Simulator 3",
-        "owned": false
-      },
-      "dlc_gate": {
-        "eligible": false,
-        "reason": "base_game_not_owned",
-        "base_appid": 2482760
-      },
-      "taste": {
-        "score": 0,
-        "positive_signals": [],
-        "negative_signals": [],
-        "matched_concepts": [],
-        "band": "skip",
-        "explanation": "base game is not owned; DLC has no current use; Steam/GamerPower metadata does not expose enough taste signals yet"
+        "rejected": true,
+        "reason": "expired_by_local_clock"
       }
     },
     {
