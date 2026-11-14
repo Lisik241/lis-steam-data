@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-13T11:06:55+00:00",
+  "updated_at_utc": "2026-11-14T10:34:05+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3632,7 +3632,8 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 2564570,
@@ -3736,7 +3737,7 @@
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 12,
       "dlc": [
         {
@@ -3997,8 +3998,7 @@
           "price": null,
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 108600,
