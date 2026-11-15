@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-14T10:34:05+00:00",
+  "updated_at_utc": "2026-11-15T11:03:19+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3632,8 +3632,7 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 2564570,
@@ -3657,8 +3656,7 @@
             "formatted_initial": "",
             "formatted_final": "369 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 3116830,
@@ -3672,8 +3670,7 @@
             "date": "5 сен. 2024 г."
           },
           "price": null,
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 2145870,
@@ -3737,7 +3734,7 @@
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 12,
       "dlc": [
         {
@@ -3998,14 +3995,16 @@
           "price": null,
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 0,
-      "dlc": []
+      "dlc": [],
+      "dlc_data_source": "unavailable"
     },
     {
       "game_appid": 312520,
