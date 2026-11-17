@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-16T11:32:51+00:00",
+  "updated_at_utc": "2026-11-17T11:58:32+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -2171,11 +2171,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 38500,
             "initial_price": 385.0,
-            "final_price_minor_units": 9600,
-            "final_price": 96.0,
-            "discount_percent": 75,
-            "formatted_initial": "385 руб.",
-            "formatted_final": "96 руб."
+            "final_price_minor_units": 38500,
+            "final_price": 385.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "385 руб."
           },
           "store_details_available": true
         },
@@ -2195,11 +2195,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 38500,
             "initial_price": 385.0,
-            "final_price_minor_units": 9600,
-            "final_price": 96.0,
-            "discount_percent": 75,
-            "formatted_initial": "385 руб.",
-            "formatted_final": "96 руб."
+            "final_price_minor_units": 38500,
+            "final_price": 385.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "385 руб."
           },
           "store_details_available": true
         },
@@ -2219,11 +2219,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 38500,
             "initial_price": 385.0,
-            "final_price_minor_units": 9600,
-            "final_price": 96.0,
-            "discount_percent": 75,
-            "formatted_initial": "385 руб.",
-            "formatted_final": "96 руб."
+            "final_price_minor_units": 38500,
+            "final_price": 385.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "385 руб."
           },
           "store_details_available": true
         },
@@ -2243,11 +2243,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 24000,
             "initial_price": 240.0,
-            "final_price_minor_units": 6000,
-            "final_price": 60.0,
-            "discount_percent": 75,
-            "formatted_initial": "240 руб.",
-            "formatted_final": "60 руб."
+            "final_price_minor_units": 24000,
+            "final_price": 240.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "240 руб."
           },
           "store_details_available": true
         },
@@ -2267,11 +2267,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 24000,
             "initial_price": 240.0,
-            "final_price_minor_units": 6000,
-            "final_price": 60.0,
-            "discount_percent": 75,
-            "formatted_initial": "240 руб.",
-            "formatted_final": "60 руб."
+            "final_price_minor_units": 24000,
+            "final_price": 240.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "240 руб."
           },
           "store_details_available": true
         }
@@ -2313,11 +2313,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 27900,
             "initial_price": 279.0,
-            "final_price_minor_units": 27900,
-            "final_price": 279.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "279 руб."
+            "final_price_minor_units": 8300,
+            "final_price": 83.0,
+            "discount_percent": 70,
+            "formatted_initial": "279 руб.",
+            "formatted_final": "83 руб."
           },
           "store_details_available": true
         }
@@ -2866,7 +2866,7 @@
           "type": "dlc",
           "is_free": true,
           "short_description": "Together with Dell Alienware, we bring you an exclusive T-shirt gift—our way of saying thanks for your support.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622210/header.jpg?t=1698934063",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622210/header.jpg?t=1794901277",
           "release_date": {
             "coming_soon": false,
             "date": "2 ноя. 2023 г."
@@ -2880,7 +2880,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Этот официальный цифровой артбук погружает вас в художественную историю разработки My Time at Sandrock, демонстрируя ранние наброски и концепт-арты и давая представление о процессе создания игры наряду с эксклюзивными закулисными моментами работы команды, воплотившей Sandrock в жизнь.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182080/header.jpg?t=1716879693",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182080/header.jpg?t=1794900648",
           "release_date": {
             "coming_soon": false,
             "date": "28 мая. 2024 г."
@@ -2904,7 +2904,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "DLC «Хроники любви» добавляет в My Time at Sandrock море романтического контента. Вступите в более глубокие отношения с четырьмя горячо любимыми персонажами: Логаном, Фангом, Ниа и Ми-ан. Откройте новые уникальные задания, которые сделают ваше романтическое путешествие ещё более ярким и красочным!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2969170/header.jpg?t=1730368551",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2969170/header.jpg?t=1794901669",
           "release_date": {
             "coming_soon": false,
             "date": "31 окт. 2024 г."
@@ -2928,7 +2928,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Отправьтесь в увлекательное путешествие по Песчаному Взгорью! Используйте профессиональные инструменты для поиска и ловли очаровательных монстров самых разных видов, устанавливая особую связь с каждым из них. Поиски питомцев начинаются!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808740/header.jpg?t=1716907525",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808740/header.jpg?t=1794901561",
           "release_date": {
             "coming_soon": false,
             "date": "21 мая. 2024 г."
@@ -2952,7 +2952,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "This is the additional content of . but does not include the base game.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720400/header.jpg?t=1698906122",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720400/header.jpg?t=1794900540",
           "release_date": {
             "coming_soon": false,
             "date": "25 мая. 2022 г."
@@ -2976,7 +2976,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Коллекция потрясающих костюмов для Логана, Грейс, Элси и Ци в 4 разных цветах для каждого. В набор одежды входят головной убор, верх, низ, обувь и 3 аксессуара.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595620/header.jpg?t=1708688131",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595620/header.jpg?t=1794901772",
           "release_date": {
             "coming_soon": false,
             "date": "23 ноя. 2023 г."
@@ -3000,7 +3000,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Коллекция потрясающих костюмов для персонажей Фанга, Катори, Эрнеста и Ми-ан в 4 разных цветах для каждого. В набор одежды входят головной убор, верх, низ, обувь и 3 аксессуара.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595710/header.jpg?t=1708688236",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595710/header.jpg?t=1794901826",
           "release_date": {
             "coming_soon": false,
             "date": "23 ноя. 2023 г."
@@ -3024,7 +3024,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Коллекция потрясающих костюмов для Нии, Унсура, Амиры и Оуэна в 4 разных цветах для каждого. В набор одежды входят головной убор, верх, низ, обувь и 3 аксессуара.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595720/header.jpg?t=1708688431",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595720/header.jpg?t=1794901893",
           "release_date": {
             "coming_soon": false,
             "date": "23 ноя. 2023 г."
@@ -3048,7 +3048,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Отправляйтесь в пустыню Песчаного Взгорья и попробуйте себя в роли начинающего мастера! Собирайте ресурсы, стройте машины и механизмы и превратите заброшенную мастерскую в отлично отлаженную фабрику, чтобы вырвать город из когтей грозящего ему разорения!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181528/header.jpg?t=1712224120",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181528/header.jpg?t=1794901952",
           "release_date": {
             "coming_soon": false,
             "date": "23 ноя. 2023 г."
@@ -3072,7 +3072,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Отправляйтесь в пустыню Песчаного Взгорья и попробуйте себя в роли начинающего мастера! Собирайте ресурсы, стройте машины и механизмы и превратите заброшенную мастерскую в отлично отлаженную фабрику, чтобы вырвать город из когтей грозящего ему разорения!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595600/header.jpg?t=1708687934",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595600/header.jpg?t=1794902024",
           "release_date": {
             "coming_soon": false,
             "date": "23 ноя. 2023 г."
@@ -3096,7 +3096,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Отправляйтесь в пустыню Песчаного Взгорья и попробуйте себя в роли начинающего мастера! Собирайте ресурсы, стройте машины и механизмы и превратите заброшенную мастерскую в отлично отлаженную фабрику, чтобы вырвать город из когтей грозящего ему разорения!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595610/header.jpg?t=1708688025",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595610/header.jpg?t=1794902119",
           "release_date": {
             "coming_soon": false,
             "date": "23 ноя. 2023 г."
@@ -3120,7 +3120,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "В набор входит 10 предметов мебели в элегантном восточном стиле.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595750/header.jpg?t=1708687001",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595750/header.jpg?t=1794902437",
           "release_date": {
             "coming_soon": false,
             "date": "2 ноя. 2023 г."
@@ -3144,7 +3144,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "В набор входят 8 вариантов декора для пола, 8 видов обоев и 4 разных типа крыш для создания уютного дома.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595740/header.jpg?t=1708687187",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595740/header.jpg?t=1794901192",
           "release_date": {
             "coming_soon": false,
             "date": "2 ноя. 2023 г."
@@ -3168,7 +3168,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "В набор входит одежда для плавания и наряды для походов на бал. Каждый комплект идет в 4 разных цветах, которые можно комбинировать так, как вам нравится. Набор одежды включает верх, низ, головной убор, обувь и 3 аксессуара.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181522/header.jpg?t=1708686882",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181522/header.jpg?t=1794901400",
           "release_date": {
             "coming_soon": false,
             "date": "2 ноя. 2023 г."
@@ -3192,7 +3192,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "В набор входит 10 предметов мебели, которые напоминают милых животных.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595760/header.jpg?t=1708687092",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595760/header.jpg?t=1794901158",
           "release_date": {
             "coming_soon": false,
             "date": "2 ноя. 2023 г."
@@ -3216,7 +3216,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Отправляйтесь в пустыню Песчаного Взгорья и попробуйте себя в роли начинающего мастера! Собирайте ресурсы, стройте машины и механизмы и превратите заброшенную мастерскую в отлично отлаженную фабрику, чтобы вырвать город из когтей грозящего ему разорения!",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595730/header.jpg?t=1722397017",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595730/header.jpg?t=1794902384",
           "release_date": {
             "coming_soon": false,
             "date": "2 ноя. 2023 г."
@@ -3567,8 +3567,7 @@
             "date": "27 янв. 2022 г."
           },
           "price": null,
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 1694800,
@@ -5278,7 +5277,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "Trouble brews at the Astral Academy (again)! The students are cursed, unable to wake up, while a mysterious spirit is on the loose in their deviously enchanting dreams. Trine 4: Melody of Mystery is a 6-level story for Amadeus, Pontius, and Zoya, with new abilities, puzzles and gameplay elements.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444560/header.jpg?t=1788963224",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444560/header.jpg?t=1794910941",
           "release_date": {
             "coming_soon": false,
             "date": "19 ноя. 2020 г."
@@ -5302,7 +5301,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "The official Melody of Mystery Soundtrack brings the latest Trine adventure to life! Listen closely and embrace the enchanted tunes as the Heroes of Trine venture through incredible dreamscapes, conjured by a mysterious spirit Melody and an alluring music box.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1503550/header.jpg?t=1609798716",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1503550/header.jpg?t=1794911013",
           "release_date": {
             "coming_soon": false,
             "date": "23 дек. 2020 г."
@@ -5340,7 +5339,7 @@
           "type": "music",
           "is_free": false,
           "short_description": "The original soundtrack to Trine 4: The Nightmare Prince is here! Composed by award-winning Ari Pulkkinen, the soundtrack has been praised across reviews as magical, enchanting and absolutely stellar! Over 100 minutes in 26 tracks, the Trine 4 soundtrack is the longest in the Trine series.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224800/header.jpg?t=1592993617",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224800/header.jpg?t=1794911038",
           "release_date": {
             "coming_soon": false,
             "date": "10 фев. 2020 г."
