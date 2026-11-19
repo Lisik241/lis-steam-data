@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-11-18T17:18:26+00:00",
+  "updated_at_utc": "2026-11-19T01:53:37+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 27,
@@ -885,17 +885,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:121900",
+          "reason": "ru_final_price:304900",
           "steam_type": "game",
           "steam_name": "Age of Wonders 4",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 304900,
-            "final": 121900,
-            "discount_percent": 60,
-            "initial_formatted": "3049 руб.",
-            "final_formatted": "1219 руб."
+            "final": 304900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "3049 руб."
           },
           "developers": [
             "Triumph Studios"
