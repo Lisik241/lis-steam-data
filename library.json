@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-19T11:47:17+00:00",
+  "updated_at_utc": "2026-11-20T11:47:43+00:00",
   "game_count": 82,
   "total_playtime_hours": 1258.5,
   "games": [
@@ -638,7 +638,7 @@
     },
     {
       "appid": 2004680,
-      "name": "Voidling Bound",
+      "name": "Voidling Bound: Creature Evolution Shooter",
       "playtime_forever_minutes": 340,
       "playtime_forever_hours": 5.7,
       "playtime_2weeks_minutes": 0,

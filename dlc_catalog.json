@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-19T11:47:17+00:00",
+  "updated_at_utc": "2026-11-20T11:47:43+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3592,7 +3592,8 @@
             "formatted_initial": "",
             "formatted_final": "229 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 1849470,
@@ -3631,8 +3632,7 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 2564570,
@@ -3696,15 +3696,14 @@
             "formatted_initial": "",
             "formatted_final": "599 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         }
       ]
     },
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3731,7 +3730,8 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 374040,
@@ -3755,11 +3755,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 7900,
             "initial_price": 79.0,
-            "final_price_minor_units": 7900,
-            "final_price": 79.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "79 руб."
+            "final_price_minor_units": 3900,
+            "final_price": 39.0,
+            "discount_percent": 51,
+            "formatted_initial": "79 руб.",
+            "formatted_final": "39 руб."
           },
           "store_details_available": true
         },
@@ -3793,11 +3793,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 8200,
             "initial_price": 82.0,
-            "final_price_minor_units": 8200,
-            "final_price": 82.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "82 руб."
+            "final_price_minor_units": 4100,
+            "final_price": 41.0,
+            "discount_percent": 50,
+            "formatted_initial": "82 руб.",
+            "formatted_final": "41 руб."
           },
           "store_details_available": true
         },
@@ -3817,11 +3817,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 8200,
             "initial_price": 82.0,
-            "final_price_minor_units": 8200,
-            "final_price": 82.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "82 руб."
+            "final_price_minor_units": 4100,
+            "final_price": 41.0,
+            "discount_percent": 50,
+            "formatted_initial": "82 руб.",
+            "formatted_final": "41 руб."
           },
           "store_details_available": true
         },
@@ -3841,11 +3841,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 25900,
             "initial_price": 259.0,
-            "final_price_minor_units": 25900,
-            "final_price": 259.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "259 руб."
+            "final_price_minor_units": 12900,
+            "final_price": 129.0,
+            "discount_percent": 50,
+            "formatted_initial": "259 руб.",
+            "formatted_final": "129 руб."
           },
           "store_details_available": true
         },
@@ -3865,11 +3865,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 25900,
             "initial_price": 259.0,
-            "final_price_minor_units": 25900,
-            "final_price": 259.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "259 руб."
+            "final_price_minor_units": 12900,
+            "final_price": 129.0,
+            "discount_percent": 50,
+            "formatted_initial": "259 руб.",
+            "formatted_final": "129 руб."
           },
           "store_details_available": true
         },
@@ -3889,11 +3889,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 7900,
             "initial_price": 79.0,
-            "final_price_minor_units": 7900,
-            "final_price": 79.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "79 руб."
+            "final_price_minor_units": 3900,
+            "final_price": 39.0,
+            "discount_percent": 51,
+            "formatted_initial": "79 руб.",
+            "formatted_final": "39 руб."
           },
           "store_details_available": true
         },
@@ -3927,11 +3927,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 9900,
             "initial_price": 99.0,
-            "final_price_minor_units": 9900,
-            "final_price": 99.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "99 руб."
+            "final_price_minor_units": 4900,
+            "final_price": 49.0,
+            "discount_percent": 51,
+            "formatted_initial": "99 руб.",
+            "formatted_final": "49 руб."
           },
           "store_details_available": true
         },
@@ -3951,11 +3951,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 7900,
             "initial_price": 79.0,
-            "final_price_minor_units": 7900,
-            "final_price": 79.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "79 руб."
+            "final_price_minor_units": 3900,
+            "final_price": 39.0,
+            "discount_percent": 51,
+            "formatted_initial": "79 руб.",
+            "formatted_final": "39 руб."
           },
           "store_details_available": true
         },
@@ -3975,11 +3975,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 7900,
             "initial_price": 79.0,
-            "final_price_minor_units": 7900,
-            "final_price": 79.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "79 руб."
+            "final_price_minor_units": 3900,
+            "final_price": 39.0,
+            "discount_percent": 51,
+            "formatted_initial": "79 руб.",
+            "formatted_final": "39 руб."
           },
           "store_details_available": true
         },
@@ -5050,11 +5050,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 14900,
             "initial_price": 149.0,
-            "final_price_minor_units": 7400,
-            "final_price": 74.0,
-            "discount_percent": 50,
-            "formatted_initial": "149 руб.",
-            "formatted_final": "74 руб."
+            "final_price_minor_units": 14900,
+            "final_price": 149.0,
+            "discount_percent": 0,
+            "formatted_initial": "",
+            "formatted_final": "149 руб."
           },
           "store_details_available": true
         }
@@ -5544,7 +5544,7 @@
     },
     {
       "game_appid": 2004680,
-      "game_name": "Voidling Bound",
+      "game_name": "Voidling Bound: Creature Evolution Shooter",
       "store_details_available": true,
       "dlc_count": 2,
       "dlc": [

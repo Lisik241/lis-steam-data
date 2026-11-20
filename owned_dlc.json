@@ -1,7 +1,7 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-19T11:47:17+00:00",
-  "catalog_updated_at_utc": "2026-11-19T11:47:17+00:00",
+  "updated_at_utc": "2026-11-20T11:47:43+00:00",
+  "catalog_updated_at_utc": "2026-11-20T11:47:43+00:00",
   "policy": {
     "new_dlc_status": "unknown",
     "paid_non_game_content": "Do not recommend paid cosmetics, music, artbooks, or bonus materials; alert only when free."
@@ -2561,7 +2561,7 @@
     },
     {
       "game_appid": 2004680,
-      "game_name": "Voidling Bound",
+      "game_name": "Voidling Bound: Creature Evolution Shooter",
       "known_dlc_count": 2,
       "owned_count": 0,
       "not_owned_count": 0,
