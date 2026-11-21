@@ -2,7 +2,7 @@
   "schema_version": "0.7.0",
   "source": "GamerPower",
   "source_attribution": "Data discovery by GamerPower.com",
-  "updated_at_utc": "2026-11-21T12:44:21+00:00",
+  "updated_at_utc": "2026-11-21T21:41:12+00:00",
   "run_degraded": false,
   "source_errors": [],
   "candidate_count": 27,
@@ -173,17 +173,17 @@
         "checked": true,
         "reachable": true,
         "verification": "not_free_in_ru",
-        "reason": "ru_final_price:38500",
+        "reason": "ru_final_price:15400",
         "steam_type": "game",
         "steam_name": "Dwarven Realms",
         "is_free": false,
         "price_overview": {
           "currency": "RUB",
           "initial": 38500,
-          "final": 38500,
-          "discount_percent": 0,
-          "initial_formatted": "",
-          "final_formatted": "385 руб."
+          "final": 15400,
+          "discount_percent": 60,
+          "initial_formatted": "385 руб.",
+          "final_formatted": "154 руб."
         },
         "developers": [
           "Crater Studios"
@@ -528,17 +528,17 @@
           "checked": true,
           "reachable": true,
           "verification": "not_free_in_ru",
-          "reason": "ru_final_price:158000",
+          "reason": "ru_final_price:39500",
           "steam_type": "game",
           "steam_name": "ENDLESS Space™ 2",
           "is_free": false,
           "price_overview": {
             "currency": "RUB",
             "initial": 158000,
-            "final": 158000,
-            "discount_percent": 0,
-            "initial_formatted": "",
-            "final_formatted": "1580 руб."
+            "final": 39500,
+            "discount_percent": 75,
+            "initial_formatted": "1580 руб.",
+            "final_formatted": "395 руб."
           },
           "developers": [
             "AMPLITUDE Studios"
