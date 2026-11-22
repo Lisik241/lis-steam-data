@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-21T11:14:04+00:00",
+  "updated_at_utc": "2026-11-22T11:33:15+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -28,11 +28,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 49900,
             "initial_price": 499.0,
-            "final_price_minor_units": 49900,
-            "final_price": 499.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "499 руб."
+            "final_price_minor_units": 32400,
+            "final_price": 324.0,
+            "discount_percent": 35,
+            "formatted_initial": "499 руб.",
+            "formatted_final": "324 руб."
           },
           "store_details_available": true
         },
@@ -52,11 +52,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 49900,
             "initial_price": 499.0,
-            "final_price_minor_units": 49900,
-            "final_price": 499.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "499 руб."
+            "final_price_minor_units": 39900,
+            "final_price": 399.0,
+            "discount_percent": 20,
+            "formatted_initial": "499 руб.",
+            "formatted_final": "399 руб."
           },
           "store_details_available": true
         },
@@ -76,11 +76,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 29900,
             "initial_price": 299.0,
-            "final_price_minor_units": 29900,
-            "final_price": 299.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "299 руб."
+            "final_price_minor_units": 23900,
+            "final_price": 239.0,
+            "discount_percent": 20,
+            "formatted_initial": "299 руб.",
+            "formatted_final": "239 руб."
           },
           "store_details_available": true
         }
@@ -3468,7 +3468,7 @@
     {
       "game_appid": 1184370,
       "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 14,
       "dlc": [
         {
@@ -3700,12 +3700,13 @@
           "store_details_available": true,
           "metadata_source": "previous_catalog"
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3732,12 +3733,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 12,
       "dlc": [
         {
@@ -3998,19 +4000,21 @@
           "price": null,
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 0,
-      "dlc": []
+      "dlc": [],
+      "dlc_data_source": "unavailable"
     },
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4205,7 +4209,8 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 1895880,
@@ -4218,7 +4223,7 @@
     {
       "game_appid": 2244130,
       "game_name": "Ratopia",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 1,
       "dlc": [
         {
@@ -4245,12 +4250,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 617290,
       "game_name": "Remnant: From the Ashes",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4301,12 +4307,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 294100,
       "game_name": "RimWorld",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 10,
       "dlc": [
         {
@@ -4549,12 +4556,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 526870,
       "game_name": "Satisfactory",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4595,7 +4603,8 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 1172620,
@@ -4608,7 +4617,7 @@
     {
       "game_appid": 4641700,
       "game_name": "Sill Cats ",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4793,12 +4802,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 433340,
       "game_name": "Slime Rancher",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 5,
       "dlc": [
         {
@@ -4901,7 +4911,8 @@
           "price": null,
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 1657630,

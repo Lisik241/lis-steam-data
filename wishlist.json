@@ -1,9 +1,9 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-21T11:14:04+00:00",
+  "updated_at_utc": "2026-11-22T11:33:15+00:00",
   "country_code": "RU",
   "language": "russian",
-  "wishlist_count": 13,
+  "wishlist_count": 14,
   "items": [
     {
       "appid": 1669000,
@@ -321,11 +321,49 @@
         "currency": "RUB",
         "initial_price_minor_units": 126900,
         "initial_price": 1269.0,
-        "final_price_minor_units": 126900,
-        "final_price": 1269.0,
+        "final_price_minor_units": 63400,
+        "final_price": 634.0,
+        "discount_percent": 50,
+        "formatted_initial": "1269 руб.",
+        "formatted_final": "634 руб."
+      },
+      "store_details_available": true
+    },
+    {
+      "appid": 257510,
+      "name": "The Talos Principle",
+      "priority": 0,
+      "date_added_utc": "2026-11-22T07:56:57+00:00",
+      "type": "game",
+      "is_free": false,
+      "short_description": "The Talos Principle - головоломка от первого лица в лучших традициях научно-философской фантастики. Разработана Croteam, создателями Serious Sam, в соавторстве с Томом Жубертом (FTL, The Swapper) и Йонасом Киратзесом (The Sea Will Claim Everything).",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg?t=1744327639",
+      "release_date": {
+        "coming_soon": false,
+        "date": "11 дек. 2014 г."
+      },
+      "developers": [
+        "Croteam"
+      ],
+      "publishers": [
+        "Devolver Digital",
+        "Croteam"
+      ],
+      "genres": [
+        "Экшены",
+        "Приключенческие игры",
+        "Инди"
+      ],
+      "price": {
+        "country_code": "RU",
+        "currency": "RUB",
+        "initial_price_minor_units": 110000,
+        "initial_price": 1100.0,
+        "final_price_minor_units": 110000,
+        "final_price": 1100.0,
         "discount_percent": 0,
         "formatted_initial": "",
-        "formatted_final": "1269 руб."
+        "formatted_final": "1100 руб."
       },
       "store_details_available": true
     },
