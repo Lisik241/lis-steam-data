@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-23T12:57:49+00:00",
+  "updated_at_utc": "2026-11-24T13:50:44+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3468,7 +3468,7 @@
     {
       "game_appid": 1184370,
       "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 14,
       "dlc": [
         {
@@ -3567,8 +3567,7 @@
             "date": "27 янв. 2022 г."
           },
           "price": null,
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 1694800,
@@ -3592,8 +3591,7 @@
             "formatted_initial": "",
             "formatted_final": "229 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 1849470,
@@ -3700,13 +3698,12 @@
           "store_details_available": true,
           "metadata_source": "previous_catalog"
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3733,13 +3730,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 12,
       "dlc": [
         {
@@ -4000,21 +3996,19 @@
           "price": null,
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 0,
-      "dlc": [],
-      "dlc_data_source": "unavailable"
+      "dlc": []
     },
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4209,8 +4203,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 1895880,
@@ -4223,7 +4216,7 @@
     {
       "game_appid": 2244130,
       "game_name": "Ratopia",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 1,
       "dlc": [
         {
@@ -4250,13 +4243,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 617290,
       "game_name": "Remnant: From the Ashes",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4307,13 +4299,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 294100,
       "game_name": "RimWorld",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 10,
       "dlc": [
         {
@@ -4556,8 +4547,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 526870,
@@ -4577,8 +4567,7 @@
             "date": "Ещё не объявлена"
           },
           "price": null,
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         },
         {
           "appid": 2873550,
@@ -4602,8 +4591,7 @@
             "formatted_initial": "",
             "formatted_final": "320 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         }
       ]
     },
