@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-24T13:50:44+00:00",
+  "updated_at_utc": "2026-11-25T13:03:30+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3444,8 +3444,8 @@
           "name": "Palworld - Soundtrack",
           "type": "music",
           "is_free": false,
-          "short_description": "Palworld sounds are composed by Tatsuya Yano, who creates Atelier series musics.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2771110/7268b209c4f9610fe805f324c75d97a63358a8a3/header.jpg?t=1794480701",
+          "short_description": "■ Грандиозная музыка, украшающая игру Музыку к игре написал Тацуя Яно (@boundnotes), автор музыки к серии Atelier!",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2771110/7268b209c4f9610fe805f324c75d97a63358a8a3/header.jpg?t=1795591651",
           "release_date": {
             "coming_soon": false,
             "date": "19 янв. 2024 г."
@@ -3468,7 +3468,7 @@
     {
       "game_appid": 1184370,
       "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 14,
       "dlc": [
         {
@@ -3698,12 +3698,13 @@
           "store_details_available": true,
           "metadata_source": "previous_catalog"
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3730,12 +3731,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 12,
       "dlc": [
         {
@@ -3996,19 +3998,21 @@
           "price": null,
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 0,
-      "dlc": []
+      "dlc": [],
+      "dlc_data_source": "unavailable"
     },
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4203,7 +4207,8 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 1895880,
@@ -4216,7 +4221,7 @@
     {
       "game_appid": 2244130,
       "game_name": "Ratopia",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 1,
       "dlc": [
         {
@@ -4243,12 +4248,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 617290,
       "game_name": "Remnant: From the Ashes",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4299,12 +4305,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 294100,
       "game_name": "RimWorld",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 10,
       "dlc": [
         {
@@ -4547,12 +4554,13 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 526870,
       "game_name": "Satisfactory",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4593,7 +4601,8 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 1172620,
@@ -4606,7 +4615,7 @@
     {
       "game_appid": 4641700,
       "game_name": "Sill Cats ",
-      "store_details_available": true,
+      "store_details_available": false,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4791,7 +4800,8 @@
           },
           "store_details_available": true
         }
-      ]
+      ],
+      "dlc_data_source": "previous_catalog"
     },
     {
       "game_appid": 433340,
