@@ -1,10 +1,10 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-25T13:03:30+00:00",
+  "updated_at_utc": "2026-11-26T12:44:16+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
-  "total_dlc_count": 236,
+  "total_dlc_count": 237,
   "games": [
     {
       "game_appid": 1336490,
@@ -66,7 +66,7 @@
           "type": "dlc",
           "is_free": false,
           "short_description": "В набор Against the Storm Supporter Pack вошел официальный саундтрек Against the Storm, а также обои в формате 4K, наборы эмодзи, официальный цифровой артбук объемом 300+ страниц, посвященный процессу разработки, и многое другое.",
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712950/header_russian.jpg?t=1793357586",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712950/header_russian.jpg?t=1795686466",
           "release_date": {
             "coming_soon": false,
             "date": "8 дек. 2023 г."
@@ -2689,8 +2689,22 @@
       "game_appid": 2456740,
       "game_name": "inZOI",
       "store_details_available": true,
-      "dlc_count": 1,
+      "dlc_count": 2,
       "dlc": [
+        {
+          "appid": 5566040,
+          "name": "inZOI: В центре внимания",
+          "type": "dlc",
+          "is_free": false,
+          "short_description": "Ваша история. Ваша сцена. Ваш путь к славе. Шагните в свет софитов и окунитесь в мир шоу-бизнеса! Станьте стажёром айдола или пройдите кастинг на роль. Создавайте концерты, снимайтесь в фильмах четырёх жанров и живите как звезда в новом блестящем городе Эвермонт.",
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566040/d8d119d7f93eb92c2c84cae61baf8e5c437a3cef/header.jpg?t=1795682363",
+          "release_date": {
+            "coming_soon": true,
+            "date": "2 дек. 2026 г."
+          },
+          "price": null,
+          "store_details_available": true
+        },
         {
           "appid": 3887680,
           "name": "inZOI: отдых на острове",
@@ -3461,7 +3475,8 @@
             "formatted_initial": "",
             "formatted_final": "240 руб."
           },
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         }
       ]
     },
@@ -4004,10 +4019,9 @@
     {
       "game_appid": 108600,
       "game_name": "Project Zomboid",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 0,
-      "dlc": [],
-      "dlc_data_source": "unavailable"
+      "dlc": []
     },
     {
       "game_appid": 312520,
@@ -4615,7 +4629,7 @@
     {
       "game_appid": 4641700,
       "game_name": "Sill Cats ",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4800,8 +4814,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 433340,
