@@ -1,33 +1,118 @@
 {
   "schema_version": "0.7.0",
-  "updated_at_utc": "2026-11-27T00:38:09+00:00",
+  "updated_at_utc": "2026-11-27T13:56:46+00:00",
   "run_degraded": false,
   "source_errors": [],
   "input_status": {
     "library": {
       "stale": false,
-      "age_seconds": 42833,
+      "age_seconds": 4955,
       "reason": null
     },
     "owned_dlc": {
       "stale": false,
-      "age_seconds": 42833,
+      "age_seconds": 4955,
       "reason": null
     },
     "taste_profile_loaded": true
   },
   "region": "RU",
-  "match_count": 12,
+  "match_count": 13,
   "bands": {
     "must_claim": 0,
     "likely_match": 0,
     "conditional": 0,
     "family_only": 0,
-    "needs_review": 5,
+    "needs_review": 6,
     "low_priority": 1,
     "skip": 6
   },
   "items": [
+    {
+      "source": "GamerPower",
+      "source_id": 3859,
+      "title": "Vertical Drop Heroes HD",
+      "source_title": "Vertical Drop Heroes HD Steam Key Giveaway",
+      "type": "Game",
+      "platforms": "PC, Steam",
+      "description": "Claim your free Vertical Drop Heroes HD Steam key via Fanatical and keep this Steam game forever! Vertical Drop Heroes is a 2d procedural platformer RPG with roguelike elements. Don´t miss it!",
+      "instructions": "1. Login into your Fanatical account and subscribe to their newsletter\r\n2. Link a valid Steam account and unlock your Steam key!\r\n3. Launch the Steam client and click the Games menu option.\r\n4. Choose \"activate a Product on Steam\" to redeem your Steam key.",
+      "worth": "$6.99",
+      "published_date": "2026-11-27 06:19:05",
+      "end_date": "2026-11-28 23:59:00",
+      "status": "Active",
+      "delivery": "external_steam_key",
+      "content_kind": "game_or_other",
+      "gamerpower_url": "https://www.gamerpower.com/vertical-drop-heroes-hd-steam-key-giveaway",
+      "key_region_status": "unknown_no_explicit_ru_block_seen",
+      "pre_filter": {
+        "rejected": false,
+        "reason": null
+      },
+      "steam_match": {
+        "appid": 311480,
+        "name": "Vertical Drop Heroes HD",
+        "search_match_score": 1.0,
+        "query_used": "Vertical Drop Heroes HD",
+        "lookup_mode": "candidate_title_variants",
+        "matched_product_role": "candidate_product"
+      },
+      "steam_ru": {
+        "appid": 311480,
+        "checked": true,
+        "reachable": true,
+        "verification": "not_free_in_ru",
+        "reason": "ru_final_price:16900",
+        "steam_type": "game",
+        "steam_name": "Vertical Drop Heroes HD",
+        "is_free": false,
+        "price_overview": {
+          "currency": "RUB",
+          "initial": 16900,
+          "final": 16900,
+          "discount_percent": 0,
+          "initial_formatted": "",
+          "final_formatted": "169 руб."
+        },
+        "developers": [
+          "Nerdook Productions"
+        ],
+        "publishers": [
+          "Nerdook Productions"
+        ],
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "categories": [
+          "Single-player",
+          "Multi-player",
+          "Co-op",
+          "Shared/Split Screen",
+          "Steam Achievements",
+          "Partial Controller Support",
+          "Stats",
+          "Steam Leaderboards",
+          "Remote Play Together",
+          "Family Sharing"
+        ],
+        "short_description": "Vertical Drop Heroes is a procedural platformer RPG hybrid with roguelike elements, where your hero adventures through randomly generated stages. Armed with a variety of skills and traits, you must use your cunning and reflexes to survive the dangers of each stage.",
+        "dlc": [
+          329370
+        ],
+        "fullgame": null
+      },
+      "taste": {
+        "score": 1,
+        "positive_signals": [
+          "genre:roguelike_and_roguelite"
+        ],
+        "negative_signals": [],
+        "matched_concepts": [],
+        "band": "needs_review",
+        "explanation": "external Steam key; store price does not invalidate the giveaway; positive fit: genre:roguelike_and_roguelite"
+      }
+    },
     {
       "source": "GamerPower",
       "source_id": 2856,
