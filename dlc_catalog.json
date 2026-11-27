@@ -1,6 +1,6 @@
 {
   "steamid": "76561199832779057",
-  "updated_at_utc": "2026-11-26T12:44:16+00:00",
+  "updated_at_utc": "2026-11-27T12:34:11+00:00",
   "country_code": "RU",
   "language": "russian",
   "game_count_checked": 82,
@@ -3475,15 +3475,14 @@
             "formatted_initial": "",
             "formatted_final": "240 руб."
           },
-          "store_details_available": true,
-          "metadata_source": "previous_catalog"
+          "store_details_available": true
         }
       ]
     },
     {
       "game_appid": 1184370,
       "game_name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 14,
       "dlc": [
         {
@@ -3582,7 +3581,8 @@
             "date": "27 янв. 2022 г."
           },
           "price": null,
-          "store_details_available": true
+          "store_details_available": true,
+          "metadata_source": "previous_catalog"
         },
         {
           "appid": 1694800,
@@ -3713,13 +3713,12 @@
           "store_details_available": true,
           "metadata_source": "previous_catalog"
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 405640,
       "game_name": "Pony Island",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 1,
       "dlc": [
         {
@@ -3746,13 +3745,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 374040,
       "game_name": "Portal Knights",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 12,
       "dlc": [
         {
@@ -4013,8 +4011,7 @@
           "price": null,
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 108600,
@@ -4026,7 +4023,7 @@
     {
       "game_appid": 312520,
       "game_name": "Rain World",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 8,
       "dlc": [
         {
@@ -4221,8 +4218,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 1895880,
@@ -4235,7 +4231,7 @@
     {
       "game_appid": 2244130,
       "game_name": "Ratopia",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 1,
       "dlc": [
         {
@@ -4262,13 +4258,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 617290,
       "game_name": "Remnant: From the Ashes",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4319,13 +4314,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 294100,
       "game_name": "RimWorld",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 10,
       "dlc": [
         {
@@ -4568,13 +4562,12 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 526870,
       "game_name": "Satisfactory",
-      "store_details_available": false,
+      "store_details_available": true,
       "dlc_count": 2,
       "dlc": [
         {
@@ -4615,8 +4608,7 @@
           },
           "store_details_available": true
         }
-      ],
-      "dlc_data_source": "previous_catalog"
+      ]
     },
     {
       "game_appid": 1172620,
@@ -5586,11 +5578,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 59000,
             "initial_price": 590.0,
-            "final_price_minor_units": 59000,
-            "final_price": 590.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "590 руб."
+            "final_price_minor_units": 47200,
+            "final_price": 472.0,
+            "discount_percent": 20,
+            "formatted_initial": "590 руб.",
+            "formatted_final": "472 руб."
           },
           "store_details_available": true
         },
@@ -5610,11 +5602,11 @@
             "currency": "RUB",
             "initial_price_minor_units": 46500,
             "initial_price": 465.0,
-            "final_price_minor_units": 46500,
-            "final_price": 465.0,
-            "discount_percent": 0,
-            "formatted_initial": "",
-            "formatted_final": "465 руб."
+            "final_price_minor_units": 37200,
+            "final_price": 372.0,
+            "discount_percent": 20,
+            "formatted_initial": "465 руб.",
+            "formatted_final": "372 руб."
           },
           "store_details_available": true
         }
